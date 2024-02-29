@@ -2,9 +2,11 @@
 
 ## Sources
 
-- https://github.com/thisdot/tech-community-slacks
-- https://github.com/itzsaga/slack-list
-- https://github.com/phpearth/awesome-community
+- [Awesome Community](https://github.com/phpearth/awesome-community)
+- [Slack List](https://slack.directory/)
+- This Dot
+  - [Tech Community Slacks](https://github.com/thisdot/tech-community-slacks)
+  - [Local Slack Channels by region](https://medium.com/@thisdotmedia/local-slack-channels-by-region-9ed641910835)
 
 ## Regional
 
@@ -12,221 +14,286 @@
 
 #### Alabama
 
-- [Magic City Tech](http://magiccitytech.org/) - Birmingham
-- [tech256](https://tech256.com/) - Huntsville/Shoals/North Alabama
+- [Magic City Tech](http://magiccitytech.org/) – `Slack` – Birmingham area – Magic City Tech is a group for Birmingham area developers, designers, marketers, business people, hobbyists, students, and other professionals involved in technology.
+- [tech256](https://tech256.com/) – `Slack` – Huntsville/Shoals/North Alabama – We're a group of developers, designers, marketers, business people, hobbyists, students, and other professionals with two common interests: North Alabama and technology.
 
 #### Arizona
 
-- [AZ WebDevs](https://azwebdevs.org/signin)
+##### _Inactive or can't sign up_
+
+- [AZ Devs](https://azdevs.org/) – `Slack` – Statewide – Link is dead, but Slack is definitely active (as of 2024-02-29)
 
 #### Arkansas
 
-- [Northwest Arkansas Devs](https://nwa-devs-slackgroup.herokuapp.com/) - Fayetteville/Rogers
-- [Little Rock Tech Fest](https://lrdev.typeform.com/to/aZ9Hr8?fbclid=IwAR3PhhP5XQZzcFmYo2DDfDo_CeQgA9SXCrZmZnl2_ERaWo5uIqV0wM7Ixro) - Little Rock
+- [Little Rock Dev Slack](https://lrdev.typeform.com/to/aZ9Hr8?fbclid=IwAR3PhhP5XQZzcFmYo2DDfDo_CeQgA9SXCrZmZnl2_ERaWo5uIqV0wM7Ixro) – `Slack` – Little Rock
+
+#### _Inactive or can't sign up_
+
+- [Northwest Arkansas Devs](https://nwa-devs-slackgroup.herokuapp.com/) – `Slack` – Fayetteville/Rogers – Link is dead
 
 #### California
 
-- [js.la - Los Angeles JavaScript](https://join-jsla-slack.herokuapp.com/)
-- [Los Angeles Scala Users Group](https://lascalausers.slack.com/)
-- [Santa Barbara Tech Co-op](https://sbtechcoop.slack.com/)
-- [Sacramento Javascript Meetup](https://sac-tech.herokuapp.com/)
+- [js.la](https://js.la/) – `Slack` – Los Angeles – The Los Angeles JavaScript meetup
+
+##### _Inactive or can't sign up_
+
+- [Los Angeles Scala Users Group](https://lascalausers.slack.com/) – `Slack` – Los Angeles – Signup is disabled
+- [Santa Barbara Tech Co-op](https://sbtechcoop.slack.com/) – `Slack` – Santa Barbara – Can only sign up with email address at a few obscure domains
+- [Sacramento Javascript Meetup](https://sac-tech.herokuapp.com/) – Sacramento – Link is dead
 
 #### Colorado
 
-- [Angular Colorado](https://angularcolorado.com/)
-- [Colorado Freelance Web Developers](http://co-freelance-webdevs.slack.com/)
-- [Colorado-Security](colorado-security.slack.com) - Active community for fellow Coloradoan security professional to discuss work, local news, and events
-- [Colorado Springs Developers](https://coloradospringsdevs.herokuapp.com/)
-- [Colorado Tech Community](https://coloradotech.community/)
-- [Denver Tech Social Club](https://www.denvertechsocial.club/)
-- [Denver Tech Talk](https://denvertechtalk.com/)
-- [Fort Collins Internet Professionals](http://fcip.slack.com/)
-- [Made In Loveland](http://madeinloveland.slack.com/)
-- [Tech Friends](https://www.gettechfriends.com/)
+- [Angular Colorado](https://slack.angularcolorado.com/) – `Slack` – Statewide
+- [Colorado Tech Community](https://coloradotech.community/) – `Discord` – Statewide
+- [Denver Tech Social Club](https://www.denvertechsocial.club/) – `Discord` `Meetup` – Denver
+- [Denver Tech Talk](https://denvertechtalk.com/) – `Slack` – Denver
+- [Tech Friends](https://www.gettechfriends.com/) – `Slack` – Front Range
+
+##### _Inactive or can't sign up_
+
+- [Colorado Freelance Web Developers](http://co-freelance-webdevs.slack.com/) – `Slack` – Statewide – Signup is disabled
+- [Colorado-Security](https://colorado-security.slack.com/) – `Slack` – Statewide – Signup is disabled – Active community for fellow Coloradoan security professional to discuss work, local news, and events
+- [Colorado Springs Developers](https://coloradospringsdevs.herokuapp.com/) – Colorado Springs – Link is dead
+- [Fort Collins Internet Professionals](http://fcip.slack.com/) – `Slack` – Fort Collins – Can only sign up with email address at a few obscure domains
+- [Made In Loveland](http://madeinloveland.slack.com/) – `Slack` – Loveland – Can only sign up with email address at a few obscure domains
 
 #### Connecticut
 
-- [New Haven.io](https://newhaven.io)
+- [New Haven.io](https://newhaven.io) – `Discord` `Meetup` – New Haven
 
 #### Florida
 
-- Miami
-	- [Front End Developers of Miami](http://fedm.herokuapp.com/)
-	- [Wynwood Tech](https://wyn.tech/)
-- Tampa
-	- [Tampa Bay Tech](http://tampabaytech.org/slack/)
-	- [Tampa Devs](https://tampadevs.com)
-- [SWFL Coders](http://swflcoders.slack.com/) - Ft. Myers
-- [GNV Connect](https://gnvconnect.com/) - Gainesville
-- [Jacksonville Tech Community](http://jacksonville-tech.com/) - Jacksonville
-- [Orlando Devs](https://orlandodevs.com/slack) - Orlando
-- [Suncoast Developers Guild](https://suncoast-devs.slack.com/) - St. Petersburg
+- [Tampa Devs](https://tampadevs.com) – `Slack` `Meetup` – Tampa
+- [Orlando Devs](https://orlandodevs.com/slack) – `Slack` – Orlando
+
+##### _Inactive or can't sign up_
+
+- [Front End Developers of Miami](http://fedm.herokuapp.com/) – Miami – Link is dead
+- [Wynwood Tech](https://wyn.tech/) – Miami – Link is dead
+- [Tampa Bay Tech](http://tampabaytech.org/slack/) – `Slack` – Tampa – Embedded signup form is dead
+- [SWFL Coders](http://swflcoders.slack.com/) – `Slack` – Ft. Myers – Signup is disabled
+- [GNV Connect](https://gnvconnect.com/) – Gainesville – Can only sign up with email address at a few obscure domains
+- [Jacksonville Tech Community](http://jacksonville-tech.com/) – Jacksonville – Link is dead
+- [Suncoast Developers Guild](https://suncoast-devs.slack.com/) – `Slack` – St. Petersburg – Signup is disabled
 
 #### Georgia
 
-- [TechSAV](https://techsav.co/) - Savannah
-- [Tech 404](http://tech404.io/) - Atlanta
-- [AthDev](https://athdev.org) - Athens
+- [TechSAV](https://techsav.co/) – `Slack` `Meetup` – Savannah
+- [Tech 404](http://tech404.io/) – `Slack` – Atlanta
+
+##### _Inactive or can't sign up_
+
+- [AthDev](https://athdev.org) – `Slack` – Athens - Link is dead
 
 #### Hawaii
+
+##### _Not tech-focused_
 
 - [Hawaii Slack](https://hawaiislack.com/)
 
 #### Illinois
 
-- [AWS Chicago](http://slack.chicagoaws.com/)
-- [ChiPy (Chicago Python User Group)](https://www.chipy.org/)
-- [Chicago Tech Diversity Initiative](https://chitechdiversity.slack.com/)
-- [Chicago Tech Slack](https://www.chicagotechslack.com/)
-	- https://www.meetup.com/chicago-tech-slackers/
-	- https://re-factor.co/
+- [ChiPy (Chicago Python User Group)](https://www.chipy.org/) – `Slack` `Meetup` – Chicago
+- [Chicago Tech Slack](https://www.chicagotechslack.com/) – `Slack` `Meetup` – Chicago
+  - https://www.meetup.com/chicago-tech-slackers/
+  - https://re-factor.co/
+
+##### _Inactive or can't sign up_
+
+- [AWS Chicago](http://slack.chicagoaws.com/) – `Slack` – Chicago – Link is dead
+- [Chicago Tech Diversity Initiative](https://chitechdiversity.slack.com/) – `Slack` – Chicago – Signup is disabled
 
 #### Indiana
 
-- [Indy Hackers](http://indyhackers-slack.herokuapp.com/)
+##### _Inactive or can't sign up_
+
+- [Indy Hackers](http://indyhackers-slack.herokuapp.com/) – `Slack` – Statewide – Form is broken
 
 #### Iowa
 
-- [Central Iowa Linux User's Group](http://www.cialug.org/)(https://cialug.slack.com/)
+- [Central Iowa Linux User Group](http://www.cialug.org/) – `Slack` `IRC` – Central Iowa
+- [Startup Iowa](http://www.startupiowachat.com/) – `Slack` – Statewide
+
+##### _Inactive or can't sign up_
+
 - [Des Moines Web Collective](http://dsmwebcollective.com/)(https://dsmwebcollective.herokuapp.com/)
 - [Des Moines Web Geeks](http://www.dsmwebgeeks.com/)(https://dsmwebgeeks.slack.com/)
 - [SecDSM](https://secdsm.org/)(https://secdsm.slack.com/)
-- [Startup Iowa](http://www.startupiowachat.com/)
 - [WordPress Des Moines](http://wpdsm.org/)(http://wordpressdsm.herokuapp.com/)
 
 #### Kansas
 
-- [devICT](https://devict-slackin.herokuapp.com/)
+##### _Inactive or can't sign up_
+
+- [devICT](https://devict-slackin.herokuapp.com/) – `Slack` – Link is dead
 
 #### Kentucky
 
-- Louisville.io
-	- http://louisville.io
-	- http://louisville.slack.com
-	- http://slackin.louisville.io/
-- Lexington:
-	- [Bluegrass Developers Guild](https://www.bluegrassdevs.org/)
-	- [Startup Lexington](https://www.startuplexington.org/)
+- [Bluegrass Developers Guild](https://www.bluegrassdevs.org/) – `Slack` `Meetup` – Lexington
+
+##### _Inactive or can't sign up_
+
+- [Startup Lexington](https://www.startuplexington.org/) – `Slack` – Lexington – Signup link is broken
+- [Louisville.io](http://louisville.io) – `Slack` – Louisville – All links are broken
+  - http://louisville.slack.com
+  - http://slackin.louisville.io/
 
 #### Maryland
 
-- [Baltimore Tech](http://baltimoretech-slack.herokuapp.com/)
+##### _Inactive or can't sign up_
+
+- [Baltimore Tech](http://baltimoretech-slack.herokuapp.com/) – `Slack` – Baltimore – Link is dead
 
 #### Michigan
 
-- [Detroit Speakers in Tech](https://tinyurl.com/Join-DSIT-Slack) in Detroit area
-- [Startup Lansing](http://startuplansing.org/join-slack/) in St.Louis
+##### _Inactive or can't sign up_
+
+- [Detroit Speakers in Tech](https://tinyurl.com/Join-DSIT-Slack) – `Slack` – Detroit area – Link is dead
+- [Startup Lansing](http://startuplansing.org/join-slack/) – `Slack` – St. Louis/Lansing area – Link is dead
 
 #### Minnesota
 
-- [MSPTech](http://www.msptech.online/)
-- [Twin Cities Chaos Engineering Community](http://twincities-chaosengr.slack.com)
+##### _Inactive or can't sign up_
+
+- [MSPTech](http://www.msptech.online/) – Twin Cities – Link is dead
+- [Twin Cities Chaos Engineering Community](http://twincities-chaosengr.slack.com) – `Slack` – Can only sign up with email address at a few obscure domains
 
 #### Missouri
 
-- [KC Tech Group](https://kctechgroup.org/)
-- [KC Women in Tech](https://kcwomenintech.org/)
-- [SecKC](https://seckc.org/)(https://seckc.slack.com/)
-- [SGF Web Devs](http://sgfwebdevs.com/)(https://sgfwebdevs.slack.com/)
+- [KC Women in Tech](https://kcwomenintech.org/) – `Slack` – Kansas City
+
+##### _Inactive or can't sign up_
+
+- [KC Tech Group](https://kctechgroup.org/) – `Slack` – Kansas City – Signup is disabled
+- [SecKC](https://seckc.org/)(https://seckc.slack.com/) – `Slack` – Kansas City – Can only sign up with email address at a few obscure domains
+- [SGF Web Devs](http://sgfwebdevs.com/)(https://sgfwebdevs.slack.com/) `Slack` – Springfield/Branson area – Signup is disabled
 
 #### New Mexico
 
-- [Tech Community of New Mexico](http://techcommunityofnm.org/)
+##### _Inactive or can't sign up_
+
+- [Tech Community of New Mexico](http://techcommunityofnm.org/) – Statewide – Link is dead
 
 #### New York
 
-- [BoroJS](http://slack.borojs.com/)
-- [NYC DevOps](https://launchpass.com/nycdevops)
-- [NYC Devs](http://www.nycdevs.org)
-- [NYC Tech](http://www.nyctechslack.com/)
+- [NYC DevOps](https://launchpass.com/nycdevops) – `Slack` – NYC
+- [NYC Tech](http://www.nyctechslack.com/) – `Slack` – NYC
+
+##### _Inactive or can't sign up_
+
+- [BoroJS](http://slack.borojs.com/) – `Slack` – Link is dead
+- [NYC Devs](http://www.nycdevs.org) – NYC – Link is dead
 
 #### North Carolina
 
-- [Charlotte Devs](https://slack.charlottedevs.com/) - Charlotte
-- [Triangle Devs](https://triangledevslack.com/) - Raleigh/Durham
+- [Triangle Devs](https://triangledevslack.com/) – `Slack` `Meetup` `Discord` – Raleigh/Durham
+
+##### _Inactive or can't sign up_
+
+- [Charlotte Devs](https://slack.charlottedevs.com/) – `Slack` – Charlotte – Link is dead
 
 #### Ohio
 
-- [TechLife Columbus](https://techlife-columbus-slack.herokuapp.com/)
-- [Cleveland Tech](https://cleveland-tech.herokuapp.com/)
-- [Cincy Tech Slack](https://cincytech.slack.com)
-- [Code Youngstown Slack](http://slack.codeyoungstown.com)
+- [Code Youngstown Slack](http://slack.codeyoungstown.com) – `Slack` – Youngstown
+
+##### _Inactive or can't sign up_
+
+- [TechLife Columbus](https://techlife-columbus-slack.herokuapp.com/) – `Slack` – Columbus – Link is dead
+- [Cleveland Tech](https://cleveland-tech.herokuapp.com/) – Cleveland – Link is dead
+- [Cincy Tech Slack](https://cincytech.slack.com) – `Slack` – Cincinnati – Signup is disabled
 
 #### Oklahoma
 
-- [Techlahoma](http://slack.techlahoma.org/)
+- [Techlahoma](http://slack.techlahoma.org/) – `Slack` – Statewide
 
 #### Oregon
 
-- [Infinite Red Community](https://infiniteredcommunity.herokuapp.com/)
-- [Node PDX](http://nodepdx.slack.com/)
-- [Portland ReactJS](https://portlandreactjs.herokuapp.com/)
-- [pdxstartups](https://pdx-startups-slack.herokuapp.com/)
-- [Women Who Code PDX](https://bit.ly/wwcpdx-slack)
+- [Women Who Code PDX](https://bit.ly/wwcpdx-slack) – `Slack` – Portland
+
+##### _Inactive or can't sign up_
+
+- [Infinite Red Community](https://infiniteredcommunity.herokuapp.com/) – Link is dead
+- [Node PDX](http://nodepdx.slack.com/) – `Slack` – Portland – Signup is disabled
+- [Portland ReactJS](https://portlandreactjs.herokuapp.com/) – `Slack` – Portland – Link is dead
+- [pdxstartups](https://pdx-startups-slack.herokuapp.com/) – `Slack` – Portland – Link is dead
 
 #### Pennsylvania
 
-- Philadelphia
-	- [Code for Philly](https://codeforphilly.org/register)
-	- [PhillyDev](https://phillydev.org/)
-	- [Philly Startup Leaders](https://www.sendgrowth.com/psl/)
-	- [Phl Design](https://docs.google.com/forms/d/e/1FAIpQLScaAROJx4kZQ7cPhATWWhfmpHK3YP6ourLgPalPwRqIMI1bmg/viewform?c=0&w=1)
-- Northeast
-	- [NEPA Tech & NEPA.js](https://nepatech.slack.com/)
-	- [Wilkes-Barre Programming Community](https://wbpc-meetup.slack.com/)
-- Pittsburgh
-	- [Code & Supply](https://codeandsupply.co/chat)
-- Lancaster
-	- [Lancaster Technologists](https://amishtech.slack.com/)
+- [Code & Supply](https://codeandsupply.co/chat) – `Slack` `Discord` – Pittsburgh
+- [Code for Philly](https://codeforphilly.org/register) – `Slack` – Philadelphia
+- [NEPA Tech](https://nepatech.slack.com/) – `Slack` – Northeast Pennsylvania
+- [The Philly Startup Leaders](https://www.sendgrowth.com/psl/) – `Slack` – Philadelphia
+
+##### _Inactive or can't sign up_
+
+- [Lancaster Technologists](https://amishtech.slack.com/) – `Slack` – Lancaster – Can only sign up with email address at a few obscure domains
+- [PhillyDev](https://phillydev.org/) – `Slack` – Philadelphia – Signup form is missing
+- [Phl Design](https://docs.google.com/forms/d/e/1FAIpQLScaAROJx4kZQ7cPhATWWhfmpHK3YP6ourLgPalPwRqIMI1bmg/viewform?c=0&w=1) – Philadelphia – Link is dead
+- [Wilkes-Barre Programming Community](https://wbpc-meetup.slack.com/) – `Slack` – Northeast Pennsylvania – Signup is disabled
 
 #### Tennessee
 
-- [Chadev](https://chadev.com) - Chattanooga
-- [Devanooga](https://www.devanooga.com/slack/) - Chattanooga
-- [KnoxDevs](http://knoxdevs-slackin.herokuapp.com/) - Knoxville
-- [MTF](http://slack.memphistechnology.org/) - Memphis
-- [BoroDev](https://www.meetup.com/BoroDev/) - Murfreesboro
-- [NashDev](http://nashdev.com/) - Nashville
-- [TriDev](https://www.meetup.com/TriDev/) - Tri-Cities
+- [Chadev](https://chadev.com) – `Slack` – Chattanooga
+- [Devanooga](https://www.devanooga.com/slack/) – `Slack` – Chattanooga
+- [BoroDev](https://www.meetup.com/BoroDev/) – `Slack` `Meetup` – Murfreesboro
+- [NashDev](http://nashdev.com/) – `Slack` – Nashville
+- [TriDev](https://www.meetup.com/TriDev/) – `Meetup` – Tri-Cities
+
+##### _Inactive or can't sign up_
+
+- [KnoxDevs](http://knoxdevs-slackin.herokuapp.com/) – `Slack` – Knoxville – Link is dead
+- [MTF](http://slack.memphistechnology.org/) – `Slack` - Memphis – Link is dead
 
 #### Texas
 
-- [Weird Swift ATX](https://weirdswiftslack.mybluemix.net/)
-- [Refresh Austin](http://slack.refreshaustin.org/) - community of designers and developers
-- [Austin Code Mentorship](https://codementorship.slack.com)
-- [Open Austin](https://slack.open-austin.org/) - citizen brigade advocating for open government, open data
-- [San Antonio Devs](https://sanantoniodevs.com)
+- [San Antonio Devs](https://sanantoniodevs.com) – `Slack` – San Antonio
+
+##### _Inactive or can't sign up_
+
+- [Austin Code Mentorship](https://codementorship.slack.com) – `Slack` – Austin – Signup is disabled
+- [Open Austin](https://slack.open-austin.org/) – `Slack` – Austin – Link is dead – Citizen brigade advocating for open government, open data
+- [Refresh Austin](http://slack.refreshaustin.org/) – `Slack` – Austin – Link is dead – Community of designers and developers
+- [Weird Swift ATX](https://weirdswiftslack.mybluemix.net/) – Austin – Link is dead
 
 #### Utah
 
-- [QA Utah](https://qautah.slack.com/)
-- [UtahJS](https://slack.utahjs.com/)
-- [Utah Ruby User Group](http://urug.herokuapp.com/)
+##### _Inactive or can't sign up_
+
+- [QA Utah](https://qautah.slack.com/) – `Slack` – Statewide – Signup is disabled
+- [UtahJS](https://slack.utahjs.com/) – `Slack` – Statewide – Link is dead
+- [Utah Ruby User Group](http://urug.herokuapp.com/) – `Slack` – Statewide – Link is dead
 
 #### Virginia
 
-- [NRVDev](https://nrvdev.slack.org)
-- [Cville](https://cville.slack.com) - Charlottesville
-- [Rocktown Tech](https://rocktowntech.slack.com) - Shenandoah Valley
+##### _Inactive or can't sign up_
+
+- [Cville](https://cville.slack.com) – `Slack` – Charlottesville – Signup is disabled
+- [NRVDev](https://nrvdev.slack.org) – `Slack` – New River Valley – Link is dead
+- [Rocktown Tech](https://rocktowntech.slack.com) – `Slack` – Shenandoah Valley – Signup is disabled
 
 #### Washington
 
-- [Angular Seattle](https://angular-seattle.slack.com)
-- [Open Seattle](https://openseattle.slack.com)
-- [Seattle Designers](https://seattledesigners.slack.com)
-- [Seattle.rb](https://seattlerbslack.herokuapp.com/)
-- [Seattle JS Hackers](https://seattlejshackers.slack.com)
-- [Tech Seattle](https://techseattle.slack.com/messages/C045K4QLR/)
-- [Seattle Code Crafters](https://seattlecodecrafters.slack.com)
+##### _Inactive or can't sign up_
+
+- [Angular Seattle](https://angular-seattle.slack.com) – `Slack` – Seattle – Signup is disabled
+- [Seattle Designers](https://seattledesigners.slack.com) – `Slack` – Seattle – Can only sign up with email address at a few obscure domains
+- [Seattle.rb](https://seattlerbslack.herokuapp.com/) – `Slack` – Seattle – Link is dead
+- [Open Seattle](https://openseattle.slack.com) – `Slack` – Seattle – Archived
+- [Seattle JS Hackers](https://seattlejshackers.slack.com) – `Slack` – Seattle – Signup is disabled
+- [Tech Seattle](https://techseattle.slack.com) – `Slack` – Seattle – Signup is disabled
+- [Seattle Code Crafters](https://seattlecodecrafters.slack.com) – `Slack` – Seattle – Can only sign up with email address at a few obscure domains
 
 #### Washington, D.C.
 
-- [DC Tech Slack](http://www.dctechslack.com)
+- [DC Tech Slack](http://www.dctechslack.com) – `Slack`
 
 #### Wisconsin
 
-- [Milwaukee Tech](https://mke-slack.herokuapp.com/)
-- [Northeast WI Slack](https://northeastwi.wisconsinlinux.org)
+- [Northeast WI Slack](https://northeastwi.wisconsinlinux.org) – `Slack` – Northeast Wisconsin
+
+##### _Inactive or can't sign up_
+
+- [Milwaukee Tech](https://mke-slack.herokuapp.com/) – `Slack` – Milwaukee – Link is broken
 
 -------
 
@@ -234,228 +301,280 @@
 
 #### Argentina 🇦🇷
 
-- Buenos Aires [Meetup.js Argentina](https://slack.meetupjs.com.ar/)
-- Buenos Aires [freeCodeCamp BA](https://freecodecampba.org/chat/)
-- Chaco [Pro-Gramadores](https://pro-gramadores.org/)
+##### _Inactive or can't sign up_
+
+- [Meetup.js Argentina](https://slack.meetupjs.com.ar/) – `Slack` – Buenos Aires – Link is dead
+- [freeCodeCamp BA](https://freecodecampba.org/chat/) – `Slack` – Buenos Aires – Link is dead
+- [Pro-Gramadores](https://pro-gramadores.org/) – Chaco
 
 #### Australia 🇦🇺
 
-- [DEVANZ](https://devanz.slack.com) - Australia and New Zealand Slack for developers
-- [Brisbane Developers](https://brisbane-developers.slack.com)
+##### _Inactive or can't sign up_
+
+- [Brisbane Developers](https://brisbane-developers.slack.com) – `Slack` – Brisbane – Signup is disabled
+- [DEVANZ](https://devanz.slack.com) – `Slack` – Australia and New Zealand – Signup is disabled
 
 #### Brazil 🇧🇷
 
-- [iOS Dev BR](https://iosdevbr.herokuapp.com/) - Brazilian Slack for the iOS community
-- [Android Dev BR](http://slack.androiddevbr.org/) - Brazilian Slack for the Android community
-- [BrazilJS](http://braziljs-slack.herokuapp.com/) - Brazilian Slack for the Javascript community
-- [Training Center](http://ctgroups.slack.com/) - Community focused on software development, design, information security, database, various programming languages, etc. Focused also on helping beginners, it is fully inclusive.
-- [iOS Dev BR](https://iosdevbr.herokuapp.com/) - Brazilian Slack for the iOS community
-- [Android Dev BR](http://slack.androiddevbr.org/) - Brazilian Slack for the Android community
-- [Flutter Dev BR](https://flutterbr.herokuapp.com/) - Brazilian Slack for the Flutter community
-- [React Brasil Slack](https://react-brasil-slack.herokuapp.com/) - Brazilian Slack for the React community
+- [Android Dev BR](http://slack.androiddevbr.org/) – `Slack` – Countrywide - Android community
 - [Google Developers Group BR](http://gdgbrazil.herokuapp.com/) - Brazilian Slack for Google Developers Group
-- [Laravel Brasil (in Portuguese)](https://laravelbrasil.slack.com/)
-- [VueJs Brasil (in Portuguese)](https://vuejs-brasil.herokuapp.com/)
+
+##### _Inactive or can't sign up_
+
+- [BrazilJS](http://braziljs-slack.herokuapp.com/) – `Slack` – Countrywide – Link is dead – JavaScript community
+- [Flutter Dev BR](https://flutterbr.herokuapp.com/) – `Slack` – Countrywide – Link is dead – Flutter community
+- [iOS Dev BR](https://iosdevbr.herokuapp.com/) – `Slack` – Countrywide – Link is dead – iOS community
+- [Laravel Brasil](https://laravelbrasil.slack.com/) – `Slack` – Countrywide – Signup is disabled – In Portuguese
+- [React Brasil Slack](https://react-brasil-slack.herokuapp.com/) – `Slack` – Countrywide – Link is dead – React community
+- [Training Center](http://ctgroups.slack.com/) – `Slack` – Signup is disabled - Community focused on software development, design, information security, database, various programming languages, etc. Focused also on helping beginners, it is fully inclusive.
+- [VueJs Brasil](https://vuejs-brasil.herokuapp.com/) – `Slack` – Countrywide – Link is dead – In Portuguese
 
 #### Caribbean Countries 🇧🇸🇧🇧🇧🇿🇨🇺🇩🇲🇩🇴🇬🇩🇬🇾🇭🇹🇯🇲🇰🇳🇱🇨🇻🇨🇸🇷🇹🇹
 
-- [WItech](https://witechgroup.slack.com/) - West Indies Tech, slack for all Caribbean tech talent
+##### _Inactive or can't sign up_
+
+- [WItech](https://witechgroup.slack.com/) – `Slack` – West Indies – Signup is disabled – West Indies Tech, Slack for all Caribbean tech talent
 
 #### Cote d'Ivoire (Ivory Coast) 🇨🇮
 
-- [Code d'Ivoire](http://slack.codedivoire.com/) - Slack community for developers in the Ivory Coast
+- [Code d'Ivoire](http://slack.codedivoire.com/) – `Slack` – Community for developers in the Ivory Coast
 
 #### Canada 🇨🇦
 
-- Alberta
-	- [DevEdmonton](https://devedmonton.com/) - Fostering a stronger software development community in Edmonton.
-	- [YYC Design & Development](https://yycdesign.slack.com) - Calgary
-- British Columbia
-	- [Victoria Developers (YYJ Tech)](https://yyj-tech.ca/)
-	- [Victoria Women in Tech (YYJ Tech Ladies)](http://yyjtechladies.com/)
-- Ontario
-	- [Ottawa Startups](https://ottawastartups.slack.com/messages/C0408SPU4/)
-	- [TorontoJS](https://torontojs.com/)
-- Quebec
-	- [Women In Tech Montreal](https://witmgroup-slack.herokuapp.com/) Montreal
-- Nova Scotia
-	- [Halihax](https://www.halihax.com/) Halifax
+- [DevEdmonton](https://devedmonton.com/) – `Slack` – Edmonton, Alberta - Fostering a stronger software development community in Edmonton.
+- [Halihax](https://www.halihax.com/) – `Slack` – Halifax, Nova Scotia
+- [TorontoJS](https://torontojs.com/) – `Slack` – Toronto, Ontario
+- [Victoria Developers (YYJ Tech)](https://yyj-tech.ca/) – `Slack` – Victoria, British Columbia
+
+##### _Inactive or can't sign up_
+
+- [Ottawa Startups](https://ottawastartups.slack.com/) – `Slack` – Ottawa, Ontario – Can only sign up with email address at a few obscure domains
+- [Victoria Women in Tech (YYJ Tech Ladies)](http://yyjtechladies.com/) – Victoria, British Columbia – Link is dead
+- [Women In Tech Montreal](https://witmgroup-slack.herokuapp.com/) – `Slack` – Montreal, Quebec – Link is dead
+- [YYC Design & Development](https://yycdesign.slack.com) – `Slack` – Calgary, Alberta – Signup is disabled
 
 #### 🇨🇱 Chile
 
-- [DevsChile](https://devschile.cl/) Community for all kind of tech related enthusiasts/professionals.
-- [Angular Chile](http://bit.ly/AngularChileSlack) in Santiago
-- [Noders](https://noders.com/) in Santiago
-- [Pro-Gramadores](https://pro-gramadores.org/) in Santiago
+- [Angular Chile](http://bit.ly/AngularChileSlack) – `Slack` – Santiago
+- [DevsChile](https://devschile.cl/) – `Slack` – Countrywide – Community for all kind of tech related enthusiasts/professionals
+- [Noders](https://noders.com/) – `Slack` – Santiago
+
+##### _Inactive or can't sign up_
+
+- [Pro-Gramadores](https://pro-gramadores.org/) – Santiago – Link is dead
 
 #### 🇩🇰 Denmark
 
-- [Dev DK](https://slack.devdk.org/)
-- [Women in Tech DK](https://www.womenintech.dk/)
+- [Dev DK](https://slack.devdk.org/) – `Slack` – Countrywide
+- [Women in Tech DK](https://www.womenintech.dk/) – `Instagram`...?
 
 #### 🇫🇮 Finland
 
-- [Angular Finland](https://www.angular.fi/) community w/ Slack mostly targeted for Finnish Angular enthuasists, but also international discussion.
-- [Koodiklinikka](https://koodiklinikka.fi/) a finnish developer slack community that has over 1024 registered members
-- [Turku ❤️ Frontend](https://turkufrontend.fi) a Finnish, English-speaking, Turku-based frontend developer community. Invites via [this link](https://turkulovesfrontend.herokuapp.com/).
+- [Koodiklinikka](https://koodiklinikka.fi/) – `Slack` – Finnish developer Slack community that has over 1024 registered members
+- [Turku ❤️ Frontend](https://turkufrontend.fi) – `Slack` – Turku – Finnish, English-speaking, Turku-based frontend developer community
+
+##### _Inactive or can't sign up_
+
+- [Angular Finland](https://www.angular.fi/) – `Slack` – Link is dead – Community w/ Slack mostly targeted for Finnish Angular enthusiasts, but also international discussion
 
 #### France 🇫🇷
 
-- [FranceJS](https://slack-francejs.now.sh/) - very active Slack group of FranceJS meetups communities
-- [Android Dev Fr](https://android-dev-france.slack.com/) - active slack group for Android French community
-- [Swift Baguette](https://communityinviter.com/apps/swift-baguette/inviteme/) - active slack group for Swift French community
-- [Les Agilistes](https://lesagilistes.slack.com)
-- [FrontendFrance](https://frontendfr.slack.com)
-- Alsace
-	- [GeekDpt](https://geekdpt.io) in Strasbourg (but not limited to the region)
-	- [Elsass-dev](http://elsass-dev.fr) (ping [@xtuc](https://github.com/xtuc)
-	  to get an invite)
-- Bretagne
-	- [RennesJS](https://rennesjs.slack.com/) Slack group of [Rennes JavaScript](http://rennesjs.org/) community
-- Lyon
-	- [LyonJS](https://lyonjs.slack.com/) (
-	  ping [@Paul_Mougel](https://twitter.com/Paul_Mougel) to get an invite)
-	- [LyonTechHub](https://slack.lyontechhub.org/)
-- Nantes
-	- [Nantes Dev Community](https://slack.nantes.community/)
-	- [NantesJS](https://join.slack.com/t/nantesjs/shared_invite/enQtMjU0NTcxMzU4MDM2LTMwMjljNjEzMmViYzllOGY5Y2VlMjI4MzMxM2QzZDYwZWRhMDA0YWFjMDgwZDI4NjFhN2Y4NDU4NjMwOWUwOTc)
-	- [ProductPeopleNantes](https://productpeoplenantes.slack.com)
-- Montpellier
-	- [Montpellier Tech Community](comm-montpellier.slack.com) active slack of all the tech communities of Montpellier [here to join](https://comm-montpellier-invit.herokuapp.com/)
+- [Elsass-dev](http://elsass-dev.fr) – Alsace – Link is dead; contact [@xtuc](https://github.com/xtuc
+- [GeekDpt](https://geekdpt.io) – `Slack` `Meetup` – Strasbourg-focused – Slack signup is disabled for an invite
+- [LyonJS](https://lyonjs.slack.com/) – `Slack` – Lyon – Signup is disabled; contact [@Paul_Mougel](https://twitter.com/Paul_Mougel) for an invite
+- [LyonTechHub](https://slack.lyontechhub.org/) – `Slack` – Lyon
+- [RennesJS](http://rennesjs.org/) – `Slack` `Meetup` – Bretagne
+
+##### _Inactive or can't sign up_
+
+- [Les Agilistes](https://lesagilistes.slack.com) – `Slack` – Signup is disabled
+- [Android Dev Fr](https://android-dev-france.slack.com/) – `Slack` – Signup is disabled – Active Slack group for French Android community
+- [FranceJS](https://slack-francejs.now.sh/) – `Slack` – Link is dead – Very active Slack group of FranceJS meetups communities
+- [FrontendFrance](https://frontendfr.slack.com) – `Slack` – Deleted
+- [Montpellier Tech Community](https://comm-montpellier.slack.com/) – `Slack` – Montpellier – Signup is disabled – Active slack of all the tech communities of Montpellier [here to join](https://comm-montpellier-invit.herokuapp.com/)
+- [Nantes Dev Community](https://slack.nantes.community/) – `Slack` – Nantes – Form exists but Slack is empty
+- [NantesJS](https://join.slack.com/t/nantesjs/shared_invite/enQtMjU0NTcxMzU4MDM2LTMwMjljNjEzMmViYzllOGY5Y2VlMjI4MzMxM2QzZDYwZWRhMDA0YWFjMDgwZDI4NjFhN2Y4NDU4NjMwOWUwOTc) – `Slack` – Nantes – Link is dead
+- [ProductPeopleNantes](https://productpeoplenantes.slack.com) – `Slack` – Nantes – Deleted
+- [Swift Baguette](https://communityinviter.com/apps/swift-baguette/inviteme/) – `Slack` – Link is dead – Active Slack group for French Swift community
 
 #### Germany 🇩🇪
 
-- [Angular.DE](https://workshops-de.slack.com) - [Join](https://workshops-de.slack.com/join/shared_invite/enQtMzIyMjk5MzE3MTA5LWMxMzViMzFjNmIzY2U4NDU5YjY1NzY0YmU3ZDZkMDY2YTc2OGJlMTc1MzUwYTMwYzkxMTZiMWFjNWZlYzVjMWU)
-- [ReactJS.DE](https://reactjs.de) - [ReactJS.DE Slack](https://reactjs-de.slack.com/) - [Join](https://join.slack.com/t/reactjs-de/shared_invite/enQtNDAwNjEzNTc2MTE0LTdiZGFjZmNmYWE0ZWZmMmUzOGI3YTA1ZDg2NTk1N2UwZmE3YjJkNDgxNjk4Mzg1Zjg3YzNhZjNhYTgxMGE2OTQ)
-  Germany's ReactJS community with several channels for different React topics.
-- [Jina AI](https://jina.ai/) - [Slack](https://slack.jina.ai/) - Jina AI is the leading MLOps platform for multimodal AI.
+##### _Inactive or can't sign up_
+
+- [Angular.DE](https://workshops-de.slack.com) – `Slack` – Deleted
+- [Jina AI](https://jina.ai/) - [Slack](https://slack.jina.ai/) – `Slack` – Link is dead – Jina AI is the leading MLOps platform for multimodal AI.
+- [ReactJS.DE](https://reactjs.de) – `Slack` – Deleted – Germany's ReactJS community with several channels for different React topics
 
 #### Ghana 🇬🇭
 
-- Accra - [DevCongress](https://devcongress-community.slack.com) Ghana's most active online community of developers and tech enthusiasts. [Join](http://slack.devcongress.org/) DevCongress on Slack.
+##### _Inactive or can't sign up_
+
+- [DevCongress](https://devcongress-community.slack.com) – `Slack` – Accra – Signup is disabled – Ghana's most active online community of developers and tech enthusiasts. [Join](http://slack.devcongress.org/) DevCongress on Slack.
 
 #### India 🇮🇳
 
-- [Friends of HasGeek](https://friends.hasgeek.com/) - [HasGeek](https://hasgeek.com/)
-  runs a variety of tech events primarily in Bangalore, but not limited to it.
-- [GDG Pune](http://gdg-pune.slack.com/) - Local Meetup group of Pune who host the technical and non-technical events.
-- [GDG Ahmedabad](https://gdgahmedabad.slack.com/) - Ahemdabad Based GDG group who organise TechTalks, Hackathons, Tech Seminars around Google developers technologies and open-source to encourage knowledge sharing.
-- [GDG Gandhinagar](https://gdggandhinagar.slack.com/) - Gandhinagar GDG group who organise TechTalks, Hackathons, Tech Seminars around Google developers technologies and open-source to encourage knowledge sharing.
-- [Mindorks Community](https://mindorks.com/join-community/) - Mindorks is a India based Group who organize the meetups and encourage contribution for open source.
-- [React Native Bangalore](http://reactnativebangalore.nativebase.io/) - Meetup group for Bangalore's React Native community
-- [GDG Coimbatore](https://gdgcbe.com/) - GDG Coimbatore is a Coimbatore-based non-profit developers group to learn, share and know more about technologies. The industry is growing like never before, and we're trying to push the community forward to keep up with the industry. We are constantly trying to push ourselves to bring the best of technology to you through sessions and unlimited resources. And this is just the beginning. We have a common channel to communicate with our community members.
-- [SwiftIndia](https://swiftindia.in/community/) - The Swift India Developer Community provides a platform for developers to come together to share their knowledge about Apple technologies, and industry best design & coding standards. Currently, the community has active meet-ups all around India and a dedicated Slack group.
+- [GDG Coimbatore](https://gdgcbe.com/) – `Meetup` – Coimbatore – GDG Coimbatore is a Coimbatore-based non-profit developers group to learn, share and know more about technologies. The industry is growing like never before, and we're trying to push the community forward to keep up with the industry. We are constantly trying to push ourselves to bring the best of technology to you through sessions and unlimited resources. And this is just the beginning. We have a common channel to communicate with our community members.
+
+##### _Inactive or can't sign up_
+
+- [GDG Pune](http://gdg-pune.slack.com/) – `Slack` – Pune – Signup is disabled – Local Meetup group of Pune who host the technical and non-technical events.
+- [GDG Ahmedabad](https://gdgahmedabad.slack.com/) – `Slack` – Ahemdabad – Signup is disabled – Ahemdabad-based GDG group who organise TechTalks, Hackathons, Tech Seminars around Google developers technologies and open-source to encourage knowledge sharing.
+- [GDG Gandhinagar](https://gdggandhinagar.slack.com/) – `Slack` – Gandhinagar – Signup is disabled – Gandhinagar GDG group who organise TechTalks, Hackathons, Tech Seminars around Google developers technologies and open-source to encourage knowledge sharing.
+- [Mindorks Community](https://mindorks.com/join-community/) – Link is dead – Mindorks is an India-based group who organize the meetups and encourage contribution for open source.
+- [React Native Bangalore](http://reactnativebangalore.nativebase.io/) – Link is dead – Meetup group for Bangalore's React Native community
+- [SwiftIndia](https://swiftindia.in/community/) – `Slack` – Slack link is dead – The Swift India Developer Community provides a platform for developers to come together to share their knowledge about Apple technologies, and industry best design & coding standards. Currently, the community has active meet-ups all around India and a dedicated Slack group.
+
+##### _??????_
+
+- [Friends of HasGeek](https://friends.hasgeek.com/) - [HasGeek](https://hasgeek.com/) runs a variety of tech events primarily in Bangalore, but not limited to it.
 
 #### Indonesia 🇮🇩
 
-- [Perkodi - Perkumpulan Pengrajin Kode Indonesia (Code Craftsmen of Indonesia)](https://perkodi.org/) & also the [Ruby Indonesia](https://ruby.id/). Both are in the same [Slack here](http://ruby.id/slack)
+##### _Inactive or can't sign up_
+
+[//]: # (TODO format this)
+
+- [PERKODI – Perkumpulan Pengrajin Kode Indonesia (Code Craftsmen of Indonesia)](https://perkodi.org/) & also the [Ruby Indonesia](https://ruby.id/). Both are in the same [Slack here](http://ruby.id/slack)
+  Signup is disabled.
 
 #### Ireland 🇮🇪
 
-- [Irish Tech Community](https://slackin-itc.herokuapp.com/) - [Many channels](http://irishtechcommunity.com/channels/)
-  devoted to multiple subjects, from design and development of tech, to conferences and diversity.
+##### _Inactive or can't sign up_
+
+- [Irish Tech Community](https://slackin-itc.herokuapp.com/) – `Slack` – Link is dead – [Many channels](http://irishtechcommunity.com/channels/) devoted to multiple subjects, from design and development of tech, to conferences and diversity.
 
 #### Israel 🇮🇱
 
-- [Israel Tech Slack channel](http://israeltech.slack.com)
+##### _Inactive or can't sign up_
+
+- [Israel Tech Slack channel](http://israeltech.slack.com) – `Slack` – Signup is disabled
 
 #### Italy 🇮🇹
 
-- [BEAM Italia](http://beam-italia.herokuapp.com/) - The italian community about BEAM programming languages. They mainly chat about Erlang and Elixir.
-- [Coding Jam](https://slackin-codingjam.herokuapp.com) - Community behind the italian programming blog [www.codingjam.it](http://codingjam.it/). They chat about different programming languages, mainly about JVM ones.
-- [DevDay Italia](http://slack.devday.it) - [Community based in Campania](https://devday.it). They chat about different programming languages, for example Java, Javascript, .NET.
-- [Developers Italia](https://slack.developers.italia.it) - A community of developers who design and code Italian digital public services.
-- [Italia JS](https://italiajs.herokuapp.com/) - The italian Javascript community.
-- [RomaJS](https://romajs.herokuapp.com/) - The Javascript community from Rome, Italy.
-- [Scala Italy](http://slack.scala-italy.it/) - The italian Scala community.
-- [CodeGardenRome + GraphRM](http://codegardenroma.herokuapp.com/) - A slack channel for multiple communities: Java, functional programming and Connected data from Rome, Italy.
-- [Rust Italia](http://rust-italia.herokuapp.com/) - The italian Rust community.
-- [GrUSP](https://slack-grusp.herokuapp.com/) - Community mostly about web development. They also organize big international conferences such as UniversalJSDay, PHPDay, ReactJSDay, ContainerDay etc.
-- [Milano Front End](https://milanofrontend.herokuapp.com/) - Milan local community for everything about front end development
-- [Laravel-Italia](http://laravel-italia.it/articoli/laravel-italia-e-su-slack) - The italian Laravel community
-- [Italia WP Community](https://it.wordpress.org/slack/) - The italian WordPress community
-- [AWS Community Italy](https://aws-community-italy.slack.com/) - The italian AWS community
+- [Developers Italia](https://slack.developers.italia.it) – `Slack` – A community of developers who design and code Italian digital public services.
+- [Scala Italy](http://slack.scala-italy.it/) – `Slack` `Conference` – Slack link is dead – The italian Scala community.
+- [Italia WP Community](https://it.wordpress.org/slack/) – `Slack` – The Italian WordPress community.
+
+##### _Inactive or can't sign up_
+
+- [AWS Community Italy](https://aws-community-italy.slack.com/) – `Slack` – Link is dead – The italian AWS community
+- [BEAM Italia](http://beam-italia.herokuapp.com/) – Link is dead – The italian community about BEAM programming languages. They mainly chat about Erlang and Elixir.
+- [CodeGardenRome + GraphRM](http://codegardenroma.herokuapp.com/) – `Slack` – Rome – Link is dead – A Slack channel for multiple communities: Java, functional programming and Connected data from Rome, Italy.
+- [Coding Jam](https://slackin-codingjam.herokuapp.com) – `Slack` – Link is dead – Community behind the italian programming blog [www.codingjam.it](http://codingjam.it/). They chat about different programming languages, mainly about JVM ones.
+- [DevDay Italia](http://slack.devday.it) – `Slack` – Slack link is dead – [Community based in Campania](https://devday.it). They chat about different programming languages, for example Java, Javascript, .NET.
+- [GrUSP](https://slack-grusp.herokuapp.com/) – `Slack` – Link is dead – Community mostly about web development. They also organize big international conferences such as UniversalJSDay, PHPDay, ReactJSDay, ContainerDay etc.
+- [Italia JS](https://italiajs.herokuapp.com/) – `Slack` – Link is dead – The italian Javascript community.
+- [Laravel-Italia](http://laravel-italia.it/articoli/laravel-italia-e-su-slack) – `Slack` – Link is dead – The Italian Laravel community.
+- [Milano Front End](https://milanofrontend.herokuapp.com/) – `Slack` – Link is dead – Milan local community for everything about front end development
+- [RomaJS](https://romajs.herokuapp.com/) – Rome – Link is dead – The Javascript community from Rome, Italy.
+- [Rust Italia](http://rust-italia.herokuapp.com/) – `Slack` – Link is dead – The italian Rust community.
 
 #### Japan 🇯🇵
 
-- [Dev Japan](https://devjapan.slack.com/) - DevJapan is a community of international developers in Japan.
-- [Hacker News Tokyo](https://hackernewstokyo.slack.com) - Hacker News community in Tokyo, Japan.
-- [Tokyo Dev Round Tables](https://tokyodev-round-tables.slack.com) - Tokyo Dev Round table is a community of Ruby on raills and React.js enthusiasts in Tokyo, Japan.
+##### _Inactive or can't sign up_
+
+- [Dev Japan](https://devjapan.slack.com/) – `Slack` – Signup is disabled – A community of international developers in Japan.
+- [Hacker News Tokyo](https://hackernewstokyo.slack.com) – `Slack` – Tokyo – Signup is disabled
+- [Tokyo Dev Round Tables](https://tokyodev-round-tables.slack.com) – `Slack` – Tokyo – Can only sign up with email address at a few obscure domains – Community of Ruby on Rails and React enthusiasts in Tokyo, Japan.
 
 #### Malaysia 🇲🇾
 
-- [GDG Malaysia](https://gdgmy-slack.herokuapp.com/) - Official Slack group for [Google Developer Group Kuala Lumpur](https://www.gdgkl.org/), [Google Developer Group George Town](http://www.gdggeorgetown.com/)
-  and [Google Developer Group Kota Kinabalu](http://gdgkk.info/). We organize meetups, talks, codelabs & workshops and introducing developers and non-developers to the Google Developer platform.
+##### _Inactive or can't sign up_
+
+- [GDG Malaysia](https://gdgmy-slack.herokuapp.com/) – `Slack` – Link is dead – Official Slack group for [Google Developer Group Kuala Lumpur](https://www.gdgkl.org/), [Google Developer Group George Town](http://www.gdggeorgetown.com/) and [Google Developer Group Kota Kinabalu](http://gdgkk.info/). We organize meetups, talks, codelabs & workshops and introducing developers and non-developers to the Google Developer platform.
 
 #### Mexico 🇲🇽
 
-- [Devz](https://slack.devz.mx/) - Devz is a community of students, engineers and professionals of all kinds interested in topics related to software development.
-- [Coders Mexico](http://codersmexico.com.mx/) - Mexican Slack group with a community of developers around mexico. We work remotely, for companies and abroad. We also speak english.
+##### _Inactive or can't sign up_
+
+- [Coders Mexico](http://codersmexico.com.mx/) – `Slack` – Link is dead – Mexican Slack group with a community of developers around mexico. We work remotely, for companies and abroad. We also speak english.
+- [Devz](https://slack.devz.mx/) – `Slack` – Signup is disabled – Devz is a community of students, engineers and professionals of all kinds interested in topics related to software development.
 
 #### New Zealand 🇳🇿
 
-- [JavaScript New Zealand](https://javascript.org.nz/slack) - New Zealand JavaScript community organised by the JavaScript Society of New Zealand.
-- [Develop New Zealand](https://developnz.herokuapp.com) - New Zealand developer community with channels for various programming languages, jobs, and discussions.
+- [JavaScript New Zealand](https://javascript.org.nz/) – `Slack` – JavaScript community organised by the JavaScript Society of New Zealand
+
+##### _Inactive or can't sign up_
+
+- [DEVANZ](https://devanz.slack.com) – `Slack` – Australia and New Zealand – Signup is disabled
+- [Develop New Zealand](https://developnz.herokuapp.com) – Link is dead – New Zealand developer community with channels for various programming languages, jobs, and discussions
 
 #### Nigeria 🇳🇬
 
-- [Angular Nigeria](https://twitter.com/ngnigeria) - Nigeria's largest Angular community.
-- [Consonance](https://consonance-invite.herokuapp.com/) - Consonance is a community of technology enthusiasts across the Nigerian technology space.
-- [Devcenter Square](https://devcenter-square-slack.herokuapp.com) - Devcenter Square created to connect more developers and designers to an ever expanding network to foster software development excellence.
-- [Frontstack](https://frontstack.io/) - Frontstack is a community for developers Frontend Engineering tech-space.
-- [Ionic Nigeria](https://ionic-nigeria.herokuapp.com/) - A community for Ionic developers in Nigeria. Talk About buzzing designs, code patterns, ask technical questions, share knowledge.
-- [Laravel Nigeria](https://www.laravelnigeria.com/) - The Nigerian Laravel Community
-- [Paystack Playstack](https://slack.paystack.com/) - A community for businesses integrating fin-tech solutions using Paystack.
-- [Python Nigeria](https://py-slack-invite.herokuapp.com) - A community of Python users and enthusiasts, with the goal of advancing the use of Python within Nigeria.
-- [Scala Nigeria](https://www.meetup.com/lagosscala/) - Nigeria's largest Scala Community
-- [She Code Africa](https://bit.ly/scaslacksignup) - A non-profit organisation focused on celebrating and empowering young girls and women in tech across Africa.
-- [Wecode](https://wecode.ng/) - Community of technology enthusiasts, entrepreneurs and software developers in Abuja.
+- [Paystack Playstack](https://slack.paystack.com/) – `Slack` – Must have Paystack email – A community for businesses integrating fin-tech solutions using Paystack.
+
+##### _??????_
+
 - [AdoraHack Study Group](https://adorahack.com/) - A community for tech people to ask questions, share, learn, collaborate and grow together.
+- [Angular Nigeria](https://twitter.com/ngnigeria) - Nigeria's largest Angular community.
+- [Laravel Nigeria](https://www.laravelnigeria.com/) - The Nigerian Laravel Community
+- [Wecode](https://wecode.ng/) - Community of technology enthusiasts, entrepreneurs and software developers in Abuja.
+
+##### _Inactive or can't sign up_
+
+- [Consonance](https://consonance-invite.herokuapp.com/) – Link is dead – Community of technology enthusiasts across the Nigerian technology space.
+- [Devcenter Square](https://devcenter-square-slack.herokuapp.com) – Link is dead – Created to connect more developers and designers to an ever expanding network to foster software development excellence.
+- [Frontstack](https://frontstack.io/) – Conference – Defunct – Frontstack is a community for developers in the front-end engineering tech space.
+- [Ionic Nigeria](https://ionic-nigeria.herokuapp.com/) – Link is dead – Community for Ionic developers in Nigeria. Talk About buzzing designs, code patterns, ask technical questions, share knowledge.
+- [Python Nigeria](https://py-slack-invite.herokuapp.com) – Slack – Link is dead – Community of Python users and enthusiasts, with the goal of advancing the use of Python within Nigeria.
+- [Scala Nigeria](https://www.meetup.com/lagosscala/) – Meetup – Lagos-focused – Defunct – Nigeria's largest Scala community.
+- [She Code Africa](https://bit.ly/scaslacksignup) – Slack – Signup is disabled, maybe defunct – Non-profit organization focused on celebrating and empowering young girls and women in tech across Africa.
 
 #### Philippines 🇵🇭
 
-- [Phackers](http://www.phackers.com/) - Philippine Tech Hackers
+##### _Inactive or can't sign up_
+
+- [Phackers](http://www.phackers.com/) – Link is dead – Philippine Tech Hackers
 
 #### Poland 🇵🇱
 
-- [JVM Poland](https://jvm-poland.slack.com) - Java/JVM
-- [Callstack Open Source](https://slack.callstack.io) - Wroclaw
+##### _Inactive or can't sign up_
+
+- [Callstack Open Source](https://slack.callstack.io) – `Slack` – Wroclaw – Link is dead
+- [JVM Poland](https://jvm-poland.slack.com) – `Slack` – Signup is disabled – Java/JVM
 
 #### Romania 🇷🇴
 
-- [tim.js](https://timjs.slack.com) -The Timișoara JavaScript Meetup Channel
-- [JSHeroes](https://jsheroes-community.slack.com)
+##### _Inactive or can't sign up_
+
+- [JSHeroes](https://jsheroes-community.slack.com) – `Slack` – Signup is disabled
+- [tim.js](https://timjs.slack.com) – `Slack` – Signup is disabled – Timișoara JavaScript Meetup Channel
 
 #### South Africa 🇿🇦
 
-- [ZATech Slack](https://zatech.co.za/) - South African Tech Community
+- [ZATech Slack](https://zatech.co.za/) – `Slack` – South African Tech Community
 
 #### Spain 🇪🇸
 
-- [Spain Tech](https://join.slack.com/t/espanatech/shared_invite/zt-1r42l6vnl-ugXdpuqoYGyuWKlgsbjwQw) - Group for professionals and nomads in Spain
+- [Spain Tech](https://join.slack.com/t/espanatech/shared_invite/zt-1r42l6vnl-ugXdpuqoYGyuWKlgsbjwQw) – `Slack` – Group for professionals and nomads in Spain
 
 #### Serbia 🇷🇸
 
-- [JS Belgrade](http://slack.jsbelgrade.org/) - JavaScript User Group from Belgrade, Serbia
+##### _Inactive or can't sign up_
+
+- [JS Belgrade](http://slack.jsbelgrade.org/) – `Slack` – Link is dead – JavaScript User Group from Belgrade, Serbia
 
 #### UK 🇬🇧
 
-- London - [Front End London](http://frontendlondon-slack.herokuapp.com/)
-- Manchester - [mcrtech](http://mcrtech-slack.herokuapp.com/) - wide variety of topics, for Manchester and the North-West
-- Leicester - [LeicesterJS](https://leicesterjs.org/slack) - Leicester's largest tech meetup community
-- Leeds - [LeedsDevs](https://www.leedsdevs.co.uk) - all devs and tech professionals in the Leeds/Yorkshire area are welcome
+##### _Inactive or can't sign up_
+
+- [Front End London](http://frontendlondon-slack.herokuapp.com/) – `Slack` – London – Link is dead
+- [mcrtech](http://mcrtech-slack.herokuapp.com/) – `Slack` – Manchester/Northwest – Link is dead – Wide variety of topics
+- [LeicesterJS](https://leicesterjs.org/slack) – `Slack` – Leicester – Link is dead – Leicester's largest tech meetup community
+- [LeedsDevs](https://www.leedsdevs.co.uk) – Leeds – Link is dead – All devs and tech professionals in the Leeds/Yorkshire area are welcome
 
 #### Uruguay 🇺🇾
 
-- [Open Web Uruguay](https://owu.slack.com/) - Web and Mobile Development Community on Slack
+- [Open Web Uruguay](https://owu.slack.com/) – `Slack` – Must have jsconf.uy email to sign up – Web and Mobile Development Community on Slack
 
 #### Ukraine 🇺🇦
 
-- [UkrOps](http://slack.ukrops.club/)
+- [UkrOps](http://slack.ukrops.club/) – `Slack`
 
 #### Vietnam 🇻🇳
 
-- [Ruby Vietnam](http://chat.ruby.org.vn/) - The most quality community in Vietnam. Not only about Ruby but also JS, Elixir, DevOps, etc.
+- [WeBuild Community](https://webuildx.notion.site/WeBuild-Community-e7f1b4c300094f9184a7052e9b061f6d) – `Slack` `Discord` – Slack link is dead
+  - Formerly: [Ruby Vietnam](http://chat.ruby.org.vn/) – The most quality community in Vietnam. Not only about Ruby but also JS, Elixir, DevOps, etc.
 
 ## Conferences (public communities)
 
