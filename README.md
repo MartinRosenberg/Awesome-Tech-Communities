@@ -83,7 +83,7 @@
 
 ##### _Inactive or can't sign up_
 
-- [AthDev](https://athdev.org) – `Slack` – Athens - Link is dead
+- [AthDev](https://athdev.org) – `Slack` – Athens – Link is dead
 
 #### Hawaii
 
@@ -242,7 +242,7 @@
 ##### _Inactive or can't sign up_
 
 - [KnoxDevs](http://knoxdevs-slackin.herokuapp.com/) – `Slack` – Knoxville – Link is dead
-- [MTF](http://slack.memphistechnology.org/) – `Slack` - Memphis – Link is dead
+- [MTF](http://slack.memphistechnology.org/) – `Slack` – Memphis – Link is dead
 
 #### Texas
 
@@ -314,8 +314,8 @@
 
 #### Brazil 🇧🇷
 
-- [Android Dev BR](http://slack.androiddevbr.org/) – `Slack` – Countrywide - Android community
-- [Google Developers Group BR](http://gdgbrazil.herokuapp.com/) - Brazilian Slack for Google Developers Group
+- [Android Dev BR](http://slack.androiddevbr.org/) – `Slack` – Countrywide – Android community
+- [Google Developers Group BR](http://gdgbrazil.herokuapp.com/) – `Slack` – Brazilian Slack for Google Developers Group
 
 ##### _Inactive or can't sign up_
 
@@ -324,7 +324,7 @@
 - [iOS Dev BR](https://iosdevbr.herokuapp.com/) – `Slack` – Countrywide – Link is dead – iOS community
 - [Laravel Brasil](https://laravelbrasil.slack.com/) – `Slack` – Countrywide – Signup is disabled – In Portuguese
 - [React Brasil Slack](https://react-brasil-slack.herokuapp.com/) – `Slack` – Countrywide – Link is dead – React community
-- [Training Center](http://ctgroups.slack.com/) – `Slack` – Signup is disabled - Community focused on software development, design, information security, database, various programming languages, etc. Focused also on helping beginners, it is fully inclusive.
+- [Training Center](http://ctgroups.slack.com/) – `Slack` – Signup is disabled – Community focused on software development, design, information security, database, various programming languages, etc. Focused also on helping beginners, it is fully inclusive.
 - [VueJs Brasil](https://vuejs-brasil.herokuapp.com/) – `Slack` – Countrywide – Link is dead – In Portuguese
 
 #### Caribbean Countries 🇧🇸🇧🇧🇧🇿🇨🇺🇩🇲🇩🇴🇬🇩🇬🇾🇭🇹🇯🇲🇰🇳🇱🇨🇻🇨🇸🇷🇹🇹
@@ -339,7 +339,7 @@
 
 #### Canada 🇨🇦
 
-- [DevEdmonton](https://devedmonton.com/) – `Slack` – Edmonton, Alberta - Fostering a stronger software development community in Edmonton.
+- [DevEdmonton](https://devedmonton.com/) – `Slack` – Edmonton, Alberta – Fostering a stronger software development community in Edmonton.
 - [Halihax](https://www.halihax.com/) – `Slack` – Halifax, Nova Scotia
 - [TorontoJS](https://torontojs.com/) – `Slack` – Toronto, Ontario
 - [Victoria Developers (YYJ Tech)](https://yyj-tech.ca/) – `Slack` – Victoria, British Columbia
@@ -424,7 +424,7 @@
 
 ##### _??????_
 
-- [Friends of HasGeek](https://friends.hasgeek.com/) - [HasGeek](https://hasgeek.com/) runs a variety of tech events primarily in Bangalore, but not limited to it.
+- [Friends of HasGeek](https://friends.hasgeek.com/) – [HasGeek](https://hasgeek.com/) runs a variety of tech events primarily in Bangalore, but not limited to it.
 
 #### Indonesia 🇮🇩
 
@@ -503,10 +503,10 @@
 
 ##### _??????_
 
-- [AdoraHack Study Group](https://adorahack.com/) - A community for tech people to ask questions, share, learn, collaborate and grow together.
-- [Angular Nigeria](https://twitter.com/ngnigeria) - Nigeria's largest Angular community.
-- [Laravel Nigeria](https://www.laravelnigeria.com/) - The Nigerian Laravel Community
-- [Wecode](https://wecode.ng/) - Community of technology enthusiasts, entrepreneurs and software developers in Abuja.
+- [AdoraHack Study Group](https://adorahack.com/) – A community for tech people to ask questions, share, learn, collaborate and grow together.
+- [Angular Nigeria](https://twitter.com/ngnigeria) – Nigeria's largest Angular community.
+- [Laravel Nigeria](https://www.laravelnigeria.com/) – The Nigerian Laravel Community
+- [Wecode](https://wecode.ng/) – Community of technology enthusiasts, entrepreneurs and software developers in Abuja.
 
 ##### _Inactive or can't sign up_
 
