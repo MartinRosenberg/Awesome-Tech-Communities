@@ -1,5 +1,9 @@
 # Awesome Tech Communities
 
+## License
+
+<span xmlns:cc="http://creativecommons.org/ns#">This work is marked with <a href="http://creativecommons.org/publicdomain/zero/1.0?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1"></a>.</span> Effectively, to whatever extent possible, it is in the public domain; however, there may be content I don't have the right to donate to the public domain. For more information, see [LICENSE](LICENSE).
+
 ## Roadmap
 
 - [ ] Add navigation
