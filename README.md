@@ -27,7 +27,7 @@
 
 - [Little Rock Dev Slack](https://lrdev.typeform.com/to/aZ9Hr8?fbclid=IwAR3PhhP5XQZzcFmYo2DDfDo_CeQgA9SXCrZmZnl2_ERaWo5uIqV0wM7Ixro) – `Slack` – Little Rock
 
-#### _Inactive or can't sign up_
+##### _Inactive or can't sign up_
 
 - [Northwest Arkansas Devs](https://nwa-devs-slackgroup.herokuapp.com/) – `Slack` – Fayetteville/Rogers – Link is dead
 
@@ -89,7 +89,7 @@
 
 ##### _Not tech-focused_
 
-- [Hawaii Slack](https://hawaiislack.com/)
+- [Hawaii Slack](https://hawaiislack.com/) – `Slack`
 
 #### Illinois
 
@@ -294,8 +294,6 @@
 ##### _Inactive or can't sign up_
 
 - [Milwaukee Tech](https://mke-slack.herokuapp.com/) – `Slack` – Milwaukee – Link is broken
-
--------
 
 ### Other countries
 
@@ -575,6 +573,10 @@
 
 - [WeBuild Community](https://webuildx.notion.site/WeBuild-Community-e7f1b4c300094f9184a7052e9b061f6d) – `Slack` `Discord` – Slack link is dead
   - Formerly: [Ruby Vietnam](http://chat.ruby.org.vn/) – The most quality community in Vietnam. Not only about Ruby but also JS, Elixir, DevOps, etc.
+
+---
+
+The below have not yet been checked:
 
 ## Conferences (public communities)
 
