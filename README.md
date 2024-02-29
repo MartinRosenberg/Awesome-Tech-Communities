@@ -1,5 +1,15 @@
 # Awesome Tech Communities
 
+## Roadmap
+
+- [ ] Add navigation
+- [ ] Fix Illinois/Iowa/Kentucky links
+- [ ] Add multiple links per group where applicable
+- [ ] Check for alternative links for inaccessible communities
+- [ ] Figure out what's going in with the _??????_ communities
+- [ ] Check out non-regional communities
+- [ ] Figure out a better way to organize this list
+
 ## Sources
 
 - [Awesome Community](https://github.com/phpearth/awesome-community)
@@ -11,6 +21,8 @@
 ## Regional
 
 ### USA 🇺🇸
+
+Not that the USA is special, but it does have quite a lot of tech communities!
 
 #### Alabama
 
