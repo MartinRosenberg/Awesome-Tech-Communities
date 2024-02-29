@@ -38,8 +38,8 @@
 ##### _Inactive or can't sign up_
 
 - [Los Angeles Scala Users Group](https://lascalausers.slack.com/) – `Slack` – Los Angeles – Signup is disabled
-- [Santa Barbara Tech Co-op](https://sbtechcoop.slack.com/) – `Slack` – Santa Barbara – Can only sign up with email address at a few obscure domains
 - [Sacramento Javascript Meetup](https://sac-tech.herokuapp.com/) – Sacramento – Link is dead
+- [Santa Barbara Tech Co-op](https://sbtechcoop.slack.com/) – `Slack` – Santa Barbara – Can only sign up with email address at a few obscure domains
 
 #### Colorado
 
@@ -63,18 +63,18 @@
 
 #### Florida
 
-- [Tampa Devs](https://tampadevs.com) – `Slack` `Meetup` – Tampa
 - [Orlando Devs](https://orlandodevs.com/slack) – `Slack` – Orlando
+- [Tampa Devs](https://tampadevs.com) – `Slack` `Meetup` – Tampa
 
 ##### _Inactive or can't sign up_
 
 - [Front End Developers of Miami](http://fedm.herokuapp.com/) – Miami – Link is dead
-- [Wynwood Tech](https://wyn.tech/) – Miami – Link is dead
-- [Tampa Bay Tech](http://tampabaytech.org/slack/) – `Slack` – Tampa – Embedded signup form is dead
-- [SWFL Coders](http://swflcoders.slack.com/) – `Slack` – Ft. Myers – Signup is disabled
 - [GNV Connect](https://gnvconnect.com/) – Gainesville – Can only sign up with email address at a few obscure domains
 - [Jacksonville Tech Community](http://jacksonville-tech.com/) – Jacksonville – Link is dead
 - [Suncoast Developers Guild](https://suncoast-devs.slack.com/) – `Slack` – St. Petersburg – Signup is disabled
+- [SWFL Coders](http://swflcoders.slack.com/) – `Slack` – Ft. Myers – Signup is disabled
+- [Tampa Bay Tech](http://tampabaytech.org/slack/) – `Slack` – Tampa – Embedded signup form is dead
+- [Wynwood Tech](https://wyn.tech/) – Miami – Link is dead
 
 #### Georgia
 
@@ -93,10 +93,10 @@
 
 #### Illinois
 
-- [ChiPy (Chicago Python User Group)](https://www.chipy.org/) – `Slack` `Meetup` – Chicago
 - [Chicago Tech Slack](https://www.chicagotechslack.com/) – `Slack` `Meetup` – Chicago
   - https://www.meetup.com/chicago-tech-slackers/
   - https://re-factor.co/
+- [ChiPy (Chicago Python User Group)](https://www.chipy.org/) – `Slack` `Meetup` – Chicago
 
 ##### _Inactive or can't sign up_
 
@@ -133,10 +133,10 @@
 
 ##### _Inactive or can't sign up_
 
-- [Startup Lexington](https://www.startuplexington.org/) – `Slack` – Lexington – Signup link is broken
 - [Louisville.io](http://louisville.io) – `Slack` – Louisville – All links are broken
   - http://louisville.slack.com
   - http://slackin.louisville.io/
+- [Startup Lexington](https://www.startuplexington.org/) – `Slack` – Lexington – Signup link is broken
 
 #### Maryland
 
@@ -198,9 +198,9 @@
 
 ##### _Inactive or can't sign up_
 
-- [TechLife Columbus](https://techlife-columbus-slack.herokuapp.com/) – `Slack` – Columbus – Link is dead
-- [Cleveland Tech](https://cleveland-tech.herokuapp.com/) – Cleveland – Link is dead
 - [Cincy Tech Slack](https://cincytech.slack.com) – `Slack` – Cincinnati – Signup is disabled
+- [Cleveland Tech](https://cleveland-tech.herokuapp.com/) – Cleveland – Link is dead
+- [TechLife Columbus](https://techlife-columbus-slack.herokuapp.com/) – `Slack` – Columbus – Link is dead
 
 #### Oklahoma
 
@@ -214,8 +214,8 @@
 
 - [Infinite Red Community](https://infiniteredcommunity.herokuapp.com/) – Link is dead
 - [Node PDX](http://nodepdx.slack.com/) – `Slack` – Portland – Signup is disabled
-- [Portland ReactJS](https://portlandreactjs.herokuapp.com/) – `Slack` – Portland – Link is dead
 - [pdxstartups](https://pdx-startups-slack.herokuapp.com/) – `Slack` – Portland – Link is dead
+- [Portland ReactJS](https://portlandreactjs.herokuapp.com/) – `Slack` – Portland – Link is dead
 
 #### Pennsylvania
 
@@ -233,9 +233,9 @@
 
 #### Tennessee
 
+- [BoroDev](https://www.meetup.com/BoroDev/) – `Slack` `Meetup` – Murfreesboro
 - [Chadev](https://chadev.com) – `Slack` – Chattanooga
 - [Devanooga](https://www.devanooga.com/slack/) – `Slack` – Chattanooga
-- [BoroDev](https://www.meetup.com/BoroDev/) – `Slack` `Meetup` – Murfreesboro
 - [NashDev](http://nashdev.com/) – `Slack` – Nashville
 - [TriDev](https://www.meetup.com/TriDev/) – `Meetup` – Tri-Cities
 
@@ -276,12 +276,12 @@
 ##### _Inactive or can't sign up_
 
 - [Angular Seattle](https://angular-seattle.slack.com) – `Slack` – Seattle – Signup is disabled
-- [Seattle Designers](https://seattledesigners.slack.com) – `Slack` – Seattle – Can only sign up with email address at a few obscure domains
-- [Seattle.rb](https://seattlerbslack.herokuapp.com/) – `Slack` – Seattle – Link is dead
 - [Open Seattle](https://openseattle.slack.com) – `Slack` – Seattle – Archived
-- [Seattle JS Hackers](https://seattlejshackers.slack.com) – `Slack` – Seattle – Signup is disabled
-- [Tech Seattle](https://techseattle.slack.com) – `Slack` – Seattle – Signup is disabled
 - [Seattle Code Crafters](https://seattlecodecrafters.slack.com) – `Slack` – Seattle – Can only sign up with email address at a few obscure domains
+- [Seattle Designers](https://seattledesigners.slack.com) – `Slack` – Seattle – Can only sign up with email address at a few obscure domains
+- [Seattle JS Hackers](https://seattlejshackers.slack.com) – `Slack` – Seattle – Signup is disabled
+- [Seattle.rb](https://seattlerbslack.herokuapp.com/) – `Slack` – Seattle – Link is dead
+- [Tech Seattle](https://techseattle.slack.com) – `Slack` – Seattle – Signup is disabled
 
 #### Washington, D.C.
 
@@ -301,8 +301,8 @@
 
 ##### _Inactive or can't sign up_
 
-- [Meetup.js Argentina](https://slack.meetupjs.com.ar/) – `Slack` – Buenos Aires – Link is dead
 - [freeCodeCamp BA](https://freecodecampba.org/chat/) – `Slack` – Buenos Aires – Link is dead
+- [Meetup.js Argentina](https://slack.meetupjs.com.ar/) – `Slack` – Buenos Aires – Link is dead
 - [Pro-Gramadores](https://pro-gramadores.org/) – Chaco
 
 #### Australia 🇦🇺
@@ -450,8 +450,8 @@
 #### Italy 🇮🇹
 
 - [Developers Italia](https://slack.developers.italia.it) – `Slack` – A community of developers who design and code Italian digital public services.
-- [Scala Italy](http://slack.scala-italy.it/) – `Slack` `Conference` – Slack link is dead – The italian Scala community.
 - [Italia WP Community](https://it.wordpress.org/slack/) – `Slack` – The Italian WordPress community.
+- [Scala Italy](http://slack.scala-italy.it/) – `Slack` `Conference` – Slack link is dead – The italian Scala community.
 
 ##### _Inactive or can't sign up_
 
@@ -557,9 +557,9 @@
 ##### _Inactive or can't sign up_
 
 - [Front End London](http://frontendlondon-slack.herokuapp.com/) – `Slack` – London – Link is dead
-- [mcrtech](http://mcrtech-slack.herokuapp.com/) – `Slack` – Manchester/Northwest – Link is dead – Wide variety of topics
-- [LeicesterJS](https://leicesterjs.org/slack) – `Slack` – Leicester – Link is dead – Leicester's largest tech meetup community
 - [LeedsDevs](https://www.leedsdevs.co.uk) – Leeds – Link is dead – All devs and tech professionals in the Leeds/Yorkshire area are welcome
+- [LeicesterJS](https://leicesterjs.org/slack) – `Slack` – Leicester – Link is dead – Leicester's largest tech meetup community
+- [mcrtech](http://mcrtech-slack.herokuapp.com/) – `Slack` – Manchester/Northwest – Link is dead – Wide variety of topics
 
 #### Uruguay 🇺🇾
 
