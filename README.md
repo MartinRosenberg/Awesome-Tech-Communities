@@ -18,9 +18,7 @@
 
 - [Awesome Community](https://github.com/phpearth/awesome-community)
 - [Slack List](https://slack.directory/)
-- This Dot
-  - [Tech Community Slacks](https://github.com/thisdot/tech-community-slacks)
-  - [Local Slack Channels by region](https://medium.com/@thisdotmedia/local-slack-channels-by-region-9ed641910835)
+- [This Dot Tech Community Slacks](https://github.com/thisdot/tech-community-slacks)
 
 ## Regional
 
