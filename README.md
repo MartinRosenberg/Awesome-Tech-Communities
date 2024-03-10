@@ -124,6 +124,7 @@ Please feel free to submit a Pull Request (or an Issue) to add a new community, 
 ### Sources
 
 - **[Awesome Community](https://github.com/phpearth/awesome-community)**
+- **[Chicago Engineering and Tech Communities and Organizations](https://github.com/driscoll42/chicago-engineering-and-tech-communities)**
 - **[Slack List](https://slack.directory/)**
 - **[This Dot Tech Community Slacks](https://github.com/thisdot/tech-community-slacks)**
 
@@ -196,6 +197,10 @@ Not that the USA is special, but it does have quite a lot of tech communities!
 - **Fort Collins Internet Professionals** – `Meetup` `Slack` – Northern Colorado, Southeastern Wyoming – This group is for web professionals of all types - designers, developers, programmers, copywriters, photographers, videographers, marketers and search engine specialists in Northern Colorado and southeastern Wyoming. Aspiring web pros are also welcome. We'll meet to discuss anything from web standards to managing clients to search engine optimization. Join to learn, share, and meet like-minded people!
   - [Slack](https://tinyurl.com/techslack2022)
   - [Meetup](https://www.meetup.com/gofcip/)
+- **[React Denver](https://reactdenver.com/)** – `Discord` `GitHub` `Tito` `Twitter/X` – Denver – Register for events on the website.
+  - [GitHub](https://github.com/reactdenver)
+  - [Twitter/X](https://twitter.com/ReactDenver)
+  - [YouTube](https://www.youtube.com/@ReactDenver/)
 - **[Tech Friends](https://www.gettechfriends.com/)** – `Slack` – Front Range
 - <details>
   <summary><i>Inactive</i></summary>
@@ -301,15 +306,30 @@ Not that the USA is special, but it does have quite a lot of tech communities!
 
 #### Illinois
 
-- **[Chicago Tech Slack](https://www.chicagotechslack.com/)** – `Slack` `Meetup` – Chicago
-  - https://www.meetup.com/chicago-tech-slackers/
-  - https://re-factor.co/
-- **[ChiPy (Chicago Python User Group)](https://www.chipy.org/)** – `Slack` `Meetup` – Chicago
+Chicago is home to a large number of engineering and tech communities. Only a select few large, active groups are documented here. For a much deeper dive into Chicago communities, see **[Chicago Engineering and Tech Communities and Organizations](https://github.com/driscoll42/chicago-engineering-and-tech-communities)**; and for tech event calendar, see **[Chicago Tech Community Events](https://chitechcommunityevents.softr.app/)**.
 
-##### _Inactive or can't sign up_
+<!-- This is somehow related to Chicago Tech Slack: https://re-factor.co/ -->
 
-- **[AWS Chicago](http://slack.chicagoaws.com/)** – `Slack` – Chicago – Link is dead
-- **[Chicago Tech Diversity Initiative](https://chitechdiversity.slack.com/)** – `Slack` – Chicago – Signup is disabled
+- **[AWS Chicago](https://www.chicagoaws.com/)** – `Slack` – Chicago –
+  - [LinkedIn group](https://www.linkedin.com/groups/6705840/)
+  - [Meetup](https://www.meetup.com/aws-chicago/)
+  - ~[Slack](https://join.slack.com/t/awschicago/shared_invite/zt-25vrvuq9s-BI2tJZM3g2uxj0mqpH3JsA)~ or ~[Slack](http://slack.chicagoaws.com/)~
+  - [YouTube](https://www.youtube.com/@awschicago)
+- **Chicago Tech Slack** – `Meetup` `Slack` – Chicago
+  - [Slack](https://www.chicagotechslack.com/) (or [Slack](https://chicago-tech.slack.com/join/shared_invite/zt-1cb3mexrp-Ri0DCePyYaXSuEg8qPUCTA#/shared-invite/email))
+  - [Meetup](https://www.meetup.com/chicago-tech-slackers/) – Inactive since 2016-05-11
+- **[Chi Hack Night](https://chihacknight.org/)** – `Eventbrite` `Slack` – Chicago
+  - [Eventbrite](https://chihacknight.eventbrite.com)
+  - [Facebook page](https://www.facebook.com/chihacknight)
+  - [GitHub](https://github.com/chihacknight)
+  - [Twitter/X](https://twitter.com/chihacknight)
+  - [YouTube](https://www.youtube.com/@ChiHackNight)
+- **[ChiPy (Chicago Python User Group)](https://www.chipy.org/)** – `GitHub` `Meetup` `Slack` `Twitter/X` `YouTube` – Chicago
+  - [GitHub](https://github.com/chicagopython)
+  - [Meetup](https://www.meetup.com/_ChiPy_/)
+  - [Slack](https://www.chipy.org/pages/slack/) – You must be invited by a member.
+  - [Twitter/X](https://twitter.com/chicagopython) – Inactive since 2023-01-23.
+  - [YouTube](https://www.youtube.com/@ChicagoPythonUsersGroup)
 
 #### Indiana
 
