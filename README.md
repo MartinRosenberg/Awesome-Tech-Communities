@@ -112,19 +112,19 @@ Please feel free to submit a Pull Request (or an Issue) to add a new community, 
 
 ### Roadmap
 
-- [ ] Add navigation
-- [ ] Fix Illinois/Iowa/Kentucky links
 - [ ] Add multiple links per group where applicable
 - [ ] Check for alternative links for inaccessible communities
 - [ ] Figure out what's going in with the _??????_ communities
 - [ ] Check out non-regional communities
 - [ ] Figure out a better way to organize this list
-- [ ] Look into the [Tech Alliance of SWFL](https://twitter.com/tech_swfl)
+- [ ] Look into the [Tech Alliance of SWFL](https://twitter.com/tech_swfl) for Florida
+- [ ] Look into [louisville.io](https://web.archive.org/web/20161031114837/http://louisville.io/groups.html) for Kentucky ([Slack](http://louisville.slack.com) [links](http://slackin.louisville.io/))
 
 ### Sources
 
 - **[Awesome Community](https://github.com/phpearth/awesome-community)**
 - **[Chicago Engineering and Tech Communities and Organizations](https://github.com/driscoll42/chicago-engineering-and-tech-communities)**
+- **[The Full List of 1000 Slack Communities](https://docs.google.com/spreadsheets/d/14WooUa7p-5T1T-kXlTMRWSFeJl2c8-6MOIJUEH-wnaQ/edit?usp=sharing)**
 - **[Slack List](https://slack.directory/)**
 - **[This Dot Tech Community Slacks](https://github.com/thisdot/tech-community-slacks)**
 
@@ -333,58 +333,86 @@ Chicago is home to a large number of engineering and tech communities. Only a se
 
 #### Indiana
 
-##### _Inactive or can't sign up_
-
-- **[Indy Hackers](http://indyhackers-slack.herokuapp.com/)** – `Slack` – Statewide – Form is broken
+- **[Indy Hackers](https://www.indyhackers.org/)** – `GitHub` `Slack` `Twitter/X` – Statewide
+  - [GitHub](https://github.com/indyhackers)
+  - [Slack](https://slack.indyhackers.org/)
+  - [Twitter/X](https://twitter.com/indyhackersorg)
 
 #### Iowa
 
-- **[Central Iowa Linux User Group](http://www.cialug.org/)** – `Slack` `IRC` – Central Iowa
-- **[Startup Iowa](http://www.startupiowachat.com/)** – `Slack` – Statewide
-
-##### _Inactive or can't sign up_
-
-- **[Des Moines Web Collective](http://dsmwebcollective.com/)**(https://dsmwebcollective.herokuapp.com/)
-- **[Des Moines Web Geeks](http://www.dsmwebgeeks.com/)**(https://dsmwebgeeks.slack.com/)
-- **[SecDSM](https://secdsm.org/)**(https://secdsm.slack.com/)
-- **[WordPress Des Moines](http://wpdsm.org/)**(http://wordpressdsm.herokuapp.com/)
+- **[Central Iowa Linux User Group](http://www.cialug.org/)** – `IRC` `Slack` – Central Iowa – We are a group of Free *nix Enthusiasts who all happen to live in Central Iowa. Our experience levels range from those who are just starting to play with Linux to seasoned professionals who have been with it since the very beginning.
+  - [Slack](https://join.slack.com/t/cialug/shared_invite/enQtMjk2MzU0OTkzNTU0LWYwZWNjNTRhYjk0Y2U0NzI2MDU1NWRhMTIxYTZjODhlMjgwMzBmYzk2MjM3MjI0ZjFiMGIxZjc1OGM2MzlmYzU)
+- **[Des Moines Web Collective](http://dsmwebcollective.com/)** – `Facebook` `GitHub` `Slack` `Twitter/X` – Des Moines – The Des Moines Web Collective is a collaborative, community-driven resource focused on bringing together web design and development professionals in the Des Moines metro area.
+  - [Facebook group](https://www.facebook.com/groups/dsmwebcollective/) – Inactive since 2016-12-27.
+  - [GitHub](https://github.com/dsmwebcollective)
+  - ~[Slack](https://dsmwebcollective.herokuapp.com/)~
+  - [Twitter/X](https://twitter.com/dmwebcollective) – Never active.
+- **[Des Moines Web Geeks](http://www.dsmwebgeeks.com/)** – `Facebook` `Meetup` `Slack` `Twitter/X` – Des Moines – Des Moines Web Geeks is a group of web professionals and enthusiasts looking to meet, share ideas and have some fun. Everyone is welcome to join and participate.
+  - [Facebook page](https://www.facebook.com/DSMWebGeeks/)
+  - [Meetup](https://www.meetup.com/des-moines-web-geeks/)
+  - [Slack](https://dsmwebgeeks.slack.com/) – Signup is restricted to whitelisted domains.
+  - [Twitter/X](https://twitter.com/dsmwebgeeks)
+- **[SecDSM](https://secdsm.org/)** – `Discord` `Slack` `Twitter/X` – Des Moines – A monthly infosec meetup group to network and learn from your fellow members while enjoying some beer/drinks/food. No sales, no dues, no BS.
+  - [Discord](https://discord.gg/aqcDKzVYw3)
+  - [Slack](https://secdsm.slack.com/) – Signup is disabled.
+  - [Twitter/X](https://twitter.com/secdsm)
+- **[Startup Iowa](http://www.startupiowachat.com/)** – `Slack` – Statewide – Startup Iowa Chat is your free passport to Iowa's Entrepreneurial Ecosystem. Anyone with a connection to or interest in the Iowa Startup community may join to stay up to date with what's going on in Iowa and get help with their business plan, design, coding, marketing and more.
+- **[WordPress Des Moines](http://wpdsm.org/)** – Slack – Des Moines – WordPress Des Moines is part of the larger WordPress Community across the globe, but more importantly, we are people right here in the Des Moines area who use WordPress, create WordPress websites, and write software for WordPress.
+  - ~[Slack](http://wordpressdsm.herokuapp.com/)~
 
 #### Kansas
 
-##### _Inactive or can't sign up_
-
-- **[devICT](https://devict-slackin.herokuapp.com/)** – `Slack` – Link is dead
+- **[devICT](https://www.devict.org/)** – `Slack` – Wichita –  We are a group of individuals who have a common interest in software development. Our skill levels vary greatly, from complete beginners to seasoned veterans. We welcome anyone with a curiosity for programming.
+  - [Facebook page](https://www.facebook.com/developerict)
+  - [GitHub](https://github.com/devict)
+  - [Meetup](https://www.meetup.com/devict/)
+  - [Slack](https://slack.devict.org/)
+  - [Twitter/X](https://twitter.com/dev_ict)
 
 #### Kentucky
 
-- **[Bluegrass Developers Guild](https://www.bluegrassdevs.org/)** – `Slack` `Meetup` – Lexington
-
-##### _Inactive or can't sign up_
-
-- **[Louisville.io](http://louisville.io)** – `Slack` – Louisville – All links are broken
-  - http://louisville.slack.com
-  - http://slackin.louisville.io/
-- **[Startup Lexington](https://www.startuplexington.org/)** – `Slack` – Lexington – Signup link is broken
+- **[Bluegrass Developers Guild](https://www.bluegrassdevs.org/)** – `GitHub` `Meetup` `Slack` – Lexington? Statewide? – We are a collective of software engineers, programmers, researchers, data scientists, and designers in the state of Kentucky. Our purpose is to promote a sense of community among local technology organizations and their members. We seek to improve communication between leaders, centralize efforts, improve culture, and to support our members in a way that strengthens our community and promotes the common good.
+  - [GitHub](https://github.com/bluegrass-devs)
+  - [Meetup](https://www.meetup.com/The-Bluegrass-Developers-Guild/)
+  - [Slack](https://form.jotform.com/231035903729051)
+- **[StartupLax](https://www.startuplexington.org/)** – `Slack` – Lexington – StartupLex is a vital supporter-driven organization to Lexington's entrepreneurial ecosystem. We're non-profit lead and here to help you immerse yourself, and your business, into the Central Kentucky scene. We're looking for energetic, startup-minded individuals and organizations, to help feed the spirited environment growing in Central Kentucky.
+  - [Slack](https://join.slack.com/t/startuplexington/shared_invite/enQtNjA2MDk2MjQ0ODM5LTI2Y2YxNmM0MjE1YjQ5ZWQ1NjI4MDRjZmI2ODM3Nzc0YmU1NDI2ZmZlNjQ0MTE1ZTQ0NTIwMzZkZWFkYjU5ODA)
 
 #### Maryland
 
-##### _Inactive or can't sign up_
+For more information on Baltimore tech communities, [Welcome to the Baltimore Tech Scene](https://www.caseywatts.com/blog/welcome-to-baltimore-tech/) is a dedicated resource.
 
-- **[Baltimore Tech](http://baltimoretech-slack.herokuapp.com/)** – `Slack` – Baltimore – Link is dead
+- **Baltimore Tech** – `Meetup` `Slack` – Baltimore – We're a public Slack for the Baltimore, MD Tech community. With hundreds of members, we have a wide variety of channels and work to foster an inclusive community.
+  - [Meetup](https://www.meetup.com/baltimore-tech/)
+  - [Slack](http://baltimoretechslack.com/)
 
 #### Michigan
 
-##### _Inactive or can't sign up_
+- **[Detroit Speakers in Tech]** – `Meetup` `Slack` `Twitter/X` – Detroit – Inspired by Global Diversity CFP Day (a worldwide effort to guide new speakers, particularly those underrepresented in tech and as presenters, towards their first conference talks), Detroit Speakers in Tech seeks to connect, train, and support speakers throughout the year. We host workshops for speakers of all experience levels to put together conference talks, refine every aspect of your proposal, and improve presentation delivery.
+  - [Meetup](https://www.meetup.com/detroit-speakers-in-tech/)
+  - ~[Slack](https://tinyurl.com/Join-DSIT-Slack)~
+  - [Twitter/X](https://twitter.com/SpeakersInTech) – Inactive since 2020-10-30.
+- <details>
+  <summary><i>Inactive</i></summary>
 
-- **[Detroit Speakers in Tech](https://tinyurl.com/Join-DSIT-Slack)** – `Slack` – Detroit area – Link is dead
-- **[Startup Lansing](http://startuplansing.org/join-slack/)** – `Slack` – St. Louis/Lansing area – Link is dead
+- **[Startup Lansing](http://startuplansing.org/join-slack/)** – `Slack` – Lansing
+  - ~[Slack](http://startuplansing.org/join-slack/)~ – Spam squatter redirect
+  - ~[Website](http://startuplansing.org/)~ – Spam squatter redirect
+</details>
 
 #### Minnesota
 
-##### _Inactive or can't sign up_
+- **Twin Cities Chaos Engineering Community** – `Meetup` `Slack` – This is a group for reliability engineering disciplines to get together and share ideas on Chaos Engineering. If you're passionate about building a more resilient system so you can sleep at night come hang out with us!
+  - [Meetup](https://www.meetup.com/twin-cities-chaos-engineering-community/)
+  – [Slack](http://twincities-chaosengr.slack.com) – Signup is restricted to one seemingly random whitelisted domain.
+- <details>
+  <summary><i>Inactive</i></summary>
 
-- **[MSPTech](http://www.msptech.online/)** – Twin Cities – Link is dead
-- **[Twin Cities Chaos Engineering Community](http://twincities-chaosengr.slack.com)** – `Slack` – Can only sign up with email address at a few obscure domains
+  - **MSPTech** – Twin Cities
+    - [GitHub](https://github.com/msp-tech) – Inactive since 2020-03-30.
+    - ~[Slack](https://msptech.herokuapp.com/)~
+    - ~[Website](https://www.msptech.online/)~
+</details>
 
 #### Missouri
 
