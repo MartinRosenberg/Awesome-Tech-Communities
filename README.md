@@ -1,10 +1,110 @@
 # Awesome Tech Communities
 
-## License
+## Table of Contents
+
+<!-- TOC -->
+
+* [Information](#information)
+  * [License](#license)
+  * [Roadmap](#roadmap)
+  * [Sources](#sources)
+* [Regional](#regional)
+  * [USA 🇺🇸](#usa-)
+    * [Alabama](#alabama)
+    * [Arizona](#arizona)
+    * [Arkansas](#arkansas)
+    * [California](#california)
+    * [Colorado](#colorado)
+    * [Connecticut](#connecticut)
+    * [Florida](#florida)
+    * [Georgia](#georgia)
+    * [Hawaii](#hawaii)
+    * [Illinois](#illinois)
+    * [Indiana](#indiana)
+    * [Iowa](#iowa)
+    * [Kansas](#kansas)
+    * [Kentucky](#kentucky)
+    * [Maryland](#maryland)
+    * [Michigan](#michigan)
+    * [Minnesota](#minnesota)
+    * [Missouri](#missouri)
+    * [New Mexico](#new-mexico)
+    * [New York](#new-york)
+    * [North Carolina](#north-carolina)
+    * [Ohio](#ohio)
+    * [Oklahoma](#oklahoma)
+    * [Oregon](#oregon)
+    * [Pennsylvania](#pennsylvania)
+    * [Tennessee](#tennessee)
+    * [Texas](#texas)
+    * [Utah](#utah)
+    * [Virginia](#virginia)
+    * [Washington](#washington)
+    * [Washington, D.C.](#washington-dc)
+    * [Wisconsin](#wisconsin)
+  * [Other countries](#other-countries)
+    * [Argentina 🇦🇷](#argentina-)
+    * [Australia 🇦🇺](#australia-)
+    * [Brazil 🇧🇷](#brazil-)
+    * [Caribbean Countries 🇧🇸🇧🇧🇧🇿🇨🇺🇩🇲🇩🇴🇬🇩🇬🇾🇭🇹🇯🇲🇰🇳🇱🇨🇻🇨🇸🇷🇹🇹](#caribbean-countries-)
+    * [Cote d'Ivoire (Ivory Coast) 🇨🇮](#cote-divoire-ivory-coast-)
+    * [Canada 🇨🇦](#canada-)
+    * [🇨🇱 Chile](#-chile)
+    * [🇩🇰 Denmark](#-denmark)
+    * [🇫🇮 Finland](#-finland)
+    * [France 🇫🇷](#france-)
+    * [Germany 🇩🇪](#germany-)
+    * [Ghana 🇬🇭](#ghana-)
+    * [India 🇮🇳](#india-)
+    * [Indonesia 🇮🇩](#indonesia-)
+    * [Ireland 🇮🇪](#ireland-)
+    * [Israel 🇮🇱](#israel-)
+    * [Italy 🇮🇹](#italy-)
+    * [Japan 🇯🇵](#japan-)
+    * [Malaysia 🇲🇾](#malaysia-)
+    * [Mexico 🇲🇽](#mexico-)
+    * [New Zealand 🇳🇿](#new-zealand-)
+    * [Nigeria 🇳🇬](#nigeria-)
+    * [Philippines 🇵🇭](#philippines-)
+    * [Poland 🇵🇱](#poland-)
+    * [Romania 🇷🇴](#romania-)
+    * [South Africa 🇿🇦](#south-africa-)
+    * [Spain 🇪🇸](#spain-)
+    * [Serbia 🇷🇸](#serbia-)
+    * [UK 🇬🇧](#uk-)
+    * [Uruguay 🇺🇾](#uruguay-)
+    * [Ukraine 🇺🇦](#ukraine-)
+    * [Vietnam 🇻🇳](#vietnam-)
+* [Conferences (public communities)](#conferences-public-communities)
+* [Frameworks](#frameworks)
+  * [Angular](#angular)
+  * [React](#react)
+  * [Vue.js](#vuejs)
+  * [Other](#other)
+* [Languages](#languages)
+  * [JavaScript](#javascript)
+  * [Python](#python)
+* [Design](#design)
+* [Security](#security)
+* [Technologies](#technologies)
+* [General Dev](#general-dev)
+* [Testing & QA](#testing--qa)
+* [Intro to Dev & Learning](#intro-to-dev--learning)
+* [Women](#women)
+* [Misc Interest](#misc-interest)
+* [Community Groups](#community-groups)
+* [Blogging](#blogging)
+* [Resources](#resources)
+
+<!-- TOC -->
+
+## Information
+
+### License
 
 <span xmlns:cc="http://creativecommons.org/ns#">This work is marked with <a href="http://creativecommons.org/publicdomain/zero/1.0?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1"></a>.</span> Effectively, to whatever extent possible, it is in the public domain; however, there may be content I don't have the right to donate to the public domain. For more information, see [LICENSE](LICENSE).
 
-## Roadmap
+### Roadmap
 
 - [ ] Add navigation
 - [ ] Fix Illinois/Iowa/Kentucky links
@@ -14,7 +114,7 @@
 - [ ] Check out non-regional communities
 - [ ] Figure out a better way to organize this list
 
-## Sources
+### Sources
 
 - [Awesome Community](https://github.com/phpearth/awesome-community)
 - [Slack List](https://slack.directory/)
