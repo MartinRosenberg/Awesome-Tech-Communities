@@ -173,7 +173,7 @@ Not that the USA is special, but it does have quite a lot of tech communities!
 
 #### Colorado
 
-Until something else rises to take its place, the archive of [DenverTech.community](https://web.archive.org/web/20240217173643/https://www.denvertech.community/) is still an excellent resource for Denver (and a bit elsewhere in Colorado, too).
+Until something else rises to take its place, the archive of [**DenverTech.community**](https://web.archive.org/web/20240217173643/https://www.denvertech.community/) is still an excellent resource for Denver (and a bit elsewhere in Colorado, too).
 
 - **Angular Colorado** – [`Slack`](https://slack.angularcolorado.com/) – Statewide
 - **Colorado = Security** – [`Website`](https://www.colorado-security.com/) • [`Podcast (on Apple Podcasts)`](https://podcasts.apple.com/us/podcast/colorado-security-podcast/id1203599493)[ⓘ](## "Also available on your preferred podcast app.") • [`Slack`](https://www.colorado-security.com/join-slack) – Statewide – Colorado = Security is the home for all things information security in Colorado. It's your place to connect with the local security community, see the calendar of upcoming events, and of course, listen to Colorado's only security podcast.
@@ -242,7 +242,7 @@ Until something else rises to take its place, the archive of [DenverTech.communi
 
 #### Illinois
 
-Chicago is home to a large number of engineering and tech communities. Only a select few large, active groups are documented here. For a much deeper dive into Chicago communities, see **[Chicago Engineering and Tech Communities and Organizations](https://github.com/driscoll42/chicago-engineering-and-tech-communities)**; and for a tech event calendar, see **[Chicago Tech Community Events](https://chitechcommunityevents.softr.app/)**.
+Chicago is home to a large number of engineering and tech communities. Only a select few large, active groups are documented here. For a much deeper dive into Chicago communities, see [**Chicago Engineering and Tech Communities and Organizations**](https://github.com/driscoll42/chicago-engineering-and-tech-communities); and for a tech event calendar, see [**Chicago Tech Community Events**](https://chitechcommunityevents.softr.app/).
 
 <!-- This is somehow related to Chicago Tech Slack: https://re-factor.co/ -->
 
@@ -258,15 +258,15 @@ Chicago is home to a large number of engineering and tech communities. Only a se
 #### Iowa
 
 - **Central Iowa Linux User Group** – [`Website`](http://www.cialug.org/) • `IRC` • [`Slack`](https://join.slack.com/t/cialug/shared_invite/enQtMjk2MzU0OTkzNTU0LWYwZWNjNTRhYjk0Y2U0NzI2MDU1NWRhMTIxYTZjODhlMjgwMzBmYzk2MjM3MjI0ZjFiMGIxZjc1OGM2MzlmYzU) – Central Iowa – We are a group of Free *nix Enthusiasts who all happen to live in Central Iowa. Our experience levels range from those who are just starting to play with Linux to seasoned professionals who have been with it since the very beginning.
-- **Des Moines Web Collective** – [`Website`](http://dsmwebcollective.com/) • [Facebook group](https://www.facebook.com/groups/dsmwebcollective/)[ⓘ](## "Inactive since 2016-12-27.") • [`GitHub`](https://github.com/dsmwebcollective) • [~~`Slack`~~](https://dsmwebcollective.herokuapp.com/) • [`Twitter/X`](https://twitter.com/dmwebcollective)[ⓘ](## "Never active.") – Des Moines – The Des Moines Web Collective is a collaborative, community-driven resource focused on bringing together web design and development professionals in the Des Moines metro area.
-- **Des Moines Web Geeks** – [`Website`](http://www.dsmwebgeeks.com/) • [Facebook page](https://www.facebook.com/DSMWebGeeks/) • [Meetup](https://www.meetup.com/des-moines-web-geeks/) • [Slack](https://dsmwebgeeks.slack.com/)[ⓘ](## "Signup is restricted to whitelisted domains.") • [Twitter/X](https://twitter.com/dsmwebgeeks) – Des Moines – Des Moines Web Geeks is a group of web professionals and enthusiasts looking to meet, share ideas and have some fun. Everyone is welcome to join and participate.
+- **Des Moines Web Collective** – [`Website`](http://dsmwebcollective.com/) • [`Facebook group`](https://www.facebook.com/groups/dsmwebcollective/)[ⓘ](## "Inactive since 2016-12-27.") • [`GitHub`](https://github.com/dsmwebcollective) • [~~`Slack`~~](https://dsmwebcollective.herokuapp.com/) • [`Twitter/X`](https://twitter.com/dmwebcollective)[ⓘ](## "Never active.") – Des Moines – The Des Moines Web Collective is a collaborative, community-driven resource focused on bringing together web design and development professionals in the Des Moines metro area.
+- **Des Moines Web Geeks** – [`Website`](http://www.dsmwebgeeks.com/) • [`Facebook page`](https://www.facebook.com/DSMWebGeeks/) • [`Meetup`](https://www.meetup.com/des-moines-web-geeks/) • [`Slack`](https://dsmwebgeeks.slack.com/)[ⓘ](## "Signup is restricted to whitelisted domains.") • [`Twitter/X`](https://twitter.com/dsmwebgeeks) – Des Moines – Des Moines Web Geeks is a group of web professionals and enthusiasts looking to meet, share ideas and have some fun. Everyone is welcome to join and participate.
 - **SecDSM** – [`Website`](https://secdsm.org/) • [`Discord`](https://discord.gg/aqcDKzVYw3) • [`Slack`](https://secdsm.slack.com/)[ⓘ](## "Signup is disabled.") • [`Twitter/X`](https://twitter.com/secdsm) – Des Moines – A monthly infosec meetup group to network and learn from your fellow members while enjoying some beer/drinks/food. No sales, no dues, no BS.
 - **Startup Iowa** – [`Slack`](http://www.startupiowachat.com/) – Statewide – Startup Iowa Chat is your free passport to Iowa's Entrepreneurial Ecosystem. Anyone with a connection to or interest in the Iowa Startup community may join to stay up to date with what's going on in Iowa and get help with their business plan, design, coding, marketing and more.
 - **WordPress Des Moines** – [`Website`](http://wpdsm.org/) • [~~`Slack`~~](http://wordpressdsm.herokuapp.com/) – Des Moines – WordPress Des Moines is part of the larger WordPress Community across the globe, but more importantly, we are people right here in the Des Moines area who use WordPress, create WordPress websites, and write software for WordPress.
 
 #### Kansas
 
-- **devICT** – [`Website`](https://www.devict.org/) • [`Facebook page`](https://www.facebook.com/developerict) • [`GitHub`](https://github.com/devict) • [Meetup](https://www.meetup.com/devict/) • [`Slack`](https://slack.devict.org/) • [`Twitter/X`](https://twitter.com/dev_ict) – Wichita –  We are a group of individuals who have a common interest in software development. Our skill levels vary greatly, from complete beginners to seasoned veterans. We welcome anyone with a curiosity for programming.
+- **devICT** – [`Website`](https://www.devict.org/) • [`Facebook page`](https://www.facebook.com/developerict) • [`GitHub`](https://github.com/devict) • [`Meetup`](https://www.meetup.com/devict/) • [`Slack`](https://slack.devict.org/) • [`Twitter/X`](https://twitter.com/dev_ict) – Wichita –  We are a group of individuals who have a common interest in software development. Our skill levels vary greatly, from complete beginners to seasoned veterans. We welcome anyone with a curiosity for programming.
 
 #### Kentucky
 
@@ -275,7 +275,7 @@ Chicago is home to a large number of engineering and tech communities. Only a se
 
 #### Maryland
 
-For more information on Baltimore tech communities, [Welcome to the Baltimore Tech Scene](https://www.caseywatts.com/blog/welcome-to-baltimore-tech/) is a dedicated resource.
+For more information on Baltimore tech communities, [**Welcome to the Baltimore Tech Scene**](https://www.caseywatts.com/blog/welcome-to-baltimore-tech/) is a dedicated resource.
 
 - **Baltimore Tech** – [`Meetup`](https://www.meetup.com/baltimore-tech/) • [`Slack`](http://baltimoretechslack.com/) – Baltimore – We're a public Slack for the Baltimore, MD Tech community. With hundreds of members, we have a wide variety of channels and work to foster an inclusive community.
 
