@@ -307,7 +307,7 @@ Not that the USA is special, but it does have quite a lot of tech communities!
 
 #### Illinois
 
-Chicago is home to a large number of engineering and tech communities. Only a select few large, active groups are documented here. For a much deeper dive into Chicago communities, see **[Chicago Engineering and Tech Communities and Organizations](https://github.com/driscoll42/chicago-engineering-and-tech-communities)**; and for tech event calendar, see **[Chicago Tech Community Events](https://chitechcommunityevents.softr.app/)**.
+Chicago is home to a large number of engineering and tech communities. Only a select few large, active groups are documented here. For a much deeper dive into Chicago communities, see **[Chicago Engineering and Tech Communities and Organizations](https://github.com/driscoll42/chicago-engineering-and-tech-communities)**; and for a tech event calendar, see **[Chicago Tech Community Events](https://chitechcommunityevents.softr.app/)**.
 
 <!-- This is somehow related to Chicago Tech Slack: https://re-factor.co/ -->
 
@@ -318,7 +318,7 @@ Chicago is home to a large number of engineering and tech communities. Only a se
   - [YouTube](https://www.youtube.com/@awschicago)
 - **Chicago Tech Slack** – `Meetup` `Slack` – Chicago
   - [Slack](https://www.chicagotechslack.com/) (or [Slack](https://chicago-tech.slack.com/join/shared_invite/zt-1cb3mexrp-Ri0DCePyYaXSuEg8qPUCTA#/shared-invite/email))
-  - [Meetup](https://www.meetup.com/chicago-tech-slackers/) – Inactive since 2016-05-11
+  - [Meetup](https://www.meetup.com/chicago-tech-slackers/) – Inactive since 2016-05-11.
 - **[Chi Hack Night](https://chihacknight.org/)** – `Eventbrite` `Slack` – Chicago
   - [Eventbrite](https://chihacknight.eventbrite.com)
   - [Facebook page](https://www.facebook.com/chihacknight)
@@ -358,7 +358,7 @@ Chicago is home to a large number of engineering and tech communities. Only a se
   - [Slack](https://secdsm.slack.com/) – Signup is disabled.
   - [Twitter/X](https://twitter.com/secdsm)
 - **[Startup Iowa](http://www.startupiowachat.com/)** – `Slack` – Statewide – Startup Iowa Chat is your free passport to Iowa's Entrepreneurial Ecosystem. Anyone with a connection to or interest in the Iowa Startup community may join to stay up to date with what's going on in Iowa and get help with their business plan, design, coding, marketing and more.
-- **[WordPress Des Moines](http://wpdsm.org/)** – Slack – Des Moines – WordPress Des Moines is part of the larger WordPress Community across the globe, but more importantly, we are people right here in the Des Moines area who use WordPress, create WordPress websites, and write software for WordPress.
+- **[WordPress Des Moines](http://wpdsm.org/)** – `Slack` – Des Moines – WordPress Des Moines is part of the larger WordPress Community across the globe, but more importantly, we are people right here in the Des Moines area who use WordPress, create WordPress websites, and write software for WordPress.
   - ~[Slack](http://wordpressdsm.herokuapp.com/)~
 
 #### Kansas
@@ -376,7 +376,7 @@ Chicago is home to a large number of engineering and tech communities. Only a se
   - [GitHub](https://github.com/bluegrass-devs)
   - [Meetup](https://www.meetup.com/The-Bluegrass-Developers-Guild/)
   - [Slack](https://form.jotform.com/231035903729051)
-- **[StartupLax](https://www.startuplexington.org/)** – `Slack` – Lexington – StartupLex is a vital supporter-driven organization to Lexington's entrepreneurial ecosystem. We're non-profit lead and here to help you immerse yourself, and your business, into the Central Kentucky scene. We're looking for energetic, startup-minded individuals and organizations, to help feed the spirited environment growing in Central Kentucky.
+- **[StartupLex](https://www.startuplexington.org/)** – `Slack` – Lexington – StartupLex is a vital supporter-driven organization to Lexington's entrepreneurial ecosystem. We're non-profit lead and here to help you immerse yourself, and your business, into the Central Kentucky scene. We're looking for energetic, startup-minded individuals and organizations, to help feed the spirited environment growing in Central Kentucky.
   - [Slack](https://join.slack.com/t/startuplexington/shared_invite/enQtNjA2MDk2MjQ0ODM5LTI2Y2YxNmM0MjE1YjQ5ZWQ1NjI4MDRjZmI2ODM3Nzc0YmU1NDI2ZmZlNjQ0MTE1ZTQ0NTIwMzZkZWFkYjU5ODA)
 
 #### Maryland
