@@ -124,6 +124,7 @@ Please feel free to submit a Pull Request (or an Issue) to add a new community, 
 
 - **[Awesome Community](https://github.com/phpearth/awesome-community)**
 - **[Chicago Engineering and Tech Communities and Organizations](https://github.com/driscoll42/chicago-engineering-and-tech-communities)**
+- **[DenverTech.community (archived)](https://web.archive.org/web/20240217173643/https://www.denvertech.community/)**
 - **[The Full List of 1000 Slack Communities](https://docs.google.com/spreadsheets/d/14WooUa7p-5T1T-kXlTMRWSFeJl2c8-6MOIJUEH-wnaQ/edit?usp=sharing)**
 - **[Slack List](https://slack.directory/)**
 - **[This Dot Tech Community Slacks](https://github.com/thisdot/tech-community-slacks)**
@@ -185,6 +186,8 @@ Not that the USA is special, but it does have quite a lot of tech communities!
 </details>
 
 #### Colorado
+
+Until something else rises to take its place, the archive of [DenverTech.community](https://web.archive.org/web/20240217173643/https://www.denvertech.community/) is still an excellent resource for Denver (and a bit elsewhere in Colorado, too).
 
 - **[Angular Colorado](https://slack.angularcolorado.com/)** – `Slack` – Statewide
 - **[Colorado = Security](https://www.colorado-security.com/)** – `Podcast` `Slack` – Statewide – Colorado = Security is the home for all things information security in Colorado. It's your place to connect with the local security community, see the calendar of upcoming events, and of course, listen to Colorado's only security podcast.
