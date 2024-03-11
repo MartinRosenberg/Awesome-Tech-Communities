@@ -186,103 +186,58 @@ Until something else rises to take its place, the archive of [DenverTech.communi
 - <details>
   <summary><i>Inactive</i></summary>
 
-  - **[Angular Boulder](https://www.meetup.com/angular-boulder/)** – `Meetup` – Inactive since 2022-11-14.
-  - **Colorado Freelance Web Developers** – `Meetup` `Slack` – Statewide
-    – Meetup – [Inactive since 2019-03-10.](https://gist.github.com/focusaurus/0dc47a2f9f8c46290fc7e73cea9ac0e7)
-    – [Slack](http://co-freelance-webdevs.slack.com/) – Signup is disabled.
-  - **[Colorado Springs Developers](https://coloradospringsdevs.herokuapp.com/)** – `Slack` – Colorado Springs – Link is dead since at least 2022-10-24.
-  - **[Made In Loveland](http://madeinloveland.slack.com/)** – `Slack` – Loveland – Signup is restricted to seemingly random whitelisted domains.
-  - **[Rocky Mountain Angular](https://www.meetup.com/RockyMountainAngular/)** – `Meetup` – Inactive since 2020-12-17.
+  - **Angular Boulder** – [`Meetup`](https://www.meetup.com/angular-boulder/)[ⓘ](## "Inactive since 2022-11-14.") – Boulder
+  - **Colorado Freelance Web Developers** – [`Meetup`](https://gist.github.com/focusaurus/0dc47a2f9f8c46290fc7e73cea9ac0e7)[ⓘ](## "Inactive since 2019-03-10.") • [`Slack`](http://co-freelance-webdevs.slack.com/)[ⓘ](## "Signup is disabled.") – Statewide
+  - **Colorado Springs Developers** – [~~`Slack`~~](https://coloradospringsdevs.herokuapp.com/)[ⓘ](## "Link is dead since at least 2022-10-24.") – Colorado Springs
+  - **Made In Loveland** – [`Slack`](http://madeinloveland.slack.com/)[ⓘ](## "Signup is restricted to seemingly random whitelisted domains.") – Loveland 
+  - **Rocky Mountain Angular** – [`Meetup`](https://www.meetup.com/RockyMountainAngular/)[ⓘ](## "Inactive since 2020-12-17.") – Statewide?
 </details>
 
 #### Connecticut
 
-- **[New Haven.io](https://newhaven.io)** – `Discord` `Meetup` – New Haven – NewHaven.io acts as the hub of the local tech community by helping its members learn, solve problems, and connect with the local tech scene.
-  - [Discord](https://discord.gg/yP7WxSXq5h)
-  - [GitHub](https://github.com/newhavenio)
-  - [Google Groups](https://groups.google.com/g/newhavenio) – Inactive since 2022-10-22.
-  - [Meetup](https://www.meetup.com/newhavenio/)
-  - [Twitter/X](https://twitter.com/newhavenio) – Inactive since 2021-10-14.
+- **NewHaven.io** – [`Website`](https://newhaven.io) • [`Discord`](https://discord.gg/yP7WxSXq5h) • [`GitHub`](https://github.com/newhavenio) • [`Google Groups`](https://groups.google.com/g/newhavenio)[ⓘ](## "Inactive since 2022-10-22.") • [`Meetup`](https://www.meetup.com/newhavenio/) • [`Twitter/X`](https://twitter.com/newhavenio)[ⓘ](## "Inactive since 2021-10-14.") – New Haven – NewHaven.io acts as the hub of the local tech community by helping its members learn, solve problems, and connect with the local tech scene.
 
 #### Florida
 
-- **[Orlando Devs](https://orlandodevs.com/)** – `Eventbrite` `GitHub` `Patreon` `Slack` `Twitter/X` – Orlando – An open community and online chat for Software Developers with 1,000+ members. Who knew so many people were interested in writing code in Orlando, FL?
-  - [Eventbrite](https://www.eventbrite.com/o/orlando-devs-15266001174)
-  - [GitHub](https://github.com/OrlandoDevs) – Inactive since 2022-10-25.
-  - [Patreon](https://www.patreon.com/odevs)
-  - [Slack](https://orlandodevs.com/slack)
-  - [Twitter/X](https://twitter.com/OrlandoDevs) – Inactive since 2023-01-27.
-- **[Suncoast Developers Guild](https://suncoast.io/)** – `Discord` `LinkedIn` `Meetup` `Slack` `Twitter/X` – Greater Tampa Bay Area – The Suncoast Developers Guild is a community representing a number of developer organizations in the Greater Tampa Bay area.
-  - ~~[Discord](https://sdg.codes/discord)~~
-  - [LinkedIn](https://www.linkedin.com/school/suncoastdevs/)
-  - [Meetup](https://www.meetup.com/suncoast-developers-guild/)
-  - [Slack](https://join.slack.com/t/suncoast-devs/shared_invite/enQtNzY1NDAxMjk4NTYzLWUwZGQ4NjhjMmJiMmI5YTc4OGEzYjViMTgzNWQ1MGViZWI5MzI4NWRlNTAyMzljYjU1ZTNiYjkzZWY2YmI3NTE)
-  - ~~[Twitter/X](https://twitter.com/suncoastio)~~
-- **[SWFL Coders](https://www.swflcoders.com/)** – `Facebook` `GitHub` `Meetup` `Slack` `Twitter/X` – Fort Myers – SWFL Coders is a community for technology enthusiasts, including developers, coders, and non-coders, who are eager to explore the captivating world of programming.
-  - [Facebook page](https://www.facebook.com/SWFLCoders/)
-  - [GitHub](https://github.com/swfl-coders)
-  - [Meetup](https://www.meetup.com/SWFL-Coders/)
-  - [Slack](https://join.slack.com/t/swflcoders/shared_invite/enQtNjk2OTUwMjE4OTMwLTIyNDljNjg2Mjk3YWIxMGViYWI2MWU0ODZlZjUzYzJhYjNmMmRjZDE4YmViNjlkYzY4ZjEzYTY3MzVkMDkwNTc)
-  - [Twitter/X](https://twitter.com/SWFLCoders)
-- **[Tampa Devs](https://tampadevs.com)** – `Meetup` `Slack` `Twitter/X` `YouTube` – Tampa – Tampa Devs is the fastest-growing nonprofit community for software developers in Tampa Bay. We're united by a shared mission to break barriers in the tech industry. Each month, we host workshops and create educational and career opportunities for all backgrounds or experience levels. For free, and for everyone.
-  - [Meetup](https://www.meetup.com/tampadevs/)
-  - [Slack](https://go.tampa.dev/slack)
-  - [Twitter/X](https://twitter.com/tampadevs)
-  - [YouTube](https://www.youtube.com/@tampadevs)
+- **Orlando Devs** – [`Website`](https://orlandodevs.com/) • [`Eventbrite`](https://www.eventbrite.com/o/orlando-devs-15266001174) • [`GitHub`](https://github.com/OrlandoDevs)[ⓘ](## "Inactive since 2022-10-25.") • [`Patreon`](https://www.patreon.com/odevs) • [`Slack`](https://orlandodevs.com/slack) • [Twitter/X](https://twitter.com/OrlandoDevs)[ⓘ](## "Inactive since 2023-01-27.") – Orlando – An open community and online chat for Software Developers with 1,000+ members. Who knew so many people were interested in writing code in Orlando, FL?
+- **Suncoast Developers Guild** – [`Website`](https://suncoast.io/) • [~~`Discord`~~](https://sdg.codes/discord) • [`LinkedIn`](https://www.linkedin.com/school/suncoastdevs/) • [`Meetup`](https://www.meetup.com/suncoast-developers-guild/) • [`Slack`](https://join.slack.com/t/suncoast-devs/shared_invite/enQtNzY1NDAxMjk4NTYzLWUwZGQ4NjhjMmJiMmI5YTc4OGEzYjViMTgzNWQ1MGViZWI5MzI4NWRlNTAyMzljYjU1ZTNiYjkzZWY2YmI3NTE) • [~~`Twitter/X`~~](https://twitter.com/suncoastio) – Greater Tampa Bay Area – The Suncoast Developers Guild is a community representing a number of developer organizations in the Greater Tampa Bay area.
+- **SWFL Coders** – [`Website`](https://www.swflcoders.com/) • [`Facebook page`](https://www.facebook.com/SWFLCoders/) • [`GitHub`](https://github.com/swfl-coders) • [`Meetup`](https://www.meetup.com/SWFL-Coders/) • [`Slack`](https://join.slack.com/t/swflcoders/shared_invite/enQtNjk2OTUwMjE4OTMwLTIyNDljNjg2Mjk3YWIxMGViYWI2MWU0ODZlZjUzYzJhYjNmMmRjZDE4YmViNjlkYzY4ZjEzYTY3MzVkMDkwNTc) • [`Twitter/X`](https://twitter.com/SWFLCoders) – Fort Myers – SWFL Coders is a community for technology enthusiasts, including developers, coders, and non-coders, who are eager to explore the captivating world of programming.
+- **Tampa Devs** – [`Website`](https://tampadevs.com) • [`Meetup`](https://www.meetup.com/tampadevs/) • [`Slack`](https://go.tampa.dev/slack) • [`Twitter/X`](https://twitter.com/tampadevs) • [`YouTube`](https://www.youtube.com/@tampadevs) – Tampa – Tampa Devs is the fastest-growing nonprofit community for software developers in Tampa Bay. We're united by a shared mission to break barriers in the tech industry. Each month, we host workshops and create educational and career opportunities for all backgrounds or experience levels. For free, and for everyone.
 - <details>
   <summary><i>Not tech-focused</i></summary>
 
-  - **[Gainesville FL Discord](https://discord.gg/F32yXXb)** – `Discord` – Gainesville
+  - **Gainesville FL Discord** – [`Discord`](https://discord.gg/F32yXXb) – Gainesville
 </details>
 
 - <details>
   <summary><i>Inactive</i></summary>
 
-  - **Front-End Miami** – `Meetup` `Slack` – Miami – Front-End Miami, formerly Front-End Developers of Miami, is a Meetup group that tries to have monthly gatherings about topics relevant to web development and front-end engineering.
-    - [Meetup](https://www.meetup.com/front-end-developers-of-miami/) – Inactive since 2021-09-20.
-    - [Slack](http://fedm.herokuapp.com/) – Link is dead.
-  - **Jacksonville Tech and Beer** – `Facebook` `Instagram` `LinkedIn` `Meetup` `YouTube` – Jacksonville – We are a community of tech professionals and enthusiasts that are inspired and passionate about technology in all forms and applications. We are focused on connecting the Jacksonville Tech community through the simplest form of communication… a conversation.
-    - [Facebook page](https://www.facebook.com/techandbeers/) – Inactive since 2021-02-16.
-    - [Instagram](https://www.instagram.com/techandbeers/) – Inactive since 2020-07-16.
-    - ~~[LinkedIn](https://www.linkedin.com/company/orlando-tech-and-beer/)~~
-    - [Meetup](https://www.meetup.com/jacksonville-tech-and-beer/) – Inactive since 2021-10-19.
-    - ~~[Website](https://techandbeers.com/)~~
-    - [YouTube](https://www.youtube.com/@techandbeer7614) – Inactive since 2018-08-06.
-  - **Jacksonville Tech Community** – `Slack` – Jacksonville
-    - ~~[Slack](http://jacksonville-tech.com/)~~
-  - **Tampa Bay Tech** – `Slack` – Tampa
-    - [Slack](http://tampabaytech.org/slack/) – Embedded signup form is dead.
-    - [Website](http://tampabaytech.org/) – Legal proceedings? Unclear what's going on here, to be honest.
-  - **Wynwood Tech** – Miami
-    - ~~[Website](https://wyn.tech/)~~
+
+  - **Front-End Miami** – [`Meetup`](https://www.meetup.com/front-end-developers-of-miami/)[ⓘ](## "Inactive since 2021-09-20.") • [~~`Slack`~~](http://fedm.herokuapp.com/) – Miami – Front-End Miami, formerly Front-End Developers of Miami, is a Meetup group that tries to have monthly gatherings about topics relevant to web development and front-end engineering.
+  - **Jacksonville Tech and Beer** – [~~`Website`~~](https://techandbeers.com/) • [Facebook page](https://www.facebook.com/techandbeers/)[ⓘ](## "Inactive since 2021-02-16.") • [`Instagram`](https://www.instagram.com/techandbeers/)[ⓘ](## "Inactive since 2020-07-16.") • [~~`LinkedIn`~~](https://www.linkedin.com/company/orlando-tech-and-beer/) • [`Meetup`](https://www.meetup.com/jacksonville-tech-and-beer/)[ⓘ](## "Inactive since 2021-10-19.") • [`YouTube`](https://www.youtube.com/@techandbeer7614)[ⓘ](## "Inactive since 2018-08-06.") – Jacksonville – We are a community of tech professionals and enthusiasts that are inspired and passionate about technology in all forms and applications. We are focused on connecting the Jacksonville Tech community through the simplest form of communication… a conversation.
+  - **Jacksonville Tech Community** – [~~`Slack`~~](http://jacksonville-tech.com/) – Jacksonville
+  - **Tampa Bay Tech** – [Website](http://tampabaytech.org/)[ⓘ](## "Legal proceedings? Unclear what's going on here, to be honest.") • [Slack](http://tampabaytech.org/slack/)[ⓘ](## "Embedded signup form is dead.") – Tampa
+  - **Wynwood Tech** – [~~`Website`~~](https://wyn.tech/) – Miami
 </details>
 
 - <details>
   <summary><i>Not tech-specific and inactive</i></summary>
 
-  - **[GNV Connect](https://gnvconnect.com/)** – `Slack` – Gainesville – Signup is restricted to seemingly random whitelisted domains.
+  - **GNV Connect** – [`Slack`](https://gnvconnect.com/)[ⓘ](## "Signup is restricted to seemingly random whitelisted domains.") – Gainesville
 </details>
 
 #### Georgia
 
-- **Developers of Athens** – `Meetup` `Slack` – Athens
-  - [Meetup](https://www.meetup.com/developers-of-athens/)
-  - ~~[Slack](https://athdev.org)~~
-- **[TechSAV](https://techsav.co/)** – `Facebook` `Mastodon` `Meetup` `Slack` – Savannah – TechSAV is a community of tech, tech-curious, and remote workers in Savannah, GA. We exist to help grow the tech community, give remote workers a place to meet fellow dorks, geeks and nerds, and to give folks who are tech curious an easy path to getting into tech!
-  - [Facebook page](https://www.facebook.com/techsavannah)
-  - [GitHub](https://github.com/techsavannah)
-  - [Mastodon](https://social.lol/@techsav)
-  - [Meetup](https://www.meetup.com/techsav/)
-  - ~~[Slack](https://techsav.co/wp-login.php?action=slack-invitation)~~
-- **[TECH404](http://tech404.io/)** – `Slack` – Atlanta – TECH404 is a group of chat channels for Atlanta area developers, designers, marketers, business people, hobbyists, students, and other professionals involved in technology. It’s a common space for all to use and enjoy. We talk about the technologies we use, our successes and failures, job opportunities, and the latest cute animal GIFs.
-  - [Slack](https://tech404.github.io/)
+- **Developers of Athens** – [`Meetup`](https://www.meetup.com/developers-of-athens/) • [~~`Slack`~~](https://athdev.org) – Athens
+- **TechSAV** – [`Website`](https://techsav.co/) • [`Facebook page`](https://www.facebook.com/techsavannah) • [`GitHub`](https://github.com/techsavannah) • [`Mastodon`](https://social.lol/@techsav) • [`Meetup`](https://www.meetup.com/techsav/) • [~~`Slack`~~](https://techsav.co/wp-login.php?action=slack-invitation) – Savannah – TechSAV is a community of tech, tech-curious, and remote workers in Savannah, GA. We exist to help grow the tech community, give remote workers a place to meet fellow dorks, geeks and nerds, and to give folks who are tech curious an easy path to getting into tech!
+- **TECH404** – [`Website`](http://tech404.io/) • [`Slack`](https://tech404.github.io/) – Atlanta – TECH404 is a group of chat channels for Atlanta area developers, designers, marketers, business people, hobbyists, students, and other professionals involved in technology. It’s a common space for all to use and enjoy. We talk about the technologies we use, our successes and failures, job opportunities, and the latest cute animal GIFs.
 
 #### Hawaii
 
 - <details>
   <summary><i>Not tech-focused</i></summary>
 
-  - **[Hawaii Slack](https://www.hawaiislack.com/)** – `Slack` –  Hawaii Slack is a Slack group for people in, from, or in love with Hawaii. While all are welcome, Hawaii Slack is a hub for local creators, makers, entrepreneurs, and the greater island innovation ecosystem. Hawaii Slack is a place to talkstory, tell stories, share advice, trade tips, and more. Find collaborators, share opportunities, and talk shop. From debating the best place to get ahi poke to getting home improvement advice, from raving about the latest slack key festival to sharing your favorite movies, almost anything goes.
+  - **Hawaii Slack** – [`Slack`](https://www.hawaiislack.com/) –  Hawaii Slack is a Slack group for people in, from, or in love with Hawaii. While all are welcome, Hawaii Slack is a hub for local creators, makers, entrepreneurs, and the greater island innovation ecosystem. Hawaii Slack is a place to talkstory, tell stories, share advice, trade tips, and more. Find collaborators, share opportunities, and talk shop. From debating the best place to get ahi poke to getting home improvement advice, from raving about the latest slack key festival to sharing your favorite movies, almost anything goes.
 </details>
 
 #### Illinois
@@ -291,119 +246,66 @@ Chicago is home to a large number of engineering and tech communities. Only a se
 
 <!-- This is somehow related to Chicago Tech Slack: https://re-factor.co/ -->
 
-- **[AWS Chicago](https://www.chicagoaws.com/)** – `Slack` – Chicago –
-  - [LinkedIn group](https://www.linkedin.com/groups/6705840/)
-  - [Meetup](https://www.meetup.com/aws-chicago/)
-  - ~~[Slack](https://join.slack.com/t/awschicago/shared_invite/zt-25vrvuq9s-BI2tJZM3g2uxj0mqpH3JsA)~~ or ~~[Slack](http://slack.chicagoaws.com/)~~
-  - [YouTube](https://www.youtube.com/@awschicago)
-- **Chicago Tech Slack** – `Meetup` `Slack` – Chicago
-  - [Slack](https://www.chicagotechslack.com/) (or [Slack](https://chicago-tech.slack.com/join/shared_invite/zt-1cb3mexrp-Ri0DCePyYaXSuEg8qPUCTA#/shared-invite/email))
-  - [Meetup](https://www.meetup.com/chicago-tech-slackers/) – Inactive since 2016-05-11.
-- **[Chi Hack Night](https://chihacknight.org/)** – `Eventbrite` `Slack` – Chicago
-  - [Eventbrite](https://chihacknight.eventbrite.com)
-  - [Facebook page](https://www.facebook.com/chihacknight)
-  - [GitHub](https://github.com/chihacknight)
-  - [Twitter/X](https://twitter.com/chihacknight)
-  - [YouTube](https://www.youtube.com/@ChiHackNight)
-- **[ChiPy (Chicago Python User Group)](https://www.chipy.org/)** – `GitHub` `Meetup` `Slack` `Twitter/X` `YouTube` – Chicago
-  - [GitHub](https://github.com/chicagopython)
-  - [Meetup](https://www.meetup.com/_ChiPy_/)
-  - [Slack](https://www.chipy.org/pages/slack/) – You must be invited by a member.
-  - [Twitter/X](https://twitter.com/chicagopython) – Inactive since 2023-01-23.
-  - [YouTube](https://www.youtube.com/@ChicagoPythonUsersGroup)
+- **AWS Chicago** – [`Website`](https://www.chicagoaws.com/) • [`LinkedIn group`](https://www.linkedin.com/groups/6705840/) • [`Meetup`](https://www.meetup.com/aws-chicago/) • [~~`Slack`~~](https://join.slack.com/t/awschicago/shared_invite/zt-25vrvuq9s-BI2tJZM3g2uxj0mqpH3JsA) or [~~`Slack`~~](http://slack.chicagoaws.com/) • [`YouTube`](https://www.youtube.com/@awschicago) – Chicago
+- **Chicago Tech Slack** – [`Meetup`](https://www.meetup.com/chicago-tech-slackers/)[ⓘ](## "Inactive since 2016-05-11.") • [`Slack`](https://www.chicagotechslack.com/) (or [`Slack`](https://chicago-tech.slack.com/join/shared_invite/zt-1cb3mexrp-Ri0DCePyYaXSuEg8qPUCTA#/shared-invite/email)) – Chicago
+- **Chi Hack Night** – [`Website`](https://chihacknight.org/) • [`Eventbrite`](https://chihacknight.eventbrite.com) • [`Facebook page`](https://www.facebook.com/chihacknight) • [`GitHub`](https://github.com/chihacknight) • `Slack` • [`Twitter/X`](https://twitter.com/chihacknight) • [`YouTube`](https://www.youtube.com/@ChiHackNight) – Chicago
+- **ChiPy (Chicago Python User Group)** – [`Website`](https://www.chipy.org/) • [`GitHub`](https://github.com/chicagopython) [`Meetup`](https://www.meetup.com/_ChiPy_/) • [`Slack`](https://www.chipy.org/pages/slack/)[ⓘ](## "You must be invited by a member.") • [`Twitter/X`](https://twitter.com/chicagopython)[ⓘ](## "Inactive since 2023-01-23.") • [`YouTube`](https://www.youtube.com/@ChicagoPythonUsersGroup) – Chicago
 
 #### Indiana
 
-- **[Indy Hackers](https://www.indyhackers.org/)** – `GitHub` `Slack` `Twitter/X` – Statewide
-  - [GitHub](https://github.com/indyhackers)
-  - [Slack](https://slack.indyhackers.org/)
-  - [Twitter/X](https://twitter.com/indyhackersorg)
+- **Indy Hackers** – [`Website`](https://www.indyhackers.org/) • [`GitHub`](https://github.com/indyhackers) • [`Slack`](https://slack.indyhackers.org/) • [`Twitter/X`](https://twitter.com/indyhackersorg) – Statewide
 
 #### Iowa
 
-- **[Central Iowa Linux User Group](http://www.cialug.org/)** – `IRC` `Slack` – Central Iowa – We are a group of Free *nix Enthusiasts who all happen to live in Central Iowa. Our experience levels range from those who are just starting to play with Linux to seasoned professionals who have been with it since the very beginning.
-  - [Slack](https://join.slack.com/t/cialug/shared_invite/enQtMjk2MzU0OTkzNTU0LWYwZWNjNTRhYjk0Y2U0NzI2MDU1NWRhMTIxYTZjODhlMjgwMzBmYzk2MjM3MjI0ZjFiMGIxZjc1OGM2MzlmYzU)
-- **[Des Moines Web Collective](http://dsmwebcollective.com/)** – `Facebook` `GitHub` `Slack` `Twitter/X` – Des Moines – The Des Moines Web Collective is a collaborative, community-driven resource focused on bringing together web design and development professionals in the Des Moines metro area.
-  - [Facebook group](https://www.facebook.com/groups/dsmwebcollective/) – Inactive since 2016-12-27.
-  - [GitHub](https://github.com/dsmwebcollective)
-  - ~~[Slack](https://dsmwebcollective.herokuapp.com/)~~
-  - [Twitter/X](https://twitter.com/dmwebcollective) – Never active.
-- **[Des Moines Web Geeks](http://www.dsmwebgeeks.com/)** – `Facebook` `Meetup` `Slack` `Twitter/X` – Des Moines – Des Moines Web Geeks is a group of web professionals and enthusiasts looking to meet, share ideas and have some fun. Everyone is welcome to join and participate.
-  - [Facebook page](https://www.facebook.com/DSMWebGeeks/)
-  - [Meetup](https://www.meetup.com/des-moines-web-geeks/)
-  - [Slack](https://dsmwebgeeks.slack.com/) – Signup is restricted to whitelisted domains.
-  - [Twitter/X](https://twitter.com/dsmwebgeeks)
-- **[SecDSM](https://secdsm.org/)** – `Discord` `Slack` `Twitter/X` – Des Moines – A monthly infosec meetup group to network and learn from your fellow members while enjoying some beer/drinks/food. No sales, no dues, no BS.
-  - [Discord](https://discord.gg/aqcDKzVYw3)
-  - [Slack](https://secdsm.slack.com/) – Signup is disabled.
-  - [Twitter/X](https://twitter.com/secdsm)
-- **[Startup Iowa](http://www.startupiowachat.com/)** – `Slack` – Statewide – Startup Iowa Chat is your free passport to Iowa's Entrepreneurial Ecosystem. Anyone with a connection to or interest in the Iowa Startup community may join to stay up to date with what's going on in Iowa and get help with their business plan, design, coding, marketing and more.
-- **[WordPress Des Moines](http://wpdsm.org/)** – `Slack` – Des Moines – WordPress Des Moines is part of the larger WordPress Community across the globe, but more importantly, we are people right here in the Des Moines area who use WordPress, create WordPress websites, and write software for WordPress.
-  - ~~[Slack](http://wordpressdsm.herokuapp.com/)~~
+- **Central Iowa Linux User Group** – [`Website`](http://www.cialug.org/) • `IRC` • [`Slack`](https://join.slack.com/t/cialug/shared_invite/enQtMjk2MzU0OTkzNTU0LWYwZWNjNTRhYjk0Y2U0NzI2MDU1NWRhMTIxYTZjODhlMjgwMzBmYzk2MjM3MjI0ZjFiMGIxZjc1OGM2MzlmYzU) – Central Iowa – We are a group of Free *nix Enthusiasts who all happen to live in Central Iowa. Our experience levels range from those who are just starting to play with Linux to seasoned professionals who have been with it since the very beginning.
+- **Des Moines Web Collective** – [`Website`](http://dsmwebcollective.com/) • [Facebook group](https://www.facebook.com/groups/dsmwebcollective/)[ⓘ](## "Inactive since 2016-12-27.") • [`GitHub`](https://github.com/dsmwebcollective) • [~~`Slack`~~](https://dsmwebcollective.herokuapp.com/) • [`Twitter/X`](https://twitter.com/dmwebcollective)[ⓘ](## "Never active.") – Des Moines – The Des Moines Web Collective is a collaborative, community-driven resource focused on bringing together web design and development professionals in the Des Moines metro area.
+- **Des Moines Web Geeks** – [`Website`](http://www.dsmwebgeeks.com/) • [Facebook page](https://www.facebook.com/DSMWebGeeks/) • [Meetup](https://www.meetup.com/des-moines-web-geeks/) • [Slack](https://dsmwebgeeks.slack.com/)[ⓘ](## "Signup is restricted to whitelisted domains.") • [Twitter/X](https://twitter.com/dsmwebgeeks) – Des Moines – Des Moines Web Geeks is a group of web professionals and enthusiasts looking to meet, share ideas and have some fun. Everyone is welcome to join and participate.
+- **SecDSM** – [`Website`](https://secdsm.org/) • [`Discord`](https://discord.gg/aqcDKzVYw3) • [`Slack`](https://secdsm.slack.com/)[ⓘ](## "Signup is disabled.") • [`Twitter/X`](https://twitter.com/secdsm) – Des Moines – A monthly infosec meetup group to network and learn from your fellow members while enjoying some beer/drinks/food. No sales, no dues, no BS.
+- **Startup Iowa** – [`Slack`](http://www.startupiowachat.com/) – Statewide – Startup Iowa Chat is your free passport to Iowa's Entrepreneurial Ecosystem. Anyone with a connection to or interest in the Iowa Startup community may join to stay up to date with what's going on in Iowa and get help with their business plan, design, coding, marketing and more.
+- **WordPress Des Moines** – [`Website`](http://wpdsm.org/) • [~~`Slack`~~](http://wordpressdsm.herokuapp.com/) – Des Moines – WordPress Des Moines is part of the larger WordPress Community across the globe, but more importantly, we are people right here in the Des Moines area who use WordPress, create WordPress websites, and write software for WordPress.
 
 #### Kansas
 
-- **[devICT](https://www.devict.org/)** – `Slack` – Wichita –  We are a group of individuals who have a common interest in software development. Our skill levels vary greatly, from complete beginners to seasoned veterans. We welcome anyone with a curiosity for programming.
-  - [Facebook page](https://www.facebook.com/developerict)
-  - [GitHub](https://github.com/devict)
-  - [Meetup](https://www.meetup.com/devict/)
-  - [Slack](https://slack.devict.org/)
-  - [Twitter/X](https://twitter.com/dev_ict)
+- **devICT** – [`Website`](https://www.devict.org/) • [`Facebook page`](https://www.facebook.com/developerict) • [`GitHub`](https://github.com/devict) • [Meetup](https://www.meetup.com/devict/) • [`Slack`](https://slack.devict.org/) • [`Twitter/X`](https://twitter.com/dev_ict) – Wichita –  We are a group of individuals who have a common interest in software development. Our skill levels vary greatly, from complete beginners to seasoned veterans. We welcome anyone with a curiosity for programming.
 
 #### Kentucky
 
-- **[Bluegrass Developers Guild](https://www.bluegrassdevs.org/)** – `GitHub` `Meetup` `Slack` – Lexington? Statewide? – We are a collective of software engineers, programmers, researchers, data scientists, and designers in the state of Kentucky. Our purpose is to promote a sense of community among local technology organizations and their members. We seek to improve communication between leaders, centralize efforts, improve culture, and to support our members in a way that strengthens our community and promotes the common good.
-  - [GitHub](https://github.com/bluegrass-devs)
-  - [Meetup](https://www.meetup.com/The-Bluegrass-Developers-Guild/)
-  - [Slack](https://form.jotform.com/231035903729051)
-- **[StartupLex](https://www.startuplexington.org/)** – `Slack` – Lexington – StartupLex is a vital supporter-driven organization to Lexington's entrepreneurial ecosystem. We're non-profit lead and here to help you immerse yourself, and your business, into the Central Kentucky scene. We're looking for energetic, startup-minded individuals and organizations, to help feed the spirited environment growing in Central Kentucky.
-  - [Slack](https://join.slack.com/t/startuplexington/shared_invite/enQtNjA2MDk2MjQ0ODM5LTI2Y2YxNmM0MjE1YjQ5ZWQ1NjI4MDRjZmI2ODM3Nzc0YmU1NDI2ZmZlNjQ0MTE1ZTQ0NTIwMzZkZWFkYjU5ODA)
+- **Bluegrass Developers Guild** – [`Website`](https://www.bluegrassdevs.org/) • [`GitHub`](https://github.com/bluegrass-devs) • [`Meetup`](https://www.meetup.com/The-Bluegrass-Developers-Guild/) • [`Slack`](https://form.jotform.com/231035903729051) – Lexington? Statewide? – We are a collective of software engineers, programmers, researchers, data scientists, and designers in the state of Kentucky. Our purpose is to promote a sense of community among local technology organizations and their members. We seek to improve communication between leaders, centralize efforts, improve culture, and to support our members in a way that strengthens our community and promotes the common good.
+- **StartupLex** – [`Website`](https://www.startuplexington.org/) • [`Slack`](https://join.slack.com/t/startuplexington/shared_invite/enQtNjA2MDk2MjQ0ODM5LTI2Y2YxNmM0MjE1YjQ5ZWQ1NjI4MDRjZmI2ODM3Nzc0YmU1NDI2ZmZlNjQ0MTE1ZTQ0NTIwMzZkZWFkYjU5ODA) – Lexington – StartupLex is a vital supporter-driven organization to Lexington's entrepreneurial ecosystem. We're non-profit lead and here to help you immerse yourself, and your business, into the Central Kentucky scene. We're looking for energetic, startup-minded individuals and organizations, to help feed the spirited environment growing in Central Kentucky.
 
 #### Maryland
 
 For more information on Baltimore tech communities, [Welcome to the Baltimore Tech Scene](https://www.caseywatts.com/blog/welcome-to-baltimore-tech/) is a dedicated resource.
 
-- **Baltimore Tech** – `Meetup` `Slack` – Baltimore – We're a public Slack for the Baltimore, MD Tech community. With hundreds of members, we have a wide variety of channels and work to foster an inclusive community.
-  - [Meetup](https://www.meetup.com/baltimore-tech/)
-  - [Slack](http://baltimoretechslack.com/)
+- **Baltimore Tech** – [`Meetup`](https://www.meetup.com/baltimore-tech/) • [`Slack`](http://baltimoretechslack.com/) – Baltimore – We're a public Slack for the Baltimore, MD Tech community. With hundreds of members, we have a wide variety of channels and work to foster an inclusive community.
 
 #### Michigan
 
-- **[Detroit Speakers in Tech]** – `Meetup` `Slack` `Twitter/X` – Detroit – Inspired by Global Diversity CFP Day (a worldwide effort to guide new speakers, particularly those underrepresented in tech and as presenters, towards their first conference talks), Detroit Speakers in Tech seeks to connect, train, and support speakers throughout the year. We host workshops for speakers of all experience levels to put together conference talks, refine every aspect of your proposal, and improve presentation delivery.
-  - [Meetup](https://www.meetup.com/detroit-speakers-in-tech/)
-  - ~~[Slack](https://tinyurl.com/Join-DSIT-Slack)~~
-  - [Twitter/X](https://twitter.com/SpeakersInTech) – Inactive since 2020-10-30.
+- **Detroit Speakers in Tech** – [`Meetup`](https://www.meetup.com/detroit-speakers-in-tech/) • [~~`Slack`~~](https://tinyurl.com/Join-DSIT-Slack) • [`Twitter/X`](https://twitter.com/SpeakersInTech)[ⓘ](## "Inactive since 2020-10-30.") – Detroit – Inspired by Global Diversity CFP Day (a worldwide effort to guide new speakers, particularly those underrepresented in tech and as presenters, towards their first conference talks), Detroit Speakers in Tech seeks to connect, train, and support speakers throughout the year. We host workshops for speakers of all experience levels to put together conference talks, refine every aspect of your proposal, and improve presentation delivery.
 - <details>
   <summary><i>Inactive</i></summary>
 
-- **[Startup Lansing](http://startuplansing.org/join-slack/)** – `Slack` – Lansing
-  - ~~[Slack](http://startuplansing.org/join-slack/)~~ – Spam squatter redirect
-  - ~~[Website](http://startuplansing.org/)~~ – Spam squatter redirect
-</details>
+- **Startup Lansing** – [~~`Website`~~](http://startuplansing.org/)[ⓘ](## "Spam squatter redirect") • [~~`Slack`~~](http://startuplansing.org/join-slack/)[ⓘ](## "Spam squatter redirect") – Lansing
 
 #### Minnesota
 
-- **Twin Cities Chaos Engineering Community** – `Meetup` `Slack` – This is a group for reliability engineering disciplines to get together and share ideas on Chaos Engineering. If you're passionate about building a more resilient system so you can sleep at night come hang out with us!
-  - [Meetup](https://www.meetup.com/twin-cities-chaos-engineering-community/)
-  – [Slack](http://twincities-chaosengr.slack.com) – Signup is restricted to one seemingly random whitelisted domain.
+- **Twin Cities Chaos Engineering Community** – [`Meetup`](https://www.meetup.com/twin-cities-chaos-engineering-community/) • [`Slack`](http://twincities-chaosengr.slack.com)[ⓘ](## "Signup is restricted to one seemingly random whitelisted domain.") – This is a group for reliability engineering disciplines to get together and share ideas on Chaos Engineering. If you're passionate about building a more resilient system so you can sleep at night come hang out with us!
 - <details>
   <summary><i>Inactive</i></summary>
 
-  - **MSPTech** – Twin Cities
-    - [GitHub](https://github.com/msp-tech) – Inactive since 2020-03-30.
-    - ~~[Slack](https://msptech.herokuapp.com/)~~
-    - ~~[Website](https://www.msptech.online/)~~
+  - **MSPTech** – [~~`Website`~~](https://www.msptech.online/) • [`GitHub`](https://github.com/msp-tech)[ⓘ](## "Inactive since 2020-03-30.") • [~~`Slack`~~](https://msptech.herokuapp.com/) – Twin Cities
 </details>
 
 #### Missouri
 
-- **[KC Women in Tech](https://kcwomenintech.org/)** – `Slack` – Kansas City
+- **KC Women in Tech** – [`Website`](https://kcwomenintech.org/) • [`Slack`](https://kcwomenintech.org/join-our-slack-community/) – Kansas City
+- **SecKC** – [`Website`](https://seckc.org/) • [`Discord`](https://discord.gg/kSNjbxR) • [`Facebook page`](https://www.facebook.com/SecKC/) • [`GitHub`](https://github.com/SecKC) • [`Instagram`](https://www.instagram.com/sec_kc/)[ⓘ](## "Inactive since 2019-03-11.") • [`LinkedIn page`](https://www.linkedin.com/company/seckc-inc/) • [`Slack`](https://seckc.slack.com/)[ⓘ](## "Signup is restricted to one seemingly random whitelisted domains.") • [`Twitter/X`](https://twitter.com/sec_kc) – Kansas City
+- **Springfield Devs** (f/k/a **SGF Web Devs**) – [`Website`](https://sgf.dev/) • [`Discord`](https://discord.sgf.dev/) • [`GitHub`](https://github.com/sgfdevs) • [`Instagram`](https://www.instagram.com/sgfdevs/) • [`Meetup`](https://www.meetup.com/sgfdevs/) • [`Twitch`](https://www.twitch.tv/sgfdevs) • [`Twitter/X`](https://twitter.com/sgfdevs/) • [`YouTube`](https://www.youtube.com/channel/UC09Jd4ouiP_BUc7REYhC2kw) – Springfield, Southwest Missouri
+- <details>
+  <summary><i>Inactive</i></summary>
 
-##### _Inactive or can't sign up_
-
-- **[KC Tech Group](https://kctechgroup.org/)** – `Slack` – Kansas City – Signup is disabled
-- **[SecKC](https://seckc.org/)**(https://seckc.slack.com/) – `Slack` – Kansas City – Can only sign up with email address at a few obscure domains
-- **[SGF Web Devs](http://sgfwebdevs.com/)**(https://sgfwebdevs.slack.com/) `Slack` – Springfield/Branson area – Signup is disabled
+  - **KC Tech Group** – [`Website`](https://kctechgroup.org/) • [`GitHub`](https://github.com/kctechgroup)[ⓘ](## "Inactive since 2022-12-07.") • [`Slack`](https://kctechgroup.org/slack/)[ⓘ](## "Signup is disabled.") – Kansas City
+</details>
 
 #### New Mexico
 
