@@ -112,6 +112,7 @@ Please feel free to submit a Pull Request (or an Issue) to add a new community, 
 
 ### Roadmap
 
+- [ ] Reformat entries
 - [ ] Add multiple links per group where applicable
 - [ ] Check for alternative links for inaccessible communities
 - [ ] Figure out what's going in with the _??????_ communities
@@ -138,74 +139,50 @@ Not that the USA is special, but it does have quite a lot of tech communities!
 
 #### Alabama
 
-- **[Magic City Tech](http://magiccitytech.org/)** – `Slack` – Birmingham area – Magic City Tech is a group for Birmingham area developers, designers, marketers, business people, hobbyists, students, and other professionals involved in technology.
-- **[tech256](https://tech256.com/)** – `Slack` – North Alabama – We're a group of developers, designers, marketers, business people, hobbyists, students, and other professionals with two common interests: North Alabama and technology.
+- **Magic City Tech** – [`Website`](http://magiccitytech.org/) • [`Slack`](https://mcbrihk.typeform.com/to/WA79Go) – Birmingham area – Magic City Tech is a group for Birmingham area developers, designers, marketers, business people, hobbyists, students, and other professionals involved in technology.
+- **tech256** – [`Website`](https://tech256.com/) • [`Slack`](https://tech256.com/#invite) – North Alabama – We're a group of developers, designers, marketers, business people, hobbyists, students, and other professionals with two common interests: North Alabama and technology.
 
 #### Arizona
 
 - <details>
   <summary><i>Must be invited by a member</i></summary>
 
-  - **{az}devs** – `Facebook` `Slack` – Statewide – {az}devs is a community created by and for local developers as a place to connect, communicate, and collaborate. This community aims to be a great place to chat and get help or advice, for those of us who attend every possible meetup, those who can't attend any, and everyone in between.
-    - [Facebook group](https://www.facebook.com/groups/873973386288785/) – Inactive since 2020-02-17.
-    - [GitHub](https://github.com/azdevs) – Inactive since 2022-05-19.
-    - ~[Slack](https://azdevs.org/signin)~ – The Slack is active (as of 2024-03-10), but currently the only way to join is for an existing member to invite you via email.
-    - ~[Website](https://azdevs.org/)~ – [Archived](https://web.archive.org/web/20200809053204/https://azdevs.org/)
+  - **{az}devs** – [~~`Website`~~](https://azdevs.org/) ([`archived`](https://web.archive.org/web/20200809053204/https://azdevs.org/)) • [`Facebook group`](https://www.facebook.com/groups/873973386288785/)[ⓘ](## "Inactive since 2020-02-17.") • [`GitHub`](https://github.com/azdevs)[ⓘ](## "Inactive since 2022-05-19.") • [~~`Slack`~~](https://azdevs.org/signin)[ⓘ](## "The Slack is active (as of 2024-03-10), but currently the only way to join is for an existing member to invite you via email.") – Statewide – {az}devs is a community created by and for local developers as a place to connect, communicate, and collaborate. This community aims to be a great place to chat and get help or advice, for those of us who attend every possible meetup, those who can't attend any, and everyone in between.
 </details>
 
 #### Arkansas
 
-- **[Little Rock Dev Slack](https://lrdev.typeform.com/to/aZ9Hr8?fbclid=IwAR3PhhP5XQZzcFmYo2DDfDo_CeQgA9SXCrZmZnl2_ERaWo5uIqV0wM7Ixro)** – `Slack` – Little Rock – The purpose of this Slack group is to provide a way for developers in Little Rock to communicate upcoming events, jobs, create channels for specific topics, and maybe just post funny gifs.
+- **Little Rock Dev Slack** – [`Slack`](https://lrdev.typeform.com/to/aZ9Hr8?fbclid=IwAR3PhhP5XQZzcFmYo2DDfDo_CeQgA9SXCrZmZnl2_ERaWo5uIqV0wM7Ixro) – Little Rock – The purpose of this Slack group is to provide a way for developers in Little Rock to communicate upcoming events, jobs, create channels for specific topics, and maybe just post funny gifs.
 
 - <details>
   <summary><i>Inactive</i></summary>
 
-  - **Northwest Arkansas Devs** – `Slack` – Fayetteville/Rogers
-    - ~[Slack](https://nwa-devs-slackgroup.herokuapp.com/)~
-    - ~[Website](http://nwadnug.org/)~ – [Archived](https://web.archive.org/web/20190201001202/http://nwadnug.org/)
+  - **Northwest Arkansas Devs** – [~~`Website`~~](http://nwadnug.org/) ([`archived`](https://web.archive.org/web/20190201001202/http://nwadnug.org/)) • [~~`Slack`~~](https://nwa-devs-slackgroup.herokuapp.com/) – Fayetteville/Rogers
 </details>
 
 #### California
 
-- **[js.la](https://js.la/)** – `Slack` – Los Angeles – The Los Angeles JavaScript meetup.
-  - [lunch.js](https://lunch.js.la/) – Lunch with your js.la friends.
-  - [GitHub](https://github.com/jsla)
-  - [Slack](https://join.slack.com/t/jsla/shared_invite/zt-1nf1yc1f6-ohkEU1TqC3AuHTSiscYHmg)
-  - [Twitter/X](https://twitter.com/jsdotla) – Inactive since 2022-02-24.
-  - [YouTube](https://www.youtube.com/@JSlaArchives) – Inactive since 2022-03-01.
+- **js.la** – [`Website`](https://js.la/) • [`GitHub`](https://github.com/jsla) • [`lunch.js`](https://lunch.js.la/) • [`Slack`](https://join.slack.com/t/jsla/shared_invite/zt-1nf1yc1f6-ohkEU1TqC3AuHTSiscYHmg) • [`Twitter/X`](https://twitter.com/jsdotla)[ⓘ](## "Inactive since 2022-02-24.") • [`YouTube`](https://www.youtube.com/@JSlaArchives)[ⓘ](## "Inactive since 2022-03-01.") – Los Angeles – The Los Angeles JavaScript meetup.
 - <details>
   <summary><i>Inactive</i></summary>
 
-  - **Los Angeles Scala Users Group** – `Meetup` `Slack` – Los Angeles – This Meetup is for Scala enthusiasts in the Los Angeles area. We periodically meet in the West LA area for an open forum and presentations.
-    - [Meetup](https://www.meetup.com/los-angeles-scala-users-group/) – Inactive since 2018-06-27.
-    - [Slack](https://lascalausers.slack.com/) – Signup is disabled.
-  - **Sacramento Javascript Meetup** – Sacramento
-    - ~[Slack](https://sac-tech.herokuapp.com/)~
-  - **Santa Barbara Tech Co-op** – `Slack` – Santa Barbara
-    - [Slack](https://sbtechcoop.slack.com/) – Signup is restricted to seemingly random whitelisted domains.
+  - **Los Angeles Scala Users Group** – [`Meetup`](https://www.meetup.com/los-angeles-scala-users-group/)[ⓘ](## "Inactive since 2018-06-27.") • [`Slack`](https://lascalausers.slack.com/)[ⓘ](## "Signup is disabled.") – Los Angeles – This Meetup is for Scala enthusiasts in the Los Angeles area. We periodically meet in the West LA area for an open forum and presentations.
+  - **Sacramento Javascript Meetup** – [~~`Slack`~~](https://sac-tech.herokuapp.com/) – Sacramento
+  - **Santa Barbara Tech Co-op** – [`Slack`](https://sbtechcoop.slack.com/)[ⓘ](## "Signup is restricted to seemingly random whitelisted domains.") – Santa Barbara
 </details>
 
 #### Colorado
 
 Until something else rises to take its place, the archive of [DenverTech.community](https://web.archive.org/web/20240217173643/https://www.denvertech.community/) is still an excellent resource for Denver (and a bit elsewhere in Colorado, too).
 
-- **[Angular Colorado](https://slack.angularcolorado.com/)** – `Slack` – Statewide
-- **[Colorado = Security](https://www.colorado-security.com/)** – `Podcast` `Slack` – Statewide – Colorado = Security is the home for all things information security in Colorado. It's your place to connect with the local security community, see the calendar of upcoming events, and of course, listen to Colorado's only security podcast.
-  - Podcast [on Apple Podcasts](https://podcasts.apple.com/us/podcast/colorado-security-podcast/id1203599493) (or on your podcast app of choice)
-  - [Slack](https://www.colorado-security.com/join-slack)
-- **[Colorado Tech Community](https://coloradotech.community/)** – `Discord` – Statewide – While this space is intended primarily to serve Colorado, we welcome anybody from anywhere in the world who has some attachment to the tech community of Colorado. You do not have to be a software developer to join Colorado Tech Community! This space is also open to anyone tech-adjacent in some capacity: designers, product managers, testers, makers, hobbyists, etc.
-  - [Discord](https://discord.gg/coloradotechcommunity)
-- **[Denver Tech Social Club](https://www.denvertechsocial.club/)** – `Discord` `Meetup` – Denver – Let’s take a different approach to networking. Let’s make friends. There are tons of great professional networking opportunities for us in Denver, so we wanted to focus on helping tech industry folks get together in a more personal way. We want to bring together designers, developers, product managers, students, teachers, leaders — and more! — in ways beyond what you do for a nine-to-five.
-- **[Denver Tech Talk](https://denvertechtalk.com/)** – `Slack` – Denver – You don't have to be in Denver. You don't have to know how to code.
-  - [Slack](https://join.slack.com/t/denver-tech-talk/shared_invite/zt-23fsc32dt-jrAk4AdASf0vCe7w84ts1g)
-- **Fort Collins Internet Professionals** – `Meetup` `Slack` – Northern Colorado, Southeastern Wyoming – This group is for web professionals of all types - designers, developers, programmers, copywriters, photographers, videographers, marketers and search engine specialists in Northern Colorado and southeastern Wyoming. Aspiring web pros are also welcome. We'll meet to discuss anything from web standards to managing clients to search engine optimization. Join to learn, share, and meet like-minded people!
-  - [Slack](https://tinyurl.com/techslack2022)
-  - [Meetup](https://www.meetup.com/gofcip/)
-- **[React Denver](https://reactdenver.com/)** – `Discord` `GitHub` `Tito` `Twitter/X` – Denver – Register for events on the website.
-  - [GitHub](https://github.com/reactdenver)
-  - [Twitter/X](https://twitter.com/ReactDenver)
-  - [YouTube](https://www.youtube.com/@ReactDenver/)
-- **[Tech Friends](https://www.gettechfriends.com/)** – `Slack` – Front Range
+- **Angular Colorado** – [`Slack`](https://slack.angularcolorado.com/) – Statewide
+- **Colorado = Security** – [`Website`](https://www.colorado-security.com/) • [`Podcast (on Apple Podcasts)`](https://podcasts.apple.com/us/podcast/colorado-security-podcast/id1203599493)[ⓘ](## "Also available on your preferred podcast app.") • [`Slack`](https://www.colorado-security.com/join-slack) – Statewide – Colorado = Security is the home for all things information security in Colorado. It's your place to connect with the local security community, see the calendar of upcoming events, and of course, listen to Colorado's only security podcast.
+- **Colorado Tech Community** – [`Website`](https://coloradotech.community/) • [`Discord`](https://discord.gg/coloradotechcommunity) – Statewide – While this space is intended primarily to serve Colorado, we welcome anybody from anywhere in the world who has some attachment to the tech community of Colorado. You do not have to be a software developer to join Colorado Tech Community! This space is also open to anyone tech-adjacent in some capacity: designers, product managers, testers, makers, hobbyists, etc.
+- **Denver Tech Social Club** – [`Website`](https://www.denvertechsocial.club/) • `Discord`[ⓘ](## "Must join the club to be invited to the Discord server.") • [`Meetup`](https://www.meetup.com/denver-tech-social-club/)[ⓘ](## "Must join the club to be invited to the Meetup group.") – Denver – Let’s take a different approach to networking. Let’s make friends. There are tons of great professional networking opportunities for us in Denver, so we wanted to focus on helping tech industry folks get together in a more personal way. We want to bring together designers, developers, product managers, students, teachers, leaders — and more! — in ways beyond what you do for a nine-to-five.
+- **Denver Tech Talk** – [`Website`](https://denvertechtalk.com/) • [`Slack`](https://join.slack.com/t/denver-tech-talk/shared_invite/zt-23fsc32dt-jrAk4AdASf0vCe7w84ts1g) – Denver – You don't have to be in Denver. You don't have to know how to code.
+- **Fort Collins Internet Professionals** – [`Meetup`](https://www.meetup.com/gofcip/) • [`Slack`](https://tinyurl.com/techslack2022) – Northern Colorado, Southeastern Wyoming – This group is for web professionals of all types - designers, developers, programmers, copywriters, photographers, videographers, marketers and search engine specialists in Northern Colorado and southeastern Wyoming. Aspiring web pros are also welcome. We'll meet to discuss anything from web standards to managing clients to search engine optimization. Join to learn, share, and meet like-minded people!
+- **React Denver** – [`Website`](https://reactdenver.com/) • [`Discord`](https://discord.gg/fFngBEwNmV) • [`GitHub`](https://github.com/reactdenver) • [`Twitter/X`](https://twitter.com/ReactDenver) • [`YouTube`](https://www.youtube.com/@ReactDenver/) – Denver – Register for events on the website.
+- **Tech Friends** – [`Slack`](https://www.gettechfriends.com/) – Front Range
 - <details>
   <summary><i>Inactive</i></summary>
 
@@ -236,11 +213,11 @@ Until something else rises to take its place, the archive of [DenverTech.communi
   - [Slack](https://orlandodevs.com/slack)
   - [Twitter/X](https://twitter.com/OrlandoDevs) – Inactive since 2023-01-27.
 - **[Suncoast Developers Guild](https://suncoast.io/)** – `Discord` `LinkedIn` `Meetup` `Slack` `Twitter/X` – Greater Tampa Bay Area – The Suncoast Developers Guild is a community representing a number of developer organizations in the Greater Tampa Bay area.
-  - ~[Discord](https://sdg.codes/discord)~
+  - ~~[Discord](https://sdg.codes/discord)~~
   - [LinkedIn](https://www.linkedin.com/school/suncoastdevs/)
   - [Meetup](https://www.meetup.com/suncoast-developers-guild/)
   - [Slack](https://join.slack.com/t/suncoast-devs/shared_invite/enQtNzY1NDAxMjk4NTYzLWUwZGQ4NjhjMmJiMmI5YTc4OGEzYjViMTgzNWQ1MGViZWI5MzI4NWRlNTAyMzljYjU1ZTNiYjkzZWY2YmI3NTE)
-  - ~[Twitter/X](https://twitter.com/suncoastio)~
+  - ~~[Twitter/X](https://twitter.com/suncoastio)~~
 - **[SWFL Coders](https://www.swflcoders.com/)** – `Facebook` `GitHub` `Meetup` `Slack` `Twitter/X` – Fort Myers – SWFL Coders is a community for technology enthusiasts, including developers, coders, and non-coders, who are eager to explore the captivating world of programming.
   - [Facebook page](https://www.facebook.com/SWFLCoders/)
   - [GitHub](https://github.com/swfl-coders)
@@ -267,17 +244,17 @@ Until something else rises to take its place, the archive of [DenverTech.communi
   - **Jacksonville Tech and Beer** – `Facebook` `Instagram` `LinkedIn` `Meetup` `YouTube` – Jacksonville – We are a community of tech professionals and enthusiasts that are inspired and passionate about technology in all forms and applications. We are focused on connecting the Jacksonville Tech community through the simplest form of communication… a conversation.
     - [Facebook page](https://www.facebook.com/techandbeers/) – Inactive since 2021-02-16.
     - [Instagram](https://www.instagram.com/techandbeers/) – Inactive since 2020-07-16.
-    - ~[LinkedIn](https://www.linkedin.com/company/orlando-tech-and-beer/)~
+    - ~~[LinkedIn](https://www.linkedin.com/company/orlando-tech-and-beer/)~~
     - [Meetup](https://www.meetup.com/jacksonville-tech-and-beer/) – Inactive since 2021-10-19.
-    - ~[Website](https://techandbeers.com/)~
+    - ~~[Website](https://techandbeers.com/)~~
     - [YouTube](https://www.youtube.com/@techandbeer7614) – Inactive since 2018-08-06.
   - **Jacksonville Tech Community** – `Slack` – Jacksonville
-    - ~[Slack](http://jacksonville-tech.com/)~
+    - ~~[Slack](http://jacksonville-tech.com/)~~
   - **Tampa Bay Tech** – `Slack` – Tampa
     - [Slack](http://tampabaytech.org/slack/) – Embedded signup form is dead.
     - [Website](http://tampabaytech.org/) – Legal proceedings? Unclear what's going on here, to be honest.
   - **Wynwood Tech** – Miami
-    - ~[Website](https://wyn.tech/)~
+    - ~~[Website](https://wyn.tech/)~~
 </details>
 
 - <details>
@@ -290,13 +267,13 @@ Until something else rises to take its place, the archive of [DenverTech.communi
 
 - **Developers of Athens** – `Meetup` `Slack` – Athens
   - [Meetup](https://www.meetup.com/developers-of-athens/)
-  - ~[Slack](https://athdev.org)~
+  - ~~[Slack](https://athdev.org)~~
 - **[TechSAV](https://techsav.co/)** – `Facebook` `Mastodon` `Meetup` `Slack` – Savannah – TechSAV is a community of tech, tech-curious, and remote workers in Savannah, GA. We exist to help grow the tech community, give remote workers a place to meet fellow dorks, geeks and nerds, and to give folks who are tech curious an easy path to getting into tech!
   - [Facebook page](https://www.facebook.com/techsavannah)
   - [GitHub](https://github.com/techsavannah)
   - [Mastodon](https://social.lol/@techsav)
   - [Meetup](https://www.meetup.com/techsav/)
-  - ~[Slack](https://techsav.co/wp-login.php?action=slack-invitation)~
+  - ~~[Slack](https://techsav.co/wp-login.php?action=slack-invitation)~~
 - **[TECH404](http://tech404.io/)** – `Slack` – Atlanta – TECH404 is a group of chat channels for Atlanta area developers, designers, marketers, business people, hobbyists, students, and other professionals involved in technology. It’s a common space for all to use and enjoy. We talk about the technologies we use, our successes and failures, job opportunities, and the latest cute animal GIFs.
   - [Slack](https://tech404.github.io/)
 
@@ -317,7 +294,7 @@ Chicago is home to a large number of engineering and tech communities. Only a se
 - **[AWS Chicago](https://www.chicagoaws.com/)** – `Slack` – Chicago –
   - [LinkedIn group](https://www.linkedin.com/groups/6705840/)
   - [Meetup](https://www.meetup.com/aws-chicago/)
-  - ~[Slack](https://join.slack.com/t/awschicago/shared_invite/zt-25vrvuq9s-BI2tJZM3g2uxj0mqpH3JsA)~ or ~[Slack](http://slack.chicagoaws.com/)~
+  - ~~[Slack](https://join.slack.com/t/awschicago/shared_invite/zt-25vrvuq9s-BI2tJZM3g2uxj0mqpH3JsA)~~ or ~~[Slack](http://slack.chicagoaws.com/)~~
   - [YouTube](https://www.youtube.com/@awschicago)
 - **Chicago Tech Slack** – `Meetup` `Slack` – Chicago
   - [Slack](https://www.chicagotechslack.com/) (or [Slack](https://chicago-tech.slack.com/join/shared_invite/zt-1cb3mexrp-Ri0DCePyYaXSuEg8qPUCTA#/shared-invite/email))
@@ -349,7 +326,7 @@ Chicago is home to a large number of engineering and tech communities. Only a se
 - **[Des Moines Web Collective](http://dsmwebcollective.com/)** – `Facebook` `GitHub` `Slack` `Twitter/X` – Des Moines – The Des Moines Web Collective is a collaborative, community-driven resource focused on bringing together web design and development professionals in the Des Moines metro area.
   - [Facebook group](https://www.facebook.com/groups/dsmwebcollective/) – Inactive since 2016-12-27.
   - [GitHub](https://github.com/dsmwebcollective)
-  - ~[Slack](https://dsmwebcollective.herokuapp.com/)~
+  - ~~[Slack](https://dsmwebcollective.herokuapp.com/)~~
   - [Twitter/X](https://twitter.com/dmwebcollective) – Never active.
 - **[Des Moines Web Geeks](http://www.dsmwebgeeks.com/)** – `Facebook` `Meetup` `Slack` `Twitter/X` – Des Moines – Des Moines Web Geeks is a group of web professionals and enthusiasts looking to meet, share ideas and have some fun. Everyone is welcome to join and participate.
   - [Facebook page](https://www.facebook.com/DSMWebGeeks/)
@@ -362,7 +339,7 @@ Chicago is home to a large number of engineering and tech communities. Only a se
   - [Twitter/X](https://twitter.com/secdsm)
 - **[Startup Iowa](http://www.startupiowachat.com/)** – `Slack` – Statewide – Startup Iowa Chat is your free passport to Iowa's Entrepreneurial Ecosystem. Anyone with a connection to or interest in the Iowa Startup community may join to stay up to date with what's going on in Iowa and get help with their business plan, design, coding, marketing and more.
 - **[WordPress Des Moines](http://wpdsm.org/)** – `Slack` – Des Moines – WordPress Des Moines is part of the larger WordPress Community across the globe, but more importantly, we are people right here in the Des Moines area who use WordPress, create WordPress websites, and write software for WordPress.
-  - ~[Slack](http://wordpressdsm.herokuapp.com/)~
+  - ~~[Slack](http://wordpressdsm.herokuapp.com/)~~
 
 #### Kansas
 
@@ -394,14 +371,14 @@ For more information on Baltimore tech communities, [Welcome to the Baltimore Te
 
 - **[Detroit Speakers in Tech]** – `Meetup` `Slack` `Twitter/X` – Detroit – Inspired by Global Diversity CFP Day (a worldwide effort to guide new speakers, particularly those underrepresented in tech and as presenters, towards their first conference talks), Detroit Speakers in Tech seeks to connect, train, and support speakers throughout the year. We host workshops for speakers of all experience levels to put together conference talks, refine every aspect of your proposal, and improve presentation delivery.
   - [Meetup](https://www.meetup.com/detroit-speakers-in-tech/)
-  - ~[Slack](https://tinyurl.com/Join-DSIT-Slack)~
+  - ~~[Slack](https://tinyurl.com/Join-DSIT-Slack)~~
   - [Twitter/X](https://twitter.com/SpeakersInTech) – Inactive since 2020-10-30.
 - <details>
   <summary><i>Inactive</i></summary>
 
 - **[Startup Lansing](http://startuplansing.org/join-slack/)** – `Slack` – Lansing
-  - ~[Slack](http://startuplansing.org/join-slack/)~ – Spam squatter redirect
-  - ~[Website](http://startuplansing.org/)~ – Spam squatter redirect
+  - ~~[Slack](http://startuplansing.org/join-slack/)~~ – Spam squatter redirect
+  - ~~[Website](http://startuplansing.org/)~~ – Spam squatter redirect
 </details>
 
 #### Minnesota
@@ -414,8 +391,8 @@ For more information on Baltimore tech communities, [Welcome to the Baltimore Te
 
   - **MSPTech** – Twin Cities
     - [GitHub](https://github.com/msp-tech) – Inactive since 2020-03-30.
-    - ~[Slack](https://msptech.herokuapp.com/)~
-    - ~[Website](https://www.msptech.online/)~
+    - ~~[Slack](https://msptech.herokuapp.com/)~~
+    - ~~[Website](https://www.msptech.online/)~~
 </details>
 
 #### Missouri
