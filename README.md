@@ -127,6 +127,7 @@ Please feel free to submit a Pull Request (or an Issue) to add a new community, 
 - **[The Full List of 1000 Slack Communities](https://docs.google.com/spreadsheets/d/14WooUa7p-5T1T-kXlTMRWSFeJl2c8-6MOIJUEH-wnaQ/edit?usp=sharing)**
 - **[Slack List](https://slack.directory/)**
 - **[This Dot Tech Community Slacks](https://github.com/thisdot/tech-community-slacks)**
+- **[Welcome to the Baltimore Tech Scene](https://www.caseywatts.com/blog/welcome-to-baltimore-tech/)**
 
 ## Regional
 
