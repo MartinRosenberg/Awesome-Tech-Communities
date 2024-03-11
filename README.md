@@ -265,7 +265,7 @@ Chicago is home to a large number of engineering and tech communities. Only a se
 - **WordPress Des Moines** – [`Website`](http://wpdsm.org/) • [~~`Slack`~~](http://wordpressdsm.herokuapp.com/) – Des Moines – WordPress Des Moines is part of the larger WordPress Community across the globe, but more importantly, we are people right here in the Des Moines area who use WordPress, create WordPress websites, and write software for WordPress.
 
 #### Kansas
-
+- **SecKC** – [`Website`](https://seckc.org/) • [`Discord`](https://discord.gg/kSNjbxR) • [`Facebook page`](https://www.facebook.com/SecKC/) • [`GitHub`](https://github.com/SecKC) • [`Instagram`](https://www.instagram.com/sec_kc/)[ⓘ](## "Inactive since 2019-03-11.") • [`LinkedIn page`](https://www.linkedin.com/company/seckc-inc/) • [`Slack`](https://seckc.slack.com/)[ⓘ](## "Signup is restricted to one seemingly random whitelisted domains.") • [`Twitter/X`](https://twitter.com/sec_kc) – Kansas City
 - **devICT** – [`Website`](https://www.devict.org/) • [`Facebook page`](https://www.facebook.com/developerict) • [`GitHub`](https://github.com/devict) • [`Meetup`](https://www.meetup.com/devict/) • [`Slack`](https://slack.devict.org/) • [`Twitter/X`](https://twitter.com/dev_ict) – Wichita –  We are a group of individuals who have a common interest in software development. Our skill levels vary greatly, from complete beginners to seasoned veterans. We welcome anyone with a curiosity for programming.
 
 #### Kentucky
