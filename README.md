@@ -204,9 +204,10 @@ Until something else rises to take its place, the archive of [**DenverTech.commu
 - **SWFL Coders** – [`Website`](https://www.swflcoders.com/) • [`Facebook page`](https://www.facebook.com/SWFLCoders/) • [`GitHub`](https://github.com/swfl-coders) • [`Meetup`](https://www.meetup.com/SWFL-Coders/) • [`Slack`](https://join.slack.com/t/swflcoders/shared_invite/enQtNjk2OTUwMjE4OTMwLTIyNDljNjg2Mjk3YWIxMGViYWI2MWU0ODZlZjUzYzJhYjNmMmRjZDE4YmViNjlkYzY4ZjEzYTY3MzVkMDkwNTc) • [`Twitter/X`](https://twitter.com/SWFLCoders) – Fort Myers – SWFL Coders is a community for technology enthusiasts, including developers, coders, and non-coders, who are eager to explore the captivating world of programming.
 - **Tampa Devs** – [`Website`](https://tampadevs.com) • [`Meetup`](https://www.meetup.com/tampadevs/) • [`Slack`](https://go.tampa.dev/slack) • [`Twitter/X`](https://twitter.com/tampadevs) • [`YouTube`](https://www.youtube.com/@tampadevs) – Tampa – Tampa Devs is the fastest-growing nonprofit community for software developers in Tampa Bay. We're united by a shared mission to break barriers in the tech industry. Each month, we host workshops and create educational and career opportunities for all backgrounds or experience levels. For free, and for everyone.
 - <details>
-  <summary><i>Not tech-focused</i></summary>
+  <summary><i>Not tech-specific</i></summary>
 
   - **Gainesville FL Discord** – [`Discord`](https://discord.gg/F32yXXb) – Gainesville
+  - **GNV Connect** – [`Slack`](https://gnvconnect.com/)[ⓘ](## "Signup is restricted to seemingly random whitelisted domains, but they're working on fixing it.") – Gainesville
 </details>
 
 - <details>
@@ -214,16 +215,10 @@ Until something else rises to take its place, the archive of [**DenverTech.commu
 
 
   - **Front-End Miami** – [`Meetup`](https://www.meetup.com/front-end-developers-of-miami/)[ⓘ](## "Inactive since 2021-09-20.") • [~~`Slack`~~](http://fedm.herokuapp.com/) – Miami – Front-End Miami, formerly Front-End Developers of Miami, is a Meetup group that tries to have monthly gatherings about topics relevant to web development and front-end engineering.
-  - **Jacksonville Tech and Beer** – [~~`Website`~~](https://techandbeers.com/) • [Facebook page](https://www.facebook.com/techandbeers/)[ⓘ](## "Inactive since 2021-02-16.") • [`Instagram`](https://www.instagram.com/techandbeers/)[ⓘ](## "Inactive since 2020-07-16.") • [~~`LinkedIn`~~](https://www.linkedin.com/company/orlando-tech-and-beer/) • [`Meetup`](https://www.meetup.com/jacksonville-tech-and-beer/)[ⓘ](## "Inactive since 2021-10-19.") • [`YouTube`](https://www.youtube.com/@techandbeer7614)[ⓘ](## "Inactive since 2018-08-06.") – Jacksonville – We are a community of tech professionals and enthusiasts that are inspired and passionate about technology in all forms and applications. We are focused on connecting the Jacksonville Tech community through the simplest form of communication… a conversation.
+  - **Jacksonville Tech and Beer** – [~~`Website`~~](https://techandbeers.com/) • [`Facebook page`](https://www.facebook.com/techandbeers/)[ⓘ](## "Inactive since 2021-02-16.") • [`Instagram`](https://www.instagram.com/techandbeers/)[ⓘ](## "Inactive since 2020-07-16.") • [~~`LinkedIn`~~](https://www.linkedin.com/company/orlando-tech-and-beer/) • [`Meetup`](https://www.meetup.com/jacksonville-tech-and-beer/)[ⓘ](## "Inactive since 2021-10-19.") • [`YouTube`](https://www.youtube.com/@techandbeer7614)[ⓘ](## "Inactive since 2018-08-06.") – Jacksonville – We are a community of tech professionals and enthusiasts that are inspired and passionate about technology in all forms and applications. We are focused on connecting the Jacksonville Tech community through the simplest form of communication… a conversation.
   - **Jacksonville Tech Community** – [~~`Slack`~~](http://jacksonville-tech.com/) – Jacksonville
-  - **Tampa Bay Tech** – [Website](http://tampabaytech.org/)[ⓘ](## "Legal proceedings? Unclear what's going on here, to be honest.") • [Slack](http://tampabaytech.org/slack/)[ⓘ](## "Embedded signup form is dead.") – Tampa
+  - **Tampa Bay Tech** – [`Website`](http://tampabaytech.org/)[ⓘ](## "Legal proceedings? Unclear what's going on here, to be honest.") • [`Slack`](http://tampabaytech.org/slack/)[ⓘ](## "Embedded signup form is dead.") – Tampa
   - **Wynwood Tech** – [~~`Website`~~](https://wyn.tech/) – Miami
-</details>
-
-- <details>
-  <summary><i>Not tech-specific and inactive</i></summary>
-
-  - **GNV Connect** – [`Slack`](https://gnvconnect.com/)[ⓘ](## "Signup is restricted to seemingly random whitelisted domains.") – Gainesville
 </details>
 
 #### Georgia
@@ -309,19 +304,25 @@ For more information on Baltimore tech communities, [**Welcome to the Baltimore 
 
 #### New Mexico
 
-##### _Inactive or can't sign up_
+- <details>
+  <summary><i>Inactive</i></summary>
 
-- **[Tech Community of New Mexico](http://techcommunityofnm.org/)** – Statewide – Link is dead
+  - **Tech Community of New Mexico** – [~~`Website`~~](http://techcommunityofnm.org/) • [`Slack`](https://nmdevs.slack.com/)[ⓘ](## "Signup is disabled.") – Statewide
+</details>
 
 #### New York
 
-- **[NYC DevOps](https://launchpass.com/nycdevops)** – `Slack` – NYC
-- **[NYC Tech](http://www.nyctechslack.com/)** – `Slack` – NYC
+- **NYC DevOps** – [`Slack`](https://launchpass.com/nycdevops) – NYC
+- **NYC Tech** – [`Slack`](http://www.nyctechslack.com/) – NYC
 
-##### _Inactive or can't sign up_
+- <details>
+  <summary><i>Inactive</i></summary>
 
-- **[BoroJS](http://slack.borojs.com/)** – `Slack` – Link is dead
-- **[NYC Devs](http://www.nycdevs.org)** – NYC – Link is dead
+  - **BoroJS** – [~~`Slack`~~](http://slack.borojs.com/)
+  - **NYC Devs** – [~~`Slack`~~](http://www.nycdevs.org) – NYC
+</details>
+
+
 
 #### North Carolina
 
