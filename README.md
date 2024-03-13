@@ -322,33 +322,31 @@ For more information on Baltimore tech communities, [**Welcome to the Baltimore 
   - **NYC Devs** – [~~`Slack`~~](http://www.nycdevs.org) – NYC
 </details>
 
-
-
 #### North Carolina
 
-- **[Triangle Devs](https://triangledevslack.com/)** – `Slack` `Meetup` `Discord` – Raleigh/Durham
-
-##### _Inactive or can't sign up_
-
-- **[Charlotte Devs](https://slack.charlottedevs.com/)** – `Slack` – Charlotte – Link is dead
+- **Charlotte Devs** – [`Website`](https://charlottedevs.com/) • [`GitHub`](https://github.com/charlottedevs) • [~~`Slack`~~](https://slack.charlottedevs.com/) – Charlotte
+- **Triangle Devs** – [`Website`](https://triangledevelopers.com/) • [`Discord`](https://discord.gg/7ZXxxbVVdz) • [`Meetup`](https://www.meetup.com/triangle-devs/) • [`Slack`](https://triangledevelopers.com/join-slack) – Raleigh/Durham
 
 #### Ohio
 
-- **[Code Youngstown Slack](http://slack.codeyoungstown.com)** – `Slack` – Youngstown
+Cleveland has its own extensive list of communities and resources, [**Cleveland Tech**](https://github.com/mrfright/cleveland-tech) (not the same as the community called Cleveland Tech).
 
-##### _Inactive or can't sign up_
+- **Cleveland Tech** – [`Slack`](https://cleveland-tech.vercel.app/) – Cleveland
+- **Code Youngstown Slack** – [`Website`](https://codeyoungstown.com/) • [`Facebook page`](https://www.facebook.com/codeyoungstown) • [`GitHub`](https://github.com/codeyoungstown) • [`LinkedIn page`](https://www.linkedin.com/company/code-youngstown/) • [`Meetup`](https://www.meetup.com/Code-Youngstown/) • [`Podcast (on Apple Podcasts)`](https://podcasts.apple.com/us/podcast/code-youngstown-podcast/id1491969032)[ⓘ](## "Also available on your preferred podcast app.") • [`Slack`](http://slack.codeyoungstown.com) • [`Twitter/X`](https://twitter.com/codeyoungstown) • [`YouTube`](https://www.youtube.com/@CodeYoungstown) – Youngstown
+- **TechLife Columbus** – [`Website`](https://www.techlifecolumbus.com/) • [`Meetup`](https://www.meetup.com/techlifecolumbus/) • [~~`Slack`~~](https://techlife-columbus-slack.herokuapp.com/) (or [~~`Slack`~~](https://goo.gl/forms/PJZZKJ1eHmckPE3z2)) – Columbus
+- <details>
+  <summary><i>Inactive</i></summary>
 
-- **[Cincy Tech Slack](https://cincytech.slack.com)** – `Slack` – Cincinnati – Signup is disabled
-- **[Cleveland Tech](https://cleveland-tech.herokuapp.com/)** – Cleveland – Link is dead
-- **[TechLife Columbus](https://techlife-columbus-slack.herokuapp.com/)** – `Slack` – Columbus – Link is dead
+  - **Cincy Tech Slack** – [`GitHub`](https://github.com/CincyTech)[ⓘ](## "Inactive since 2022-03-09.") • [~~`Slack`~~](https://cincytech.slack.com) (or [~~`Slack`~~](http://cincytechscene.org/)) – Cincinnati
+</details>
 
 #### Oklahoma
 
-- **[Techlahoma](http://slack.techlahoma.org/)** – `Slack` – Statewide
+- **Techlahoma** – [`Website`](https://www.techlahoma.org/) • [`Facebook page`](http://facebook.com/techlahoma) • [`GitHub`](https://github.com/techlahoma) • [`LinkedIn page`](https://www.linkedin.com/company/techlahoma-foundation/) • [`Meetup`](https://www.meetup.com/pro/techlahoma/) • [`Slack`](http://slack.techlahoma.org/) • [`Twitch`](http://twitch.tv/techlahoma) • [`Twitter/X`](http://twitter.com/techlahoma) • [`YouTube`](http://youtube.com/techlahoma) – Statewide
 
 #### Oregon
 
-- **[Women Who Code PDX](https://bit.ly/wwcpdx-slack)** – `Slack` – Portland
+- **Women Who Code PDX** – [`Slack`](https://bit.ly/wwcpdx-slack) – Portland
 
 ##### _Inactive or can't sign up_
 
