@@ -346,14 +346,14 @@ Cleveland has its own extensive list of communities and resources, [**Cleveland 
 
 #### Oregon
 
-- **Women Who Code PDX** – [`Slack`](https://bit.ly/wwcpdx-slack) – Portland
+- **pdxstartups** – [`Slack`](https://join.slack.com/t/pdxstartups/shared_invite/zt-a0fuj0yf-vkieJv9zEhPguaFkMsVXWg) – Portland
+- **Portland ReactJS** – [`Meetup`](https://www.meetup.com/portland-reactjs/) • [`Slack`](https://pdxreact.com/) – Portland
+- **Women Who Code Portland** – [`Website`](https://womenwhocode.com/network/portland) • [`Facebook page`](https://www.facebook.com/WWCodePortland/) • [`GitHub`](https://github.com/wwcodeportland) • [`Medium`](https://medium.com/@WWCodePortland)[ⓘ](## "Inactive since 2020-03-04.") • [`Meetup`](https://www.meetup.com/women-who-code-portland/) • [`Slack`](https://bit.ly/wwcpdx-slack) • [`Twitter/X`](https://twitter.com/WWCodePortland)[ⓘ](## "Inactive since 2021-12-09.") – Portland
+- <details>
+  <summary><i>Inactive</i></summary>
 
-##### _Inactive or can't sign up_
-
-- **[Infinite Red Community](https://infiniteredcommunity.herokuapp.com/)** – Link is dead
-- **[Node PDX](http://nodepdx.slack.com/)** – `Slack` – Portland – Signup is disabled
-- **[pdxstartups](https://pdx-startups-slack.herokuapp.com/)** – `Slack` – Portland – Link is dead
-- **[Portland ReactJS](https://portlandreactjs.herokuapp.com/)** – `Slack` – Portland – Link is dead
+  - **NodePDX** – [~~`Website`~~](http://www.nodepdx.org/) or [~~`Website`~~](https://nodepdx.github.io/) • [`GitHub`](https://github.com/nodepdx)[ⓘ](## "Inactive since 2018-0307.") • [`Slack`](http://nodepdx.slack.com/)[ⓘ](## "Signup is disabled.") • [`Twitter/X`](https://twitter.com/nodepdx)[ⓘ](## "Inactive since 2018-05-26.") – Portland
+</details>
 
 #### Pennsylvania
 
