@@ -263,6 +263,19 @@ Chicago is home to a large number of engineering and tech communities. Only a se
 
 - **devICT** – [`Website`](https://www.devict.org/) • [`Facebook page`](https://www.facebook.com/developerict) • [`GitHub`](https://github.com/devict) • [`Meetup`](https://www.meetup.com/devict/) • [`Slack`](https://slack.devict.org/) • [`Twitter/X`](https://twitter.com/dev_ict) – Wichita –  We are a group of individuals who have a common interest in software development. Our skill levels vary greatly, from complete beginners to seasoned veterans. We welcome anyone with a curiosity for programming.
 
+<!-- * This information is best-effort up to date as of 03/11/2024 by skyefugate -->
+- **SecKC** – [`Website`](https://www.seckc.org/) • [`Facebook page`](https://www.facebook.com/WiSKC) • [`LinkedIn`](https://www.linkedin.com/company/wiskc/) • [`Twitter/X`](https://twitter.com/WomenSecurityKC) – Kansas City Metro Area - Kansas City's local monthly hacker meetup by hackers, for hackers. This is the largest monthly Information Security meetup in the world. 
+
+- **WiSKC** – [`Website`](https://www.wiskc.org/) • [`Facebook page`](https://www.facebook.com/KCWomenInTech) • [`Slack`](https://kcwomenintech.org/join-our-slack-community) • [`Twitter/X`](https://twitter.com/kcwomenintech) – Kansas City Metro Area - Promoting Women in Information Security
+
+- **KCWiT** – [`Website`](https://kcwomenintech.org/) • [`Facebook page`](https://www.facebook.com/KCWomenInTech) • [`Slack`](https://kcwomenintech.org/join-our-slack-community) • [`Twitter/X`](https://twitter.com/kcwomenintech) – Kansas City Metro Area - Kansas City Women in Technology is an organization unique to Kansas City and was created to serve the needs of the Kansas City community.
+
+- **Amazon Web Services Kansas City User Group** – [`Meetup`](https://www.meetup.com/awskcug/) • [`Slack`](http://awskcslack.com/) • [`Twitter/X`](https://twitter.com/awskcug) – Kansas City Metro Area - Amazon Web Services Kansas City User Group. A community driven user group. Helping people power the AWS Cloud. #awskc #AWSCommunity
+
+- **ISACA Greater Kansas City Chapter** – [`Website`](https://engage.isaca.org/greaterkansascitychapter/home) – Kansas City Metro Area - Local ISACA chapter for the Kansas City Metropolitan area. 
+
+- **ISC2KC** – [`Website`](https://isc2kc.org/) – Kansas City Metro Area - Local ISC2 chapter for the Kansas City Metropolitan area. 
+
 #### Kentucky
 
 - **Bluegrass Developers Guild** – [`Website`](https://www.bluegrassdevs.org/) • [`GitHub`](https://github.com/bluegrass-devs) • [`Meetup`](https://www.meetup.com/The-Bluegrass-Developers-Guild/) • [`Slack`](https://form.jotform.com/231035903729051) – Lexington? Statewide? – We are a collective of software engineers, programmers, researchers, data scientists, and designers in the state of Kentucky. Our purpose is to promote a sense of community among local technology organizations and their members. We seek to improve communication between leaders, centralize efforts, improve culture, and to support our members in a way that strengthens our community and promotes the common good.
@@ -293,8 +306,18 @@ For more information on Baltimore tech communities, [**Welcome to the Baltimore 
 
 #### Missouri
 
-- **KC Women in Tech** – [`Website`](https://kcwomenintech.org/) • [`Slack`](https://kcwomenintech.org/join-our-slack-community/) – Kansas City
-- **SecKC** – [`Website`](https://seckc.org/) • [`Discord`](https://discord.gg/kSNjbxR) • [`Facebook page`](https://www.facebook.com/SecKC/) • [`GitHub`](https://github.com/SecKC) • [`Instagram`](https://www.instagram.com/sec_kc/)[ⓘ](## "Inactive since 2019-03-11.") • [`LinkedIn page`](https://www.linkedin.com/company/seckc-inc/) • [`Slack`](https://seckc.slack.com/)[ⓘ](## "Signup is restricted to one seemingly random whitelisted domains.") • [`Twitter/X`](https://twitter.com/sec_kc) – Kansas City
+<!-- * This information is best-effort up to date as of 03/11/2024 by skyefugate -->
+- **SecKC** – [`Website`](https://www.seckc.org/) • [`Facebook page`](https://www.facebook.com/WiSKC) • [`LinkedIn`](https://www.linkedin.com/company/wiskc/) • [`Twitter/X`](https://twitter.com/WomenSecurityKC) – Kansas City Metro Area - Kansas City's local monthly hacker meetup by hackers, for hackers. This is the largest monthly Information Security meetup in the world. 
+
+- **WiSKC** – [`Website`](https://www.wiskc.org/) • [`Facebook page`](https://www.facebook.com/KCWomenInTech) • [`Slack`](https://kcwomenintech.org/join-our-slack-community) • [`Twitter/X`](https://twitter.com/kcwomenintech) – Kansas City Metro Area - Promoting Women in Information Security
+
+- **KCWiT** – [`Website`](https://kcwomenintech.org/) • [`Facebook page`](https://www.facebook.com/KCWomenInTech) • [`Slack`](https://kcwomenintech.org/join-our-slack-community) • [`Twitter/X`](https://twitter.com/kcwomenintech) – Kansas City Metro Area - Kansas City Women in Technology is an organization unique to Kansas City and was created to serve the needs of the Kansas City community.
+
+- **Amazon Web Services Kansas City User Group** – [`Meetup`](https://www.meetup.com/awskcug/) • [`Slack`](http://awskcslack.com/) • [`Twitter/X`](https://twitter.com/awskcug) – Kansas City Metro Area - Amazon Web Services Kansas City User Group. A community driven user group. Helping people power the AWS Cloud. #awskc #AWSCommunity
+
+- **ISACA Greater Kansas City Chapter** – [`Website`](https://engage.isaca.org/greaterkansascitychapter/home) – Kansas City Metro Area - Local ISACA chapter for the Kansas City Metropolitan area. 
+
+- **ISC2KC** – [`Website`](https://isc2kc.org/) – Kansas City Metro Area - Local ISC2 chapter for the Kansas City Metropolitan area. 
 - **Springfield Devs** (f/k/a **SGF Web Devs**) – [`Website`](https://sgf.dev/) • [`Discord`](https://discord.sgf.dev/) • [`GitHub`](https://github.com/sgfdevs) • [`Instagram`](https://www.instagram.com/sgfdevs/) • [`Meetup`](https://www.meetup.com/sgfdevs/) • [`Twitch`](https://www.twitch.tv/sgfdevs) • [`Twitter/X`](https://twitter.com/sgfdevs/) • [`YouTube`](https://www.youtube.com/channel/UC09Jd4ouiP_BUc7REYhC2kw) – Springfield, Southwest Missouri
 - <details>
   <summary><i>Inactive</i></summary>
