@@ -261,20 +261,9 @@ Chicago is home to a large number of engineering and tech communities. Only a se
 
 #### Kansas
 
+For Kansas City communities, check out [Missouri](#missouri). *Sorry, I'm a careful programmer and I'm keeping my code <abbr title="Don't Repeat Yourself">DRY</abbr>.*
+
 - **devICT** – [`Website`](https://www.devict.org/) • [`Facebook page`](https://www.facebook.com/developerict) • [`GitHub`](https://github.com/devict) • [`Meetup`](https://www.meetup.com/devict/) • [`Slack`](https://slack.devict.org/) • [`Twitter/X`](https://twitter.com/dev_ict) – Wichita –  We are a group of individuals who have a common interest in software development. Our skill levels vary greatly, from complete beginners to seasoned veterans. We welcome anyone with a curiosity for programming.
-
-<!-- * This information is best-effort up to date as of 03/11/2024 by skyefugate -->
-- **SecKC** – [`Website`](https://www.seckc.org/) • [`Facebook page`](https://www.facebook.com/WiSKC) • [`LinkedIn`](https://www.linkedin.com/company/wiskc/) • [`Twitter/X`](https://twitter.com/WomenSecurityKC) – Kansas City Metro Area - Kansas City's local monthly hacker meetup by hackers, for hackers. This is the largest monthly Information Security meetup in the world. 
-
-- **WiSKC** – [`Website`](https://www.wiskc.org/) • [`Facebook page`](https://www.facebook.com/KCWomenInTech) • [`Slack`](https://kcwomenintech.org/join-our-slack-community) • [`Twitter/X`](https://twitter.com/kcwomenintech) – Kansas City Metro Area - Promoting Women in Information Security
-
-- **KCWiT** – [`Website`](https://kcwomenintech.org/) • [`Facebook page`](https://www.facebook.com/KCWomenInTech) • [`Slack`](https://kcwomenintech.org/join-our-slack-community) • [`Twitter/X`](https://twitter.com/kcwomenintech) – Kansas City Metro Area - Kansas City Women in Technology is an organization unique to Kansas City and was created to serve the needs of the Kansas City community.
-
-- **Amazon Web Services Kansas City User Group** – [`Meetup`](https://www.meetup.com/awskcug/) • [`Slack`](http://awskcslack.com/) • [`Twitter/X`](https://twitter.com/awskcug) – Kansas City Metro Area - Amazon Web Services Kansas City User Group. A community driven user group. Helping people power the AWS Cloud. #awskc #AWSCommunity
-
-- **ISACA Greater Kansas City Chapter** – [`Website`](https://engage.isaca.org/greaterkansascitychapter/home) – Kansas City Metro Area - Local ISACA chapter for the Kansas City Metropolitan area. 
-
-- **ISC2KC** – [`Website`](https://isc2kc.org/) – Kansas City Metro Area - Local ISC2 chapter for the Kansas City Metropolitan area. 
 
 #### Kentucky
 
@@ -306,19 +295,13 @@ For more information on Baltimore tech communities, [**Welcome to the Baltimore 
 
 #### Missouri
 
-<!-- * This information is best-effort up to date as of 03/11/2024 by skyefugate -->
-- **SecKC** – [`Website`](https://www.seckc.org/) • [`Facebook page`](https://www.facebook.com/WiSKC) • [`LinkedIn`](https://www.linkedin.com/company/wiskc/) • [`Twitter/X`](https://twitter.com/WomenSecurityKC) – Kansas City Metro Area - Kansas City's local monthly hacker meetup by hackers, for hackers. This is the largest monthly Information Security meetup in the world. 
-
-- **WiSKC** – [`Website`](https://www.wiskc.org/) • [`Facebook page`](https://www.facebook.com/KCWomenInTech) • [`Slack`](https://kcwomenintech.org/join-our-slack-community) • [`Twitter/X`](https://twitter.com/kcwomenintech) – Kansas City Metro Area - Promoting Women in Information Security
-
-- **KCWiT** – [`Website`](https://kcwomenintech.org/) • [`Facebook page`](https://www.facebook.com/KCWomenInTech) • [`Slack`](https://kcwomenintech.org/join-our-slack-community) • [`Twitter/X`](https://twitter.com/kcwomenintech) – Kansas City Metro Area - Kansas City Women in Technology is an organization unique to Kansas City and was created to serve the needs of the Kansas City community.
-
-- **Amazon Web Services Kansas City User Group** – [`Meetup`](https://www.meetup.com/awskcug/) • [`Slack`](http://awskcslack.com/) • [`Twitter/X`](https://twitter.com/awskcug) – Kansas City Metro Area - Amazon Web Services Kansas City User Group. A community driven user group. Helping people power the AWS Cloud. #awskc #AWSCommunity
-
-- **ISACA Greater Kansas City Chapter** – [`Website`](https://engage.isaca.org/greaterkansascitychapter/home) – Kansas City Metro Area - Local ISACA chapter for the Kansas City Metropolitan area. 
-
-- **ISC2KC** – [`Website`](https://isc2kc.org/) – Kansas City Metro Area - Local ISC2 chapter for the Kansas City Metropolitan area. 
+- **Amazon Web Services Kansas City User Group** – [`Meetup`](https://www.meetup.com/awskcug/) • [`Slack`](http://awskcslack.com/) • [`Twitter/X`](https://twitter.com/awskcug) – Kansas City metro area - This group is for all current (and potential) users of Amazon Web Services. We'll talk about general cloud topics as they pertain to AWS such as security, scalability, architecture, etc.
+- **ISACA Greater Kansas City Chapter** – [`Website`](https://engage.isaca.org/greaterkansascitychapter/home) • [`LinkedIn`](https://www.linkedin.com/company/isacakc/) • [`Twitter/X`](https://twitter.com/ISACA_KC) – Kansas City metro area - The ISACA KC Chapter promotes the education of individuals relating to the auditing of, management consulting in, or direct management of the fields of IT governance, IS audit, security, control and assurance.
+- **ISC2 Kansas City Chapter** – [`Website`](https://isc2kc.org/) – Kansas City metro area - ISC2 is the world’s leading member association for cybersecurity professionals. Our more than 600,000 members, candidates and associates lead the profession with the same shared vision.
+- **Kansas City Women in Technology** – [`Website`](https://kcwomenintech.org/) • [`Facebook page`](https://www.facebook.com/KCWomenInTech) • [`Slack`](https://kcwomenintech.org/join-our-slack-community) • [`Twitter/X`](https://twitter.com/kcwomenintech) – Kansas City metro area - We're a grassroots organization helping to grow the number of women in technology careers in Kansas City.
+- **SecKC** – [`Website`](https://www.seckc.org/) • [`Facebook page`](https://www.facebook.com/SecKC/) • [`GitHub`](https://github.com/SecKC) • [`Instagram`](https://www.instagram.com/sec_kc/) • [`LinkedIn page`](https://www.linkedin.com/company/seckc-inc/) • [`Twitter/X`](https://twitter.com/sec_kc) – Kansas City metro area - SecKC is Kansas City's longest-running monthly security meetup, but it’s more than a meetup. It's a community of awesome hackers, makers, builders, and breakers. It's a little like a monthly dose of hacker summer camp right here at home. And you can be part of it too – all you have to do is show up!
 - **Springfield Devs** (f/k/a **SGF Web Devs**) – [`Website`](https://sgf.dev/) • [`Discord`](https://discord.sgf.dev/) • [`GitHub`](https://github.com/sgfdevs) • [`Instagram`](https://www.instagram.com/sgfdevs/) • [`Meetup`](https://www.meetup.com/sgfdevs/) • [`Twitch`](https://www.twitch.tv/sgfdevs) • [`Twitter/X`](https://twitter.com/sgfdevs/) • [`YouTube`](https://www.youtube.com/channel/UC09Jd4ouiP_BUc7REYhC2kw) – Springfield, Southwest Missouri
+- **Women in Security – Kansas City (WiS-KC)** – [`Website`](https://www.wiskc.org/) • [`Facebook page`](https://www.facebook.com/WiSKC/) • [`LinkedIn page`](https://www.linkedin.com/company/wiskc/) • [`Twitter/X`](https://twitter.com/WomenSecurityKC) – Kansas City metro area - Our mission is to provide a focus for women in Information Security through peer mentoring, workshops, and networking opportunities. Our vision for Women in Security - Kansas City is to inspire and support women at all career levels in Information Security.
 - <details>
   <summary><i>Inactive</i></summary>
 
