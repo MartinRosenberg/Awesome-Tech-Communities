@@ -204,9 +204,10 @@ Until something else rises to take its place, the archive of [**DenverTech.commu
 - **SWFL Coders** – [`Website`](https://www.swflcoders.com/) • [`Facebook page`](https://www.facebook.com/SWFLCoders/) • [`GitHub`](https://github.com/swfl-coders) • [`Meetup`](https://www.meetup.com/SWFL-Coders/) • [`Slack`](https://join.slack.com/t/swflcoders/shared_invite/enQtNjk2OTUwMjE4OTMwLTIyNDljNjg2Mjk3YWIxMGViYWI2MWU0ODZlZjUzYzJhYjNmMmRjZDE4YmViNjlkYzY4ZjEzYTY3MzVkMDkwNTc) • [`Twitter/X`](https://twitter.com/SWFLCoders) – Fort Myers – SWFL Coders is a community for technology enthusiasts, including developers, coders, and non-coders, who are eager to explore the captivating world of programming.
 - **Tampa Devs** – [`Website`](https://tampadevs.com) • [`Meetup`](https://www.meetup.com/tampadevs/) • [`Slack`](https://go.tampa.dev/slack) • [`Twitter/X`](https://twitter.com/tampadevs) • [`YouTube`](https://www.youtube.com/@tampadevs) – Tampa – Tampa Devs is the fastest-growing nonprofit community for software developers in Tampa Bay. We're united by a shared mission to break barriers in the tech industry. Each month, we host workshops and create educational and career opportunities for all backgrounds or experience levels. For free, and for everyone.
 - <details>
-  <summary><i>Not tech-focused</i></summary>
+  <summary><i>Not tech-specific</i></summary>
 
   - **Gainesville FL Discord** – [`Discord`](https://discord.gg/F32yXXb) – Gainesville
+  - **GNV Connect** – [`Slack`](https://gnvconnect.com/)[ⓘ](## "Signup is restricted to seemingly random whitelisted domains, but they're working on fixing it.") – Gainesville
 </details>
 
 - <details>
@@ -214,16 +215,10 @@ Until something else rises to take its place, the archive of [**DenverTech.commu
 
 
   - **Front-End Miami** – [`Meetup`](https://www.meetup.com/front-end-developers-of-miami/)[ⓘ](## "Inactive since 2021-09-20.") • [~~`Slack`~~](http://fedm.herokuapp.com/) – Miami – Front-End Miami, formerly Front-End Developers of Miami, is a Meetup group that tries to have monthly gatherings about topics relevant to web development and front-end engineering.
-  - **Jacksonville Tech and Beer** – [~~`Website`~~](https://techandbeers.com/) • [Facebook page](https://www.facebook.com/techandbeers/)[ⓘ](## "Inactive since 2021-02-16.") • [`Instagram`](https://www.instagram.com/techandbeers/)[ⓘ](## "Inactive since 2020-07-16.") • [~~`LinkedIn`~~](https://www.linkedin.com/company/orlando-tech-and-beer/) • [`Meetup`](https://www.meetup.com/jacksonville-tech-and-beer/)[ⓘ](## "Inactive since 2021-10-19.") • [`YouTube`](https://www.youtube.com/@techandbeer7614)[ⓘ](## "Inactive since 2018-08-06.") – Jacksonville – We are a community of tech professionals and enthusiasts that are inspired and passionate about technology in all forms and applications. We are focused on connecting the Jacksonville Tech community through the simplest form of communication… a conversation.
+  - **Jacksonville Tech and Beer** – [~~`Website`~~](https://techandbeers.com/) • [`Facebook page`](https://www.facebook.com/techandbeers/)[ⓘ](## "Inactive since 2021-02-16.") • [`Instagram`](https://www.instagram.com/techandbeers/)[ⓘ](## "Inactive since 2020-07-16.") • [~~`LinkedIn`~~](https://www.linkedin.com/company/orlando-tech-and-beer/) • [`Meetup`](https://www.meetup.com/jacksonville-tech-and-beer/)[ⓘ](## "Inactive since 2021-10-19.") • [`YouTube`](https://www.youtube.com/@techandbeer7614)[ⓘ](## "Inactive since 2018-08-06.") – Jacksonville – We are a community of tech professionals and enthusiasts that are inspired and passionate about technology in all forms and applications. We are focused on connecting the Jacksonville Tech community through the simplest form of communication… a conversation.
   - **Jacksonville Tech Community** – [~~`Slack`~~](http://jacksonville-tech.com/) – Jacksonville
-  - **Tampa Bay Tech** – [Website](http://tampabaytech.org/)[ⓘ](## "Legal proceedings? Unclear what's going on here, to be honest.") • [Slack](http://tampabaytech.org/slack/)[ⓘ](## "Embedded signup form is dead.") – Tampa
+  - **Tampa Bay Tech** – [`Website`](http://tampabaytech.org/)[ⓘ](## "Legal proceedings? Unclear what's going on here, to be honest.") • [`Slack`](http://tampabaytech.org/slack/)[ⓘ](## "Embedded signup form is dead.") – Tampa
   - **Wynwood Tech** – [~~`Website`~~](https://wyn.tech/) – Miami
-</details>
-
-- <details>
-  <summary><i>Not tech-specific and inactive</i></summary>
-
-  - **GNV Connect** – [`Slack`](https://gnvconnect.com/)[ⓘ](## "Signup is restricted to seemingly random whitelisted domains.") – Gainesville
 </details>
 
 #### Georgia
@@ -265,7 +260,9 @@ Chicago is home to a large number of engineering and tech communities. Only a se
 - **WordPress Des Moines** – [`Website`](http://wpdsm.org/) • [~~`Slack`~~](http://wordpressdsm.herokuapp.com/) – Des Moines – WordPress Des Moines is part of the larger WordPress Community across the globe, but more importantly, we are people right here in the Des Moines area who use WordPress, create WordPress websites, and write software for WordPress.
 
 #### Kansas
-- **SecKC** – [`Website`](https://seckc.org/) • [`Discord`](https://discord.gg/kSNjbxR) • [`Facebook page`](https://www.facebook.com/SecKC/) • [`GitHub`](https://github.com/SecKC) • [`Instagram`](https://www.instagram.com/sec_kc/)[ⓘ](## "Inactive since 2019-03-11.") • [`LinkedIn page`](https://www.linkedin.com/company/seckc-inc/) • [`Slack`](https://seckc.slack.com/)[ⓘ](## "Signup is restricted to one seemingly random whitelisted domains.") • [`Twitter/X`](https://twitter.com/sec_kc) – Kansas City - SecKC is the world's largest and longest-running monthly security meetup. It is a community of awesome hackers, makers, builders, and breakers. It’s a little like a monthly dose of hacker summer camp right here at home.
+
+For Kansas City communities, check out [Missouri](#missouri). *Sorry, I'm a careful programmer and I'm keeping my code <abbr title="Don't Repeat Yourself">DRY</abbr>.*
+
 - **devICT** – [`Website`](https://www.devict.org/) • [`Facebook page`](https://www.facebook.com/developerict) • [`GitHub`](https://github.com/devict) • [`Meetup`](https://www.meetup.com/devict/) • [`Slack`](https://slack.devict.org/) • [`Twitter/X`](https://twitter.com/dev_ict) – Wichita –  We are a group of individuals who have a common interest in software development. Our skill levels vary greatly, from complete beginners to seasoned veterans. We welcome anyone with a curiosity for programming.
 
 #### Kentucky
@@ -298,9 +295,13 @@ For more information on Baltimore tech communities, [**Welcome to the Baltimore 
 
 #### Missouri
 
-- **KC Women in Tech** – [`Website`](https://kcwomenintech.org/) • [`Slack`](https://kcwomenintech.org/join-our-slack-community/) – Kansas City
-- **SecKC** – [`Website`](https://seckc.org/) • [`Discord`](https://discord.gg/kSNjbxR) • [`Facebook page`](https://www.facebook.com/SecKC/) • [`GitHub`](https://github.com/SecKC) • [`Instagram`](https://www.instagram.com/sec_kc/)[ⓘ](## "Inactive since 2019-03-11.") • [`LinkedIn page`](https://www.linkedin.com/company/seckc-inc/) • [`Slack`](https://seckc.slack.com/)[ⓘ](## "Signup is restricted to one seemingly random whitelisted domains.") • [`Twitter/X`](https://twitter.com/sec_kc) – Kansas City - SecKC is the world's largest and longest-running monthly security meetup. It is a community of awesome hackers, makers, builders, and breakers. It’s a little like a monthly dose of hacker summer camp right here at home.
+- **Amazon Web Services Kansas City User Group** – [`Meetup`](https://www.meetup.com/awskcug/) • [`Slack`](http://awskcslack.com/) • [`Twitter/X`](https://twitter.com/awskcug) – Kansas City metro area - This group is for all current (and potential) users of Amazon Web Services. We'll talk about general cloud topics as they pertain to AWS such as security, scalability, architecture, etc.
+- **ISACA Greater Kansas City Chapter** – [`Website`](https://engage.isaca.org/greaterkansascitychapter/home) • [`LinkedIn`](https://www.linkedin.com/company/isacakc/) • [`Twitter/X`](https://twitter.com/ISACA_KC) – Kansas City metro area - The ISACA KC Chapter promotes the education of individuals relating to the auditing of, management consulting in, or direct management of the fields of IT governance, IS audit, security, control and assurance.
+- **ISC2 Kansas City Chapter** – [`Website`](https://isc2kc.org/) – Kansas City metro area - ISC2 is the world’s leading member association for cybersecurity professionals. Our more than 600,000 members, candidates and associates lead the profession with the same shared vision.
+- **Kansas City Women in Technology** – [`Website`](https://kcwomenintech.org/) • [`Facebook page`](https://www.facebook.com/KCWomenInTech) • [`Slack`](https://kcwomenintech.org/join-our-slack-community) • [`Twitter/X`](https://twitter.com/kcwomenintech) – Kansas City metro area - We're a grassroots organization helping to grow the number of women in technology careers in Kansas City.
+- **SecKC** – [`Website`](https://www.seckc.org/) • [`Discord`](https://discord.gg/kSNjbxR) • [`Facebook page`](https://www.facebook.com/SecKC/) • [`GitHub`](https://github.com/SecKC) • [`Instagram`](https://www.instagram.com/sec_kc/)[ⓘ](## "Inactive since 2019-03-11.") • [`LinkedIn page`](https://www.linkedin.com/company/seckc-inc/) • [`Twitter/X`](https://twitter.com/sec_kc) – Kansas City - SecKC is the world's largest and longest-running monthly security meetup. It is a community of awesome hackers, makers, builders, and breakers. It’s a little like a monthly dose of hacker summer camp right here at home.
 - **Springfield Devs** (f/k/a **SGF Web Devs**) – [`Website`](https://sgf.dev/) • [`Discord`](https://discord.sgf.dev/) • [`GitHub`](https://github.com/sgfdevs) • [`Instagram`](https://www.instagram.com/sgfdevs/) • [`Meetup`](https://www.meetup.com/sgfdevs/) • [`Twitch`](https://www.twitch.tv/sgfdevs) • [`Twitter/X`](https://twitter.com/sgfdevs/) • [`YouTube`](https://www.youtube.com/channel/UC09Jd4ouiP_BUc7REYhC2kw) – Springfield, Southwest Missouri
+- **Women in Security – Kansas City (WiS-KC)** – [`Website`](https://www.wiskc.org/) • [`Facebook page`](https://www.facebook.com/WiSKC/) • [`LinkedIn page`](https://www.linkedin.com/company/wiskc/) • [`Twitter/X`](https://twitter.com/WomenSecurityKC) – Kansas City metro area - Our mission is to provide a focus for women in Information Security through peer mentoring, workshops, and networking opportunities. Our vision for Women in Security - Kansas City is to inspire and support women at all career levels in Information Security.
 - <details>
   <summary><i>Inactive</i></summary>
 
@@ -309,52 +310,56 @@ For more information on Baltimore tech communities, [**Welcome to the Baltimore 
 
 #### New Mexico
 
-##### _Inactive or can't sign up_
+- <details>
+  <summary><i>Inactive</i></summary>
 
-- **[Tech Community of New Mexico](http://techcommunityofnm.org/)** – Statewide – Link is dead
+  - **Tech Community of New Mexico** – [~~`Website`~~](http://techcommunityofnm.org/) • [`Slack`](https://nmdevs.slack.com/)[ⓘ](## "Signup is disabled.") – Statewide
+</details>
 
 #### New York
 
-- **[NYC DevOps](https://launchpass.com/nycdevops)** – `Slack` – NYC
-- **[NYC Tech](http://www.nyctechslack.com/)** – `Slack` – NYC
+- **NYC DevOps** – [`Slack`](https://launchpass.com/nycdevops) – NYC
+- **NYC Tech** – [`Slack`](http://www.nyctechslack.com/) – NYC
 
-##### _Inactive or can't sign up_
+- <details>
+  <summary><i>Inactive</i></summary>
 
-- **[BoroJS](http://slack.borojs.com/)** – `Slack` – Link is dead
-- **[NYC Devs](http://www.nycdevs.org)** – NYC – Link is dead
+  - **BoroJS** – [~~`Slack`~~](http://slack.borojs.com/)
+  - **NYC Devs** – [~~`Slack`~~](http://www.nycdevs.org) – NYC
+</details>
 
 #### North Carolina
 
-- **[Triangle Devs](https://triangledevslack.com/)** – `Slack` `Meetup` `Discord` – Raleigh/Durham
-
-##### _Inactive or can't sign up_
-
-- **[Charlotte Devs](https://slack.charlottedevs.com/)** – `Slack` – Charlotte – Link is dead
+- **Charlotte Devs** – [`Website`](https://charlottedevs.com/) • [`GitHub`](https://github.com/charlottedevs) • [~~`Slack`~~](https://slack.charlottedevs.com/) – Charlotte
+- **Triangle Devs** – [`Website`](https://triangledevelopers.com/) • [`Discord`](https://discord.gg/7ZXxxbVVdz) • [`Meetup`](https://www.meetup.com/triangle-devs/) • [`Slack`](https://triangledevelopers.com/join-slack) – Raleigh/Durham
 
 #### Ohio
 
-- **[Code Youngstown Slack](http://slack.codeyoungstown.com)** – `Slack` – Youngstown
+Cleveland has its own extensive list of communities and resources, [**Cleveland Tech**](https://github.com/mrfright/cleveland-tech) (not the same as the community called Cleveland Tech).
 
-##### _Inactive or can't sign up_
+- **Cleveland Tech** – [`Slack`](https://cleveland-tech.vercel.app/) – Cleveland
+- **Code Youngstown Slack** – [`Website`](https://codeyoungstown.com/) • [`Facebook page`](https://www.facebook.com/codeyoungstown) • [`GitHub`](https://github.com/codeyoungstown) • [`LinkedIn page`](https://www.linkedin.com/company/code-youngstown/) • [`Meetup`](https://www.meetup.com/Code-Youngstown/) • [`Podcast (on Apple Podcasts)`](https://podcasts.apple.com/us/podcast/code-youngstown-podcast/id1491969032)[ⓘ](## "Also available on your preferred podcast app.") • [`Slack`](http://slack.codeyoungstown.com) • [`Twitter/X`](https://twitter.com/codeyoungstown) • [`YouTube`](https://www.youtube.com/@CodeYoungstown) – Youngstown
+- **TechLife Columbus** – [`Website`](https://www.techlifecolumbus.com/) • [`Meetup`](https://www.meetup.com/techlifecolumbus/) • [~~`Slack`~~](https://techlife-columbus-slack.herokuapp.com/) (or [~~`Slack`~~](https://goo.gl/forms/PJZZKJ1eHmckPE3z2)) – Columbus
+- <details>
+  <summary><i>Inactive</i></summary>
 
-- **[Cincy Tech Slack](https://cincytech.slack.com)** – `Slack` – Cincinnati – Signup is disabled
-- **[Cleveland Tech](https://cleveland-tech.herokuapp.com/)** – Cleveland – Link is dead
-- **[TechLife Columbus](https://techlife-columbus-slack.herokuapp.com/)** – `Slack` – Columbus – Link is dead
+  - **Cincy Tech Slack** – [`GitHub`](https://github.com/CincyTech)[ⓘ](## "Inactive since 2022-03-09.") • [~~`Slack`~~](https://cincytech.slack.com) (or [~~`Slack`~~](http://cincytechscene.org/)) – Cincinnati
+</details>
 
 #### Oklahoma
 
-- **[Techlahoma](http://slack.techlahoma.org/)** – `Slack` – Statewide
+- **Techlahoma** – [`Website`](https://www.techlahoma.org/) • [`Facebook page`](http://facebook.com/techlahoma) • [`GitHub`](https://github.com/techlahoma) • [`LinkedIn page`](https://www.linkedin.com/company/techlahoma-foundation/) • [`Meetup`](https://www.meetup.com/pro/techlahoma/) • [`Slack`](http://slack.techlahoma.org/) • [`Twitch`](http://twitch.tv/techlahoma) • [`Twitter/X`](http://twitter.com/techlahoma) • [`YouTube`](http://youtube.com/techlahoma) – Statewide
 
 #### Oregon
 
-- **[Women Who Code PDX](https://bit.ly/wwcpdx-slack)** – `Slack` – Portland
+- **pdxstartups** – [`Slack`](https://join.slack.com/t/pdxstartups/shared_invite/zt-a0fuj0yf-vkieJv9zEhPguaFkMsVXWg) – Portland
+- **Portland ReactJS** – [`Meetup`](https://www.meetup.com/portland-reactjs/) • [`Slack`](https://pdxreact.com/) – Portland
+- **Women Who Code Portland** – [`Website`](https://womenwhocode.com/network/portland) • [`Facebook page`](https://www.facebook.com/WWCodePortland/) • [`GitHub`](https://github.com/wwcodeportland) • [`Medium`](https://medium.com/@WWCodePortland)[ⓘ](## "Inactive since 2020-03-04.") • [`Meetup`](https://www.meetup.com/women-who-code-portland/) • [`Slack`](https://bit.ly/wwcpdx-slack) • [`Twitter/X`](https://twitter.com/WWCodePortland)[ⓘ](## "Inactive since 2021-12-09.") – Portland
+- <details>
+  <summary><i>Inactive</i></summary>
 
-##### _Inactive or can't sign up_
-
-- **[Infinite Red Community](https://infiniteredcommunity.herokuapp.com/)** – Link is dead
-- **[Node PDX](http://nodepdx.slack.com/)** – `Slack` – Portland – Signup is disabled
-- **[pdxstartups](https://pdx-startups-slack.herokuapp.com/)** – `Slack` – Portland – Link is dead
-- **[Portland ReactJS](https://portlandreactjs.herokuapp.com/)** – `Slack` – Portland – Link is dead
+  - **NodePDX** – [~~`Website`~~](http://www.nodepdx.org/) or [~~`Website`~~](https://nodepdx.github.io/) • [`GitHub`](https://github.com/nodepdx)[ⓘ](## "Inactive since 2018-0307.") • [`Slack`](http://nodepdx.slack.com/)[ⓘ](## "Signup is disabled.") • [`Twitter/X`](https://twitter.com/nodepdx)[ⓘ](## "Inactive since 2018-05-26.") – Portland
+</details>
 
 #### Pennsylvania
 
