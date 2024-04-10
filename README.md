@@ -424,6 +424,7 @@ For more in Austin, check out [Austin Tech Meetups](https://github.com/tbarn/aus
 DevWi hosts a [list of Wisconsin Meetups](https://devwi.com/groups), and Choose MKE Tech hosts a [list of Milwaukee Meetups](https://www.choosemketech.org/milwaukee-tech-scene/milwaukee-tech-connect/).
 
 - **Milwaukee Slack** – [`Slack`](https://milwaukeeslack.com) – Milwaukee – The Milwaukee Slack started out as an IRC channel and has grown to nearly 3,000 members today. Its roots started with software development and technology but has grown to include much more over the years.
+- **Wisconsin Linux** – [`Website`](https://wisconsinlinux.org) – Statewide – Connect with other GNU/Linux enthusiasts in and around Wisconsin!
 
 #### Wyoming
 
