@@ -144,11 +144,7 @@ Not that the USA is special, but it does have quite a lot of tech communities!
 
 #### Arizona
 
-- <details>
-  <summary><i>Must be invited by a member</i></summary>
-
-  - **{az}devs** – [~~`Website`~~](https://azdevs.org/) ([`archived`](https://web.archive.org/web/20200809053204/https://azdevs.org/)) • [`Facebook group`](https://www.facebook.com/groups/873973386288785/)[ⓘ](## "Inactive since 2020-02-17.") • [`GitHub`](https://github.com/azdevs)[ⓘ](## "Inactive since 2022-05-19.") • [~~`Slack`~~](https://azdevs.org/signin)[ⓘ](## "The Slack is active (as of 2024-03-10), but currently the only way to join is for an existing member to invite you via email.") – Statewide – {az}devs is a community created by and for local developers as a place to connect, communicate, and collaborate. This community aims to be a great place to chat and get help or advice, for those of us who attend every possible meetup, those who can't attend any, and everyone in between.
-</details>
+- **{az}devs** – [~~`Website`~~](https://azdevs.org/) ([`archived`](https://web.archive.org/web/20200809053204/https://azdevs.org/)) • [`Facebook group`](https://www.facebook.com/groups/873973386288785/)[ⓘ](## "Inactive since 2020-02-17.") • [`GitHub`](https://github.com/azdevs)[ⓘ](## "Inactive since 2022-05-19.") • [~~`Slack`~~](https://azdevs.org/signin)[ⓘ](## "The Slack is active (as of 2024-03-10), but currently the only way to join is for an existing member to invite you via email.") – Statewide – {az}devs is a community created by and for local developers as a place to connect, communicate, and collaborate. This community aims to be a great place to chat and get help or advice, for those of us who attend every possible meetup, those who can't attend any, and everyone in between.
 
 #### Arkansas
 
