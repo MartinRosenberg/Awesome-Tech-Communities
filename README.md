@@ -124,6 +124,7 @@ Please feel free to submit a Pull Request (or an Issue) to add a new community, 
 
 ### Sources
 
+- **[Austin Tech Meetups](https://github.com/tbarn/austin-tech-meetups)**
 - **[Awesome Community](https://github.com/phpearth/awesome-community)**
 - **[Chicago Engineering and Tech Communities and Organizations](https://github.com/driscoll42/chicago-engineering-and-tech-communities)**
 - **[DenverTech.community (archived)](https://web.archive.org/web/20240217173643/https://www.denvertech.community/)**
@@ -368,32 +369,27 @@ Cleveland has its own extensive list of communities and resources, [**Cleveland 
 - **Code for Philly** – [`Website`](https://codeforphilly.org) • [`Facebook page`](https://www.facebook.com/codeforphilly/) • [`LinkedIn page`](https://www.linkedin.com/company/code-for-philly/) • [`Meetup`](https://www.meetup.com/Code-for-Philly) • [`Slack`](https://codeforphilly.org/chat) • [`Twitter/X`](http://twitter.com/codeforphilly) – Philadelphia – Contribute towards technology-related projects that benefit the City of Philadelphia. No coding experience required.
 - **NEPA Tech** – [`Website`](http://www.nepa.tech) • [`Facebook page`](https://www.facebook.com/nepatechnology/) • [`Meetup`](https://www.meetup.com/nepatech/) • [`Slack`](https://nepatech.slack.com) – Northeast Pennsylvania – Northeast Pennsylvania's premier technology meetup! Each month we host a speaker in a field related to technology, business, and/or the arts at various venues around the Northeast Pennsylvania region.
 - **PhillyDev** – [`Website`](https://phillydev.org/) – [`Slack`](https://www.phillydev.org/#signup) [ⓘ](## "You must be invited by a member.") – Philadelphia – PhillyDev is a place for developers who live and work in and around Philly to share, converse, organize and get to know each other.
-- **Philly Startup Leaders** – [`Website`](https://www.phillystartupleaders.org) • [`Eventbrite`](https://www.eventbrite.com/o/philly-startup-leaders-16891796632) • [`Facebook page`](https://www.facebook.com/PhillyStartupLeaders/) • [`Instagram`](https://www.instagram.com/startupleaders/) • [`LinkedIn page`](https://www.linkedin.com/company/philly-startup-leaders/) • [`Slack`](https://sendgrowth.com/psl/) • [`Twitter/X`](https://twitter.com/startupleaders) – Philadelphia
-- **Tech Lancaster** – [`Website`](https://techlancaster.com) • [`Meetup`](https://www.meetup.com/tech-lancaster-meetups/) • [`Slack`](https://docs.google.com/forms/d/e/1FAIpQLSdYFrCzo-GXwYyJjMAlpWa87MwQnXpSIN6tJCJvirEhHZy9vw/viewform) – Lancaster
+- **Philly Startup Leaders** – [`Website`](https://www.phillystartupleaders.org) • [`Eventbrite`](https://www.eventbrite.com/o/philly-startup-leaders-16891796632) • [`Facebook page`](https://www.facebook.com/PhillyStartupLeaders/) • [`Instagram`](https://www.instagram.com/startupleaders/) • [`LinkedIn page`](https://www.linkedin.com/company/philly-startup-leaders/) • [`Slack`](https://sendgrowth.com/psl/) • [`Twitter/X`](https://twitter.com/startupleaders) – Philadelphia – Created by founders for founders, Philly Startup Leaders is the largest and most active community of startup entrepreneurs in Philadelphia. We are a 501(c)3 nonprofit, supporting current and future founders by providing them with the education, mentorship, and network needed to scale their businesses.
+- **Tech Lancaster** – [`Website`](https://techlancaster.com) • [`Meetup`](https://www.meetup.com/tech-lancaster-meetups/) • [`Slack`](https://docs.google.com/forms/d/e/1FAIpQLSdYFrCzo-GXwYyJjMAlpWa87MwQnXpSIN6tJCJvirEhHZy9vw/viewform) – Lancaster – Tech Lancaster is a social meetup of people who are interested in technology and want to learn more about it. The group is open to everyone regardless of experience or background.
 
 #### Tennessee
 
-- **[BoroDev](https://www.meetup.com/BoroDev/)** – `Slack` `Meetup` – Murfreesboro
-- **[Chadev](https://chadev.com)** – `Slack` – Chattanooga
-- **[Devanooga](https://www.devanooga.com/slack/)** – `Slack` – Chattanooga
-- **[NashDev](http://nashdev.com/)** – `Slack` – Nashville
-- **[TriDev](https://www.meetup.com/TriDev/)** – `Meetup` – Tri-Cities
-
-##### _Inactive or can't sign up_
-
-- **[KnoxDevs](http://knoxdevs-slackin.herokuapp.com/)** – `Slack` – Knoxville – Link is dead
-- **[MTF](http://slack.memphistechnology.org/)** – `Slack` – Memphis – Link is dead
+- **Boro.Dev** – [`GitHub`](https://github.com/BoroDevMeetup) • [`Meetup`](https://www.meetup.com/BoroDev/) • [`Slack`](https://forms.gle/eDywG2Qq5WGYrskB7) – Murfreesboro – Boro.Dev is a collection of the top software engineers in and around the Murfreesboro, TN area. Our aim is to develop their skills and establish the region as a technology hub. We welcome all levels of expertise and offer support to each member.
+- **Chadev** – [`Website`](https://chadev.com) • [`Facebook page`](https://www.facebook.com/chattanoogadevelopers) • [`GitHub`](https://github.com/chadev/) • [`Instagram`](https://www.instagram.com/chadevs/) • [`Slack`](https://join.slack.com/t/chadev/shared_invite/enQtNjc3NjAyODQyODk2LTdkZjA3ZjE5MDY1YTkzNmM4OWM4ZWVmZTY2ZTFjMTljMzIyMjQ1MTlhNGIzOWViMGUyYmMxZjM1YWE4ZTVkNjU) • [`Twitter/X`](https://twitter.com/chadevs) – Chattanooga
+- **devanooga** – [`Website`](https://www.devanooga.com) • [`GitHub`](https://github.com/devanooga) • [`Slack`](https://www.devanooga.com/slack/) • [`Twitter/X`](https://twitter.com/devanooga) – Chattanooga – devanooga is an online community for current developers, aspiring developers, and anyone who works closely with developers. This includes web designers, graphic designers, project managers, technology educators, and more. Even if you're simply curious about what we have going on, you're welcome to join.
+- **KnoxDevs** – [`Website`](https://knoxdevs.com) • [`GitHub`](https://github.com/knoxdevs) • [`Meetup`](https://meetup.com/knoxdevs) • [`Slack`](https://knoxdevs.com/#join-us-on-slack) • [`Twitter/X`](https://twitter.com/knoxdevs) • [`YouTube`](https://www.youtube.com/@KnoxDevs) – Knoxville
+- **Memphis Technology Foundation** – [`Website`](https://memphistechnology.org) • [`Facebook page`](https://www.facebook.com/MemphisTechnology) • [`Meetup`](https://www.meetup.com/memphis-technology-user-groups/) • [`Slack`](https://memphistechnology.org/blog/2015/05/19/join-memtech-on-slack-chat/)[ⓘ](## "Embedded signup form is dead.") • [`Twitter/X`](http://twitter.com/memtech) – Memphis – Memphis Technology Foundation is a group of people in Memphis with a diverse interest in Technology. We are user group leaders and participants interested in learning and growing our community.
+- **NashDev** – [`GitHub`](https://github.com/nashdev) • [`Slack`](https://nashdev.com/slack) – Nashville
+- **TriDev** – [`Website`](https://tricities.dev) • [`Discord`](https://discord.gg/GX7WQZukYj) • [`Meetup`](https://www.meetup.com/TriDev/) – Tri-Cities – TriDev is the largest developer community in the Tri-Cities.  With talks ranging from JavaScript and web development, databases, VR, entrepreneurship, IoT and more. You're sure to find what you're looking for here.
 
 #### Texas
 
-- **[San Antonio Devs](https://sanantoniodevs.com)** – `Slack` – San Antonio
+For more in Austin, check out [Austin Tech Meetups](https://github.com/tbarn/austin-tech-meetups).
 
-##### _Inactive or can't sign up_
-
-- **[Austin Code Mentorship](https://codementorship.slack.com)** – `Slack` – Austin – Signup is disabled
-- **[Open Austin](https://slack.open-austin.org/)** – `Slack` – Austin – Link is dead – Citizen brigade advocating for open government, open data
-- **[Refresh Austin](http://slack.refreshaustin.org/)** – `Slack` – Austin – Link is dead – Community of designers and developers
-- **[Weird Swift ATX](https://weirdswiftslack.mybluemix.net/)** – Austin – Link is dead
+- **Austin Code Mentorship** – [`Meetup`](https://www.meetup.com/austin-code-mentorship/) • [`Slack`](https://join.slack.com/t/codementorship/shared_invite/zt-1oplpmy7k-OhbdTId9npCcvdI63w5~Jw) – Austin – Austin Code Mentorship is an all-inclusive, loosely-structured group aiming to provide mentorship opportunities for people in the tech industry and those looking to get into the tech industry.
+- **Open Austin** – [`Website`](https://www.open-austin.org) • [`GitHub`](https://github.com/open-austin) • [`Instagram`](https://instagram.com/open_austin) • [`LinkedIn page`](https://www.linkedin.com/company/open-austin/) • [`Slack`](mailto:info@open-austin.org) • [`YouTube`](https://www.youtube.com/@openaustin203) – Austin – Open Austin addresses local social and civic challenges through creative uses of technology. We foster relationships between government, non- and for-profit organizations, and resident activists.
+- **Refresh Austin** – [`Website`](https://www.refreshaustin.org/) • [`Meetup`](https://www.meetup.com/Austin-Web-Design/) • [~~`Slack`~~](http://slack.refreshaustin.org/) – Austin – Refresh Austin is an organization of Web professionals working together to foster new ideas and refresh the creative, technical and professional aspects of their trade. The Web Design Meetup is set up to funnel new Austin web professionals into Refresh Austin.
+- **San Antonio Developers** – [`Website`](https://sanantoniodevs.com) • [`GitHub`](https://github.com/SADevs) • [`Slack`](https://sanantoniodevs.com/join-slack.html) • [`Twitter/X`](https://twitter.com/SA_Devs) – San Antonio – We are a group of developers who live in and around San Antonio, TX. We are a techology agnostic group and spend our time collaborating on projects, asking and answering questions regarding technology or career development, and meeting together to share ideas, projects, and more.
 
 #### Utah
 
