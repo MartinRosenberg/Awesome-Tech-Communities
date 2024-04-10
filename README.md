@@ -363,17 +363,12 @@ Cleveland has its own extensive list of communities and resources, [**Cleveland 
 
 #### Pennsylvania
 
-- **[Code & Supply](https://codeandsupply.co/chat)** – `Slack` `Discord` – Pittsburgh
-- **[Code for Philly](https://codeforphilly.org/register)** – `Slack` – Philadelphia
-- **[NEPA Tech](https://nepatech.slack.com/)** – `Slack` – Northeast Pennsylvania
-- **[The Philly Startup Leaders](https://www.sendgrowth.com/psl/)** – `Slack` – Philadelphia
-
-##### _Inactive or can't sign up_
-
-- **[Lancaster Technologists](https://amishtech.slack.com/)** – `Slack` – Lancaster – Can only sign up with email address at a few obscure domains
-- **[PhillyDev](https://phillydev.org/)** – `Slack` – Philadelphia – Signup form is missing
-- **[Phl Design](https://docs.google.com/forms/d/e/1FAIpQLScaAROJx4kZQ7cPhATWWhfmpHK3YP6ourLgPalPwRqIMI1bmg/viewform?c=0&w=1)** – Philadelphia – Link is dead
-- **[Wilkes-Barre Programming Community](https://wbpc-meetup.slack.com/)** – `Slack` – Northeast Pennsylvania – Signup is disabled
+- **Code & Supply** – [`Website`](https://codeandsupply.co) • [`Discord`](https://codeandsupply.co/chat) • [`Meetup`](https://www.meetup.com/Pittsburgh-Code-Supply/) • [`Slack`](https://codeandsupply.co/chat) – Pittsburgh – Code & Supply is a community for software professionals building software, community, and friendships together.
+- **Code for Philly** – [`Website`](https://codeforphilly.org) • [`Facebook page`](https://www.facebook.com/codeforphilly/) • [`LinkedIn page`](https://www.linkedin.com/company/code-for-philly/) • [`Meetup`](https://www.meetup.com/Code-for-Philly) • [`Slack`](https://codeforphilly.org/chat) • [`Twitter/X`](http://twitter.com/codeforphilly) – Philadelphia – Contribute towards technology-related projects that benefit the City of Philadelphia. No coding experience required.
+- **NEPA Tech** – [`Website`](http://www.nepa.tech) • [`Facebook page`](https://www.facebook.com/nepatechnology/) • [`Meetup`](https://www.meetup.com/nepatech/) • [`Slack`](https://nepatech.slack.com) – Northeast Pennsylvania – Northeast Pennsylvania's premier technology meetup! Each month we host a speaker in a field related to technology, business, and/or the arts at various venues around the Northeast Pennsylvania region.
+- **PhillyDev** – [`Website`](https://phillydev.org/) – [`Slack`](https://www.phillydev.org/#signup) [ⓘ](## "You must be invited by a member.") – Philadelphia – PhillyDev is a place for developers who live and work in and around Philly to share, converse, organize and get to know each other.
+- **Philly Startup Leaders** – [`Website`](https://www.phillystartupleaders.org) • [`Eventbrite`](https://www.eventbrite.com/o/philly-startup-leaders-16891796632) • [`Facebook page`](https://www.facebook.com/PhillyStartupLeaders/) • [`Instagram`](https://www.instagram.com/startupleaders/) • [`LinkedIn page`](https://www.linkedin.com/company/philly-startup-leaders/) • [`Slack`](https://sendgrowth.com/psl/) • [`Twitter/X`](https://twitter.com/startupleaders) – Philadelphia
+- **Tech Lancaster** – [`Website`](https://techlancaster.com) • [`Meetup`](https://www.meetup.com/tech-lancaster-meetups/) • [`Slack`](https://docs.google.com/forms/d/e/1FAIpQLSdYFrCzo-GXwYyJjMAlpWa87MwQnXpSIN6tJCJvirEhHZy9vw/viewform) – Lancaster
 
 #### Tennessee
 
