@@ -128,6 +128,7 @@ Please feel free to submit a Pull Request (or an Issue) to add a new community, 
 - **[DenverTech.community (archived)](https://web.archive.org/web/20240217173643/https://www.denvertech.community/)**
 - **[The Full List of 1000 Slack Communities](https://docs.google.com/spreadsheets/d/14WooUa7p-5T1T-kXlTMRWSFeJl2c8-6MOIJUEH-wnaQ/edit?usp=sharing)**
 - **[Slack List](https://slack.directory/)**
+- **[Tech Birmingham Community Resources](https://techbirmingham.com/about/community-resources/)**
 - **[This Dot Tech Community Slacks](https://github.com/thisdot/tech-community-slacks)**
 - **[Welcome to the Baltimore Tech Scene](https://www.caseywatts.com/blog/welcome-to-baltimore-tech/)**
 
@@ -138,6 +139,8 @@ Please feel free to submit a Pull Request (or an Issue) to add a new community, 
 Not that the USA is special, but it does have quite a lot of tech communities!
 
 #### Alabama
+
+Tech Birmingham provides a list of [community resources](https://techbirmingham.com/about/community-resources/) for the Birmingham area.
 
 - **Magic City Tech** – [`Website`](http://magiccitytech.org/) • [`Slack`](https://mcbrihk.typeform.com/to/WA79Go) – Birmingham area – Magic City Tech is a group for Birmingham area developers, designers, marketers, business people, hobbyists, students, and other professionals involved in technology.
 - **tech256** – [`Website`](https://tech256.com/) • [`Slack`](https://tech256.com/#invite) – North Alabama – We're a group of developers, designers, marketers, business people, hobbyists, students, and other professionals with two common interests: North Alabama and technology.
