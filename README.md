@@ -4,6 +4,7 @@ This is a list of tech communities, on Slack, Discord, Meetup, or elsewhere.
 
 Please feel free to submit a Pull Request (or an Issue) to add a new community, information about an existing community, or to indicate a community becoming active or inactive.
 
+> [!NOTE]
 > Many of these communities were found on other lists but are apparently inaccessible or inactive. However, any of them may still be present or active in places or ways I am unaware of, or able to be brought back, so I am still presenting the information I've found.
 
 ## Table of Contents
