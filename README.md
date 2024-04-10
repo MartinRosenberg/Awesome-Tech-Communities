@@ -393,11 +393,11 @@ For more in Austin, check out [Austin Tech Meetups](https://github.com/tbarn/aus
 
 #### Utah
 
-##### _Inactive or can't sign up_
-
-- **[QA Utah](https://qautah.slack.com/)** – `Slack` – Statewide – Signup is disabled
-- **[UtahJS](https://slack.utahjs.com/)** – `Slack` – Statewide – Link is dead
-- **[Utah Ruby User Group](http://urug.herokuapp.com/)** – `Slack` – Statewide – Link is dead
+- **QA at the Point** – [`Website`](https://www.qap.dev) • [`GitHub`](http://github.com/qa-at-the-point/) • [`Meetup`](https://www.meetup.com/qa-at-the-point/) – Lehi – QA at the Point (QAP) is the Software Testing and Quality Community based in Utah, USA. We have events happening every week with monthly meetups with presentations, hands-on classes, and more!
+- **QA Utah** – [`Slack`](https://qautah.slack.com/join/shared_invite/enQtMzQwMjYxOTYyMDIwLTI3Y2EyOWIwMjMyNTNlYTM4YTc1ZTdmOGRiMWY2NDUzNzk5MWFjMWNmNjdlMmI3Y2ZlOTRlZGM3MjhmNzNmYmI) – Statewide
+- **UtahJS** – [`Website`](https://utahjs.com) • [`LinkedIn group`](https://www.linkedin.com/groups/6635311/) • [`Meetup`](https://www.meetup.com/utahjs/) • [~~`Slack`~~](https://slack.utahjs.com/) • [`Twitter/X`](https://twitter.com/utjs) • [`YouTube`](https://www.youtube.com/@UtahJS) – Statewide
+- **Utah Ruby User Group** – [`Website`](https://urug.org) • [`GitHub`](https://github.com/urug) • [`Google Groups`](https://groups.google.com/g/urug)[ⓘ](## "Inactive since 2022-11-22.") • [`Meetup`](https://www.meetup.com/Utah-Ruby-Users-Group/) • [~~`Slack`~~](http://urug.herokuapp.com/) – Statewide
+- **Women Who Test – Utah County** – [`Meetup`](https://www.meetup.com/Women-Who-Test-Lehi) – Lehi
 
 #### Virginia
 
