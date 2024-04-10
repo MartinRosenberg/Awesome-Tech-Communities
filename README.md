@@ -417,7 +417,7 @@ For more in Austin, check out [Austin Tech Meetups](https://github.com/tbarn/aus
 
 #### Washington, D.C.
 
-- **[DC Tech Slack](http://www.dctechslack.com)** – `Slack`
+- **DC Tech Slack** – [`Slack`](https://dctech.chat) – We're a free, public Slack for the Washington, DC Tech community. With over 10000 members, we have channels focused on everything from #python to #politics.
 
 #### Wisconsin
 
