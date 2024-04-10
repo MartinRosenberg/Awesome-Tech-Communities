@@ -405,15 +405,15 @@ For more in Austin, check out [Austin Tech Meetups](https://github.com/tbarn/aus
 
 #### Washington
 
-##### _Inactive or can't sign up_
+- **Digital Aid Seattle** – [`Website`](https://www.digitalaidseattle.org) • [`GitHub`](https://github.com/openseattle) • [`LinkedIn page`](https://www.linkedin.com/company/digitalseattle/) – Seattle – Digital Aid Seattle comprises a group of seasoned professionals with experience in web development, software engineering, digital strategy, visual and content design, and more. We leverage this vast experience to transform the nonprofit sector—to make it more efficient, effective, and accessible to all.
+- **Seattle JS Hackers** – [`Website`](https://seattlejshackers.com) • [`Meetup`](https://www.meetup.com/seattlejshackers/) • [`Slack`](https://join.slack.com/t/seattlejshackers/shared_invite/enQtMzYzMDcwNzQ3Nzk0LTcxZDI5NjA1MjIwYzdkYjQ5ZDhhYjVlNzg1MjljZTg5NjU1YTRlYzhjMjNiZTQ0Y2NkMGRkOTQ2N2Q2N2VjYzU) • [`Twitter/X`](https://twitter.com/js_hackers) • [`YouTube`](https://www.youtube.com/@seattlejshackers1771)[ⓘ](## "Inactive since 2020-12-15") – Seattle – Seattle JS Hackers is an open and inclusive after-hours community of JavaScript hackers who learn and hack in JavaScript together. We are entrepreneurs, creatives, professionals, tinkerers, computer scientists, educators, marketers, and more – all working to ignite and amplify our personal productivity and collaboration.
+- **Seattle.rb** – [`Website`](https://seattlerb.org) • [`Slack`](https://join.slack.com/t/seattlerb/shared_invite/zt-n9ut2ybq-uTabTrrGbYbzIcbXvIxH0g) – Seattle – Seattle.rb was the first Ruby (and subsequently Ruby on Rails) user group in the world and has met regularly for well over a decade. We convene every Tuesday night to contribute to open source, work on personal projects, and teach and learn from one another. All skill levels are welcome!
+- **Seattle UX Happy Hour** – [`Facebook group`](https://www.facebook.com/groups/504515246328963/) – Seattle – UX Happy Hour is a simple meetup for Seattle area folks who are interested in design. We're friendly, informal and enjoy sharing drinks and conversations. Anyone interested is welcome to attend as long as you are friendly and respectful.
+- <details>
+  <summary><i>Inactive</i></summary>
 
-- **[Angular Seattle](https://angular-seattle.slack.com)** – `Slack` – Seattle – Signup is disabled
-- **[Open Seattle](https://openseattle.slack.com)** – `Slack` – Seattle – Archived
-- **[Seattle Code Crafters](https://seattlecodecrafters.slack.com)** – `Slack` – Seattle – Can only sign up with email address at a few obscure domains
-- **[Seattle Designers](https://seattledesigners.slack.com)** – `Slack` – Seattle – Can only sign up with email address at a few obscure domains
-- **[Seattle JS Hackers](https://seattlejshackers.slack.com)** – `Slack` – Seattle – Signup is disabled
-- **[Seattle.rb](https://seattlerbslack.herokuapp.com/)** – `Slack` – Seattle – Link is dead
-- **[Tech Seattle](https://techseattle.slack.com)** – `Slack` – Seattle – Signup is disabled
+  - **Angular Seattle** – [`Website`](https://angular-seattle.netlify.app) • [`GitHub`](https://github.com/angular-seattle) • [~~`Meetup`~~](https://www.meetup.com/Angular-Seattle/) • [`Slack`](https://angular-seattle.slack.com)[ⓘ](## "Signup is disabled.") • [`Twitter/X`](https://twitter.com/ngSeattle)[ⓘ](## "Inactive since 2021-09-23.") • [`YouTube`](https://www.youtube.com/@AngularSeattle)[ⓘ](## "Inactive since 2020-04-23.") – Seattle
+</details>
 
 #### Washington, D.C.
 
