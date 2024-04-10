@@ -401,11 +401,7 @@ For more in Austin, check out [Austin Tech Meetups](https://github.com/tbarn/aus
 
 #### Virginia
 
-##### _Inactive or can't sign up_
-
-- **[Cville](https://cville.slack.com)** – `Slack` – Charlottesville – Signup is disabled
-- **[NRVDev](https://nrvdev.slack.org)** – `Slack` – New River Valley – Link is dead
-- **[Rocktown Tech](https://rocktowntech.slack.com)** – `Slack` – Shenandoah Valley – Signup is disabled
+- **NRV DEV** – [`Website`](https://nrv.dev) • [`GitHub`](https://github.com/nrvdev) • [`Slack`](https://join.slack.com/t/nrvdev/shared_invite/zt-gjioaiup-3olv2DFgNvmVTf0bllKw4Q) • [`Twitter/X`](https://twitter.com/nrvdev)[ⓘ](## "Inactive since 2020-10-20.") – New River Valley – A community connecting developers throughout the New River Valley.
 
 #### Washington
 
