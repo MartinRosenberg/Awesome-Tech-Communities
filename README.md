@@ -428,9 +428,7 @@ DevWi hosts a [list of Wisconsin Meetups](https://devwi.com/groups), and Choose 
 
 #### Wyoming
 
-- **Fort Collins Internet Professionals** – `Meetup` `Slack` – Northern Colorado, Southeastern Wyoming – This group is for web professionals of all types - designers, developers, programmers, copywriters, photographers, videographers, marketers and search engine specialists in Northern Colorado and southeastern Wyoming. Aspiring web pros are also welcome. We'll meet to discuss anything from web standards to managing clients to search engine optimization. Join to learn, share, and meet like-minded people!
-  - [Meetup](https://www.meetup.com/gofcip/)
-  - [Slack](https://tinyurl.com/techslack2022)
+See [Colorado](#colorado) for communities in the Fort Collins area.
 
 ### Other countries
 
