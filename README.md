@@ -178,7 +178,7 @@ Tech Birmingham provides a list of [community resources](https://techbirmingham.
 
 #### Colorado
 
-Until something else rises to take its place, the archive of [**DenverTech.community**](https://web.archive.org/web/20240217173643/https://www.denvertech.community/) is still an excellent resource for Denver (and a bit elsewhere in Colorado, too).
+Until something else rises to take its place, the archive of [**DenverTech.community**](https://web.archive.org/web/20240217173643/https://www.denvertech.community/) is still an excellent resource for Denver (and a bit elsewhere in Colorado, too). For meetups (as opposed to communities per se), Colorado Tech Community has a [**List of Meetups**](https://github.com/ColoradoTechCommunity/List-of-Meetups).
 
 - **Angular Colorado** – [`Slack`](https://slack.angularcolorado.com/) – Statewide
 - **Colorado = Security** – [`Website`](https://www.colorado-security.com/) • [`Podcast (on Apple Podcasts)`](https://podcasts.apple.com/us/podcast/colorado-security-podcast/id1203599493)[ⓘ](## "Also available on your preferred podcast app.") • [`Slack`](https://www.colorado-security.com/join-slack) – Statewide – Colorado = Security is the home for all things information security in Colorado. It's your place to connect with the local security community, see the calendar of upcoming events, and of course, listen to Colorado's only security podcast.
