@@ -201,10 +201,6 @@ Until something else rises to take its place, the archive of [**DenverTech.commu
   - **Rocky Mountain Angular** – [`Meetup`](https://www.meetup.com/RockyMountainAngular/)[ⓘ](## "Inactive since 2020-12-17.") – Statewide?
 </details>
 
-#### Connecticut
-
-- **NewHaven.io** – [`Website`](https://newhaven.io) • [`Discord`](https://discord.gg/yP7WxSXq5h) • [`GitHub`](https://github.com/newhavenio) • [`Google Groups`](https://groups.google.com/g/newhavenio)[ⓘ](## "Inactive since 2022-10-22.") • [`Meetup`](https://www.meetup.com/newhavenio/) • [`Twitter/X`](https://twitter.com/newhavenio)[ⓘ](## "Inactive since 2021-10-14.") – New Haven – NewHaven.io acts as the hub of the local tech community by helping its members learn, solve problems, and connect with the local tech scene.
-
 #### Florida
 
 - **Orlando Devs** – [`Website`](https://orlandodevs.com/) • [`Eventbrite`](https://www.eventbrite.com/o/orlando-devs-15266001174) • [`GitHub`](https://github.com/OrlandoDevs)[ⓘ](## "Inactive since 2022-10-25.") • [`Patreon`](https://www.patreon.com/odevs) • [`Slack`](https://orlandodevs.com/slack) • [Twitter/X](https://twitter.com/OrlandoDevs)[ⓘ](## "Inactive since 2023-01-27.") – Orlando – An open community and online chat for Software Developers with 1,000+ members. Who knew so many people were interested in writing code in Orlando, FL?
