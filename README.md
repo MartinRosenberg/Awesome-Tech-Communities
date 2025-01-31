@@ -26,7 +26,6 @@ Links for communities below [Regional](#regional) (i.e., those starting with [Co
     - [Arkansas](#arkansas)
     - [California](#california)
     - [Colorado](#colorado)
-    - [Connecticut](#connecticut)
     - [Florida](#florida)
     - [Georgia](#georgia)
     - [Hawaii](#hawaii)
