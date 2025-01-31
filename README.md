@@ -285,7 +285,7 @@ For more information on Baltimore tech communities, [**Welcome to the Baltimore 
 - <details>
   <summary><i>Inactive</i></summary>
 
-- **Startup Lansing** – [~~`Website`~~](http://startuplansing.org/)[ⓘ](## "Spam squatter redirect") • [~~`Slack`~~](http://startuplansing.org/join-slack/)[ⓘ](## "Spam squatter redirect") – Lansing
+  - **Startup Lansing** – [~~`Website`~~](http://startuplansing.org/)[ⓘ](## "Spam squatter redirect") • [~~`Slack`~~](http://startuplansing.org/join-slack/)[ⓘ](## "Spam squatter redirect") – Lansing
 
 #### Minnesota
 
