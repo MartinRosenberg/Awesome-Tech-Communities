@@ -373,6 +373,10 @@ Cleveland has its own extensive list of communities and resources, [**Cleveland 
 - **Philly Startup Leaders** – [`Website`](https://www.phillystartupleaders.org) • [`Eventbrite`](https://www.eventbrite.com/o/philly-startup-leaders-16891796632) • [`Facebook page`](https://www.facebook.com/PhillyStartupLeaders/) • [`Instagram`](https://www.instagram.com/startupleaders/) • [`LinkedIn page`](https://www.linkedin.com/company/philly-startup-leaders/) • [`Slack`](https://sendgrowth.com/psl/) • [`Twitter/X`](https://twitter.com/startupleaders) – Philadelphia – Created by founders for founders, Philly Startup Leaders is the largest and most active community of startup entrepreneurs in Philadelphia. We are a 501(c)3 nonprofit, supporting current and future founders by providing them with the education, mentorship, and network needed to scale their businesses.
 - **Tech Lancaster** – [`Website`](https://techlancaster.com) • [`Meetup`](https://www.meetup.com/tech-lancaster-meetups/) • [`Slack`](https://docs.google.com/forms/d/e/1FAIpQLSdYFrCzo-GXwYyJjMAlpWa87MwQnXpSIN6tJCJvirEhHZy9vw/viewform) – Lancaster – Tech Lancaster is a social meetup of people who are interested in technology and want to learn more about it. The group is open to everyone regardless of experience or background.
 
+#### South Carolina
+
+- **HackGreenville** – [`Slack`](https://hackgreenville.com/join-slack) – Greenville
+
 #### Tennessee
 
 - **Boro.Dev** – [`GitHub`](https://github.com/BoroDevMeetup) • [`Meetup`](https://www.meetup.com/BoroDev/) • [`Slack`](https://forms.gle/eDywG2Qq5WGYrskB7) – Murfreesboro – Boro.Dev is a collection of the top software engineers in and around the Murfreesboro, TN area. Our aim is to develop their skills and establish the region as a technology hub. We welcome all levels of expertise and offer support to each member.
