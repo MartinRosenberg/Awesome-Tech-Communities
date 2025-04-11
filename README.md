@@ -59,9 +59,9 @@ Links for communities below [Regional](#regional) (i.e., those starting with [Co
     - [Caribbean Countries 🇧🇸🇧🇧🇧🇿🇨🇺🇩🇲🇩🇴🇬🇩🇬🇾🇭🇹🇯🇲🇰🇳🇱🇨🇻🇨🇸🇷🇹🇹](#caribbean-countries-)
     - [Cote d'Ivoire (Ivory Coast) 🇨🇮](#cote-divoire-ivory-coast-)
     - [Canada 🇨🇦](#canada-)
-    - [🇨🇱 Chile](#-chile)
-    - [🇩🇰 Denmark](#-denmark)
-    - [🇫🇮 Finland](#-finland)
+    - [Chile 🇨🇱](#chile-)
+    - [Denmark 🇩🇰](#denmark-)
+    - [Finland 🇫🇮](#finland-)
     - [France 🇫🇷](#france-)
     - [Germany 🇩🇪](#germany-)
     - [Ghana 🇬🇭](#ghana-)
@@ -500,7 +500,7 @@ See [Colorado](#colorado) for communities in the Fort Collins area.
   - **[YYC Design & Development](https://yycdesign.slack.com)** – `Slack` – Calgary, Alberta – Signup is disabled
 </details>
 
-#### 🇨🇱 Chile
+#### Chile 🇨🇱
 
 - **[Angular Chile](http://bit.ly/AngularChileSlack)** – `Slack` – Santiago
 - **[DevsChile](https://devschile.cl/)** – `Slack` – Countrywide – Community for all kind of tech related enthusiasts/professionals
@@ -511,12 +511,12 @@ See [Colorado](#colorado) for communities in the Fort Collins area.
   - **[Pro-Gramadores](https://pro-gramadores.org/)** – Santiago – Link is dead
 </details>
 
-#### 🇩🇰 Denmark
+#### Denmark 🇩🇰
 
 - **[Dev DK](https://slack.devdk.org/)** – `Slack` – Countrywide
 - **[Women in Tech DK](https://www.womenintech.dk/)** – `Instagram`...?
 
-#### 🇫🇮 Finland
+#### Finland 🇫🇮
 
 - **[Koodiklinikka](https://koodiklinikka.fi/)** – `Slack` – Finnish developer Slack community that has over 1024 registered members
 - **[Turku ❤️ Frontend](https://turkufrontend.fi)** – `Slack` – Turku – Finnish, English-speaking, Turku-based frontend developer community
