@@ -240,7 +240,7 @@ Until something else rises to take its place, the archive of [**DenverTech.commu
 
 #### Illinois
 
-Chicago is home to a large number of engineering and tech communities. Only a select few large, active groups are documented here. For a much deeper dive into Chicago communities, see [**Chicago Engineering and Tech Communities and Organizations**](https://github.com/driscoll42/chicago-engineering-and-tech-communities); and for a tech event calendar, see [**Chicago Tech Community Events**](https://chitechcommunityevents.softr.app/).
+Chicago is home to a large number of engineering and tech communities. Only a select few large, active groups are documented here. For a much deeper dive into Chicago communities, see [**Chicago Engineering and Tech Communities and Organizations**](https://github.com/driscoll42/chicago-engineering-and-tech-communities); and for a tech event calendar, see [**Chicago Tech Community Events**](https://chiirl.com/).
 
 <!-- This is somehow related to Chicago Tech Slack: https://re-factor.co/ -->
 
