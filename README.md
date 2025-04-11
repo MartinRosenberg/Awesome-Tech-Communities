@@ -290,17 +290,15 @@ For more information on Baltimore tech communities, [**Welcome to the Baltimore 
 #### Minnesota
 
 - **Minnestar** – [`Website`](https://minnestar.org/) – Minnestar is a non-profit dedicated to promoting connections in the Minneapois-St. Paul Tech Community. On their website they host a list of a [large number of MSP based tech communities and groups](https://minnestar.org/community/guide-to-mntech/)
-- **MinneAnalytics** - [`Website`](https://minneanalytics.org/) - Similar to Minnestar, MinneAnalytics is focused on serving the data science and tech community of Minnesota. They too host a [list of a number of Data Science focused User Groups on their website](https://minneanalytics.org/user-group-meetups/).
+- **MinneAnalytics** – [`Website`](https://minneanalytics.org/) – Similar to Minnestar, MinneAnalytics is focused on serving the data science and tech community of Minnesota. They too host a [list of a number of Data Science focused User Groups on their website](https://minneanalytics.org/user-group-meetups/).
+- **MSPTech** – [`GitHub`](https://github.com/msp-tech)[ⓘ](## "Inactive since 2020-03-30.") • [`Slack`](https://join.slack.com/t/msptech/shared_invite/zt-2ovyjlbcz-P7trwDrsh5YoeEctsrtdjQ) – Twin Cities
+- **MSP Tech** (yes, it's different) – [`Discord`](https://discord.gg/3srdSetPuP) • [`Meetup`](https://www.meetup.com/msp-tech/) – Twin Cities
+- **PyMNtos - Twin Cities Python User Group** – [`Meetup`](https://www.meetup.com/pymntos-twin-cities-python-user-group/) – Twin Cities
 - **Twin Cities Chaos Engineering Community** – [`Meetup`](https://www.meetup.com/twin-cities-chaos-engineering-community/) • [`Slack`](http://twincities-chaosengr.slack.com)[ⓘ](## "Signup is restricted to one seemingly random whitelisted domain.") – This is a group for reliability engineering disciplines to get together and share ideas on Chaos Engineering. If you're passionate about building a more resilient system so you can sleep at night come hang out with us!
-- <details>
-  <summary><i>Inactive</i></summary>
-
-  - **MSPTech** – [~~`Website`~~](https://www.msptech.online/) • [`GitHub`](https://github.com/msp-tech)[ⓘ](## "Inactive since 2020-03-30.") • [~~`Slack`~~](https://msptech.herokuapp.com/) – Twin Cities
-</details>
 
 #### Missouri
 
-- **Amazon Web Services Kansas City User Group** – [`Meetup`](https://www.meetup.com/awskcug/) • [`Slack`](http://awskcslack.com/) • [`Twitter/X`](https://twitter.com/awskcug) – Kansas City metro area - This group is for all current (and potential) users of Amazon Web Services. We'll talk about general cloud topics as they pertain to AWS such as security, scalability, architecture, etc.
+- **Amazon Web Services Kansas City User Group** – [`Meetup`](https://www.meetup.com/awskcug/) • [`Slack`](http://awskcslack.com/) • [`Twitter/X`](https://twitter.com/awskcug) – Kansas City metro area – This group is for all current (and potential) users of Amazon Web Services. We'll talk about general cloud topics as they pertain to AWS such as security, scalability, architecture, etc.
 - **ISACA Greater Kansas City Chapter** – [`Website`](https://engage.isaca.org/greaterkansascitychapter/home) • [`LinkedIn`](https://www.linkedin.com/company/isacakc/) • [`Twitter/X`](https://twitter.com/ISACA_KC) – Kansas City – The ISACA KC Chapter promotes the education of individuals relating to the auditing of, management consulting in, or direct management of the fields of IT governance, IS audit, security, control and assurance.
 - **ISC2 Kansas City Chapter** – [`Website`](https://isc2kc.org/) – Kansas City – ISC2 is the world’s leading member association for cybersecurity professionals. Our more than 600,000 members, candidates and associates lead the profession with the same shared vision.
 - **Kansas City Women in Technology** – [`Website`](https://kcwomenintech.org/) • [`Facebook page`](https://www.facebook.com/KCWomenInTech) • [`Slack`](https://kcwomenintech.org/join-our-slack-community) • [`Twitter/X`](https://twitter.com/kcwomenintech) – Kansas City – We're a grassroots organization helping to grow the number of women in technology careers in Kansas City.
