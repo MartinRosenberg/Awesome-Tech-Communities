@@ -783,6 +783,7 @@ The below have not yet been checked:
 ### Other
 
 - **[BabelJS](https://slack.babeljs.io/)**
+- **[Drupal](https://www.drupal.org/slack)**
 - **[EmberJS](https://ember-community-slackin.herokuapp.com/)**
 - **[FeathersJS](http://slack.feathersjs.com/)**
 - **[Hashtag NodeJS](https://hashtagnodejs.slack.com/messages/C066268AG/)**
