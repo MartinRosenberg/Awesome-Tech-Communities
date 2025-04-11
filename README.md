@@ -834,7 +834,8 @@ The below have not yet been checked:
 
 ## Security
 
-- **[Node.js Security WG](https://nodejs-security-wg.herokuapp.com)**
+- **[Node.js Ecosystem Security Working Group](https://github.com/nodejs/security-wg)**
+- **[Falco Security](https://kubernetes.slack.com/messages/falco)**
 
 ## Technologies
 
