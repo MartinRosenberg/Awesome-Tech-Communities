@@ -292,7 +292,7 @@ For more information on Baltimore tech communities, [**Welcome to the Baltimore 
 
 - **Minnestar** – [`Website`](https://minnestar.org/) – Minnestar is a non-profit dedicated to promoting connections in the Minneapois-St. Paul Tech Community. On their website they host a list of a [large number of MSP based tech communities and groups](https://minnestar.org/community/guide-to-mntech/)
 - **MinneAnalytics** – [`Website`](https://minneanalytics.org/) – Similar to Minnestar, MinneAnalytics is focused on serving the data science and tech community of Minnesota. They too host a [list of a number of Data Science focused User Groups on their website](https://minneanalytics.org/user-group-meetups/).
-- **MSP Tech** (yes, it's different) – [`Discord`](https://discord.gg/3srdSetPuP) • [`Meetup`](https://www.meetup.com/msp-tech/) – Twin Cities
+- **MSP Tech** – [`Discord`](https://discord.gg/3srdSetPuP) • [`Meetup`](https://www.meetup.com/msp-tech/) – Twin Cities
 - **PyMNtos - Twin Cities Python User Group** – [`Meetup`](https://www.meetup.com/pymntos-twin-cities-python-user-group/) – Twin Cities
 - **Twin Cities Chaos Engineering Community** – [`Meetup`](https://www.meetup.com/twin-cities-chaos-engineering-community/) • [`Slack`](http://twincities-chaosengr.slack.com)[ⓘ](## "Signup is restricted to one seemingly random whitelisted domain.") – This is a group for reliability engineering disciplines to get together and share ideas on Chaos Engineering. If you're passionate about building a more resilient system so you can sleep at night come hang out with us!
 
